@@ -1,0 +1,100 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 11779
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.7
+
+[Metadata]
+Title:Marolio, le da sabor a tu vida
+TitleUnicode:Marolio, le da sabor a tu vida
+Artist:Andrea Baez
+ArtistUnicode:Andrea Baez
+Creator:MaestroSplinter
+Version:Hazu's Easy
+Source:
+Tags:Marolio TV Commercial Hazu Lince a_r_m_i_n Lami emilia
+BeatmapID:1456593
+BeatmapSetID:654246
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:3.5
+ApproachRate:3
+SliderMultiplier:1.1
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Bg marolio.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+10058,487.80487804878,4,1,2,26,1,0
+11765,476.190476190476,4,1,2,26,1,0
+19384,468.75,4,1,2,26,1,0
+25009,480,4,1,2,26,1,0
+28849,468.75,4,1,2,26,1,0
+28849,-100,4,1,2,26,0,1
+28966,-100,4,1,2,26,0,0
+29200,-100,4,1,2,5,0,0
+29317,454.545454545455,4,1,2,26,1,1
+30226,476.190476190476,4,1,2,26,1,1
+30702,476.190476190476,4,1,2,26,1,1
+32606,483.870967741935,4,1,2,26,1,1
+33331,500,4,1,2,26,1,0
+33831,521.739130434783,4,1,2,26,1,0
+34091,545.454545454546,4,1,2,26,1,0
+34091,-100,4,1,2,20,0,0
+35181,600,4,1,2,18,1,0
+36981,-100,4,1,2,5,0,0
+
+
+[Colours]
+Combo1 : 255,255,255
+Combo2 : 255,0,0
+Combo3 : 255,255,0
+
+[HitObjects]
+104,88,10058,6,0,P|108:132|112:208,1,110
+168,264,11033,2,0,P|164:304|160:336,1,55
+252,336,11765,6,0,P|260:252|272:168,2,165
+172,368,13669,2,0,P|100:372|20:312,2,165
+252,336,15574,6,0,P|304:328|368:336,1,110
+444,364,16526,2,0,P|436:312|428:236,1,110
+384,180,17479,2,0,P|388:132|396:8,2,165
+312,232,19384,5,0,0:0:0:0:
+248,172,19852,1,0,0:0:0:0:
+176,220,20321,2,0,P|120:216|48:212,1,110
+36,296,21259,2,0,P|92:300|204:308,2,165
+8,212,23134,6,0,B|0:156|0:156|16:44,2,165
+36,296,25009,2,0,P|84:308|192:248,1,165
+240,192,26209,2,0,P|236:248|232:364,1,165
+320,368,27409,2,0,P|320:332|324:244,2,110
+232,376,28849,5,0,0:0:0:0:
+144,360,29317,2,0,P|100:324|104:164,1,220
+184,168,30702,2,0,P|164:112|60:96,2,165
+240,236,32606,6,0,B|324:260|324:208|416:232,1,165
+484,244,33831,2,0,P|480:208|476:164,1,55
+428,116,34636,1,0,0:0:0:0:
+344,152,35181,2,0,P|304:148|272:148,1,55
+200,140,36081,1,0,0:0:0:0:
+256,192,36381,12,0,40131,0:0:0:0:

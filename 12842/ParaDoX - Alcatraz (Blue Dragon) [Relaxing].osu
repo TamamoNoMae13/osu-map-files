@@ -1,0 +1,87 @@
+osu file format v6
+
+[General]
+AudioFilename: PARADOX - Alcatraz (Adobe Photoshop CS2).mp3
+AudioLeadIn: 3000
+PreviewTime: 15474
+Countdown: 1
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1.5
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Alcatraz
+Artist:ParaDoX
+Creator:Blue Dragon
+Version:Relaxing
+Source:
+Tags:keygen chiptune
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:1
+SliderMultiplier:0.5
+SliderTickRate:0.5
+
+[Events]
+//Background and Video events
+0,0,"AlcatrazBG.jpg"
+//Break Periods
+2,30572,37812
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+132,480,4,2,0,40,1,0
+54342,-100,4,2,0,0,0,0
+
+[Colours]
+Combo1 : 0,100,121
+Combo2 : 192,192,192
+Combo3 : 62,183,255
+SliderBorder : 172,172,172
+
+[HitObjects]
+360,80,612,2,0,B|336:72|336:104|320:104,1,50,0|2
+208,104,1812,1,0
+208,288,3012,1,2
+432,288,4452,6,0,B|464:288|464:248,1,50,0|8
+464,144,5652,1,0
+464,32,6372,2,0,B|352:32,1,100,2|8
+224,32,8292,5,2
+152,32,8772,2,0,B|48:80|80:208,1,200,0|4
+256,336,12132,6,0,B|256:280,1,50,0|8
+256,176,13332,1,0
+256,64,14052,2,0,B|256:8,3,50,2|0|2|0
+256,168,16452,5,8
+192,72,17172,2,2,B|104:80|128:168,1,125,2|6
+344,192,19812,5,8
+168,192,21012,1,8
+256,168,21732,2,2,B|256:224,3,50,2|2|2|6
+336,88,24132,5,8
+336,200,24852,2,2,B|336:336,1,125,2|6
+112,320,27492,5,2
+112,136,28692,2,0,B|112:48,1,75,8|0
+264,64,30372,1,0
+120,192,39492,6,2,B|208:192,1,75,2|0
+384,192,41412,1,4
+256,376,42852,6,8,B|256:320,1,50,8|2
+256,216,44052,2,0,B|256:136,1,75,0|0
+296,80,45252,2,0,B|256:40,1,50,0|2
+112,80,46692,6,0,B|112:336,1,250,0|4
+336,280,50532,5,8
+336,96,51732,1,0
+176,192,52932,2,2,B|120:192,1,50,0|6
+256,208,53652,12,0,59652

@@ -1,0 +1,100 @@
+osu file format v14
+
+[General]
+AudioFilename: seal_the_3rd.mp3
+AudioLeadIn: 0
+PreviewTime: 199
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 2
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 0.4
+
+[Metadata]
+Title:seal the 3rd.mp4
+TitleUnicode:seal the 3rd.mp4
+Artist:joeyclassic
+ArtistUnicode:joeyclassic
+Creator:Intelli
+Version:Prophecy's Kantan
+Source:
+Tags:sequel sealquel trilogy meme cute extended Prophecy Midnaait Surono ArMiN A_r_M_i_N IntelliTroodon
+BeatmapID:905992
+BeatmapSetID:418272
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:5
+OverallDifficulty:4
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"seal 3 bg.jpg",0,-75
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+199,425.531914893617,4,1,0,75,1,0
+13816,-100,4,1,0,75,0,1
+20624,-100,4,1,0,75,0,0
+
+
+[HitObjects]
+256,192,199,5,2,0:0:0:0:
+256,192,1050,1,2,0:0:0:0:
+256,192,1901,1,2,0:0:0:0:
+256,192,2326,1,2,0:0:0:0:
+256,192,2752,1,0,0:0:0:0:
+256,192,3603,1,2,0:0:0:0:
+256,192,5305,1,0,0:0:0:0:
+256,192,5730,1,0,0:0:0:0:
+256,192,6156,1,2,0:0:0:0:
+256,192,7007,1,2,0:0:0:0:
+256,192,7858,1,2,0:0:0:0:
+256,192,8709,1,2,0:0:0:0:
+256,192,9135,1,2,0:0:0:0:
+256,192,9560,1,0,0:0:0:0:
+256,192,10411,1,0,0:0:0:0:
+256,192,11262,1,2,0:0:0:0:
+256,192,12113,1,2,0:0:0:0:
+256,192,12964,1,0,0:0:0:0:
+256,192,13816,1,2,0:0:0:0:
+256,192,14241,1,2,0:0:0:0:
+256,192,14667,1,0,0:0:0:0:
+256,192,15518,1,2,0:0:0:0:
+256,192,15943,1,2,0:0:0:0:
+256,192,16369,1,0,0:0:0:0:
+256,192,17220,1,0,0:0:0:0:
+256,192,18071,1,0,0:0:0:0:
+256,192,18922,1,2,0:0:0:0:
+256,192,19347,1,2,0:0:0:0:
+256,192,19773,1,0,0:0:0:0:
+256,192,20624,1,2,0:0:0:0:
+256,192,21475,1,2,0:0:0:0:
+256,192,22326,1,0,0:0:0:0:
+256,192,22752,1,0,0:0:0:0:
+256,192,23177,1,2,0:0:0:0:
+256,192,24028,1,2,0:0:0:0:
+256,192,25730,1,2,0:0:0:0:
+256,192,26156,1,2,0:0:0:0:
+256,192,26581,1,0,0:0:0:0:
+256,192,27433,1,2,0:0:0:0:
+256,192,28284,1,2,0:0:0:0:
+256,192,29135,1,0,0:0:0:0:
+256,192,29560,1,0,0:0:0:0:
+256,192,29986,1,2,0:0:0:0:
+256,192,30411,1,0,0:0:0:0:

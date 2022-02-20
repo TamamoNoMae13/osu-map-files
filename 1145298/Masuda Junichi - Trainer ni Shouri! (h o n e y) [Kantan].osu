@@ -1,0 +1,114 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 517
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 3
+GridSize: 16
+TimelineZoom: 1.1
+
+[Metadata]
+Title:Trainer ni Shouri!
+TitleUnicode:トレーナーに勝利！
+Artist:Masuda Junichi
+ArtistUnicode:増田順一
+Creator:h o n e y
+Version:Kantan
+Source:ポケットモンスターブラック・ホワイト
+Tags:cynp-zy nds ds nintendo gen v 5 unova bw battle fanfare victory -GN Junior Pokémon Black & White: Super Music Collection Pokemon OVCP-0002 OVERLAP Freak Video Game Instrumental Cynplytholowazy honey vgm
+BeatmapID:2444387
+BeatmapSetID:1145298
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:4
+OverallDifficulty:2
+ApproachRate:6
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bruh.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+517,375,4,1,0,75,1,0
+517,-83.3333333333333,4,1,0,75,0,0
+2017,375,4,1,0,75,1,8
+2037,375,4,1,0,65,1,0
+2037,-100,4,1,0,65,0,0
+27474,-100,4,1,0,55,0,0
+27911,-100,4,1,0,45,0,0
+28161,-100,4,1,0,40,0,0
+28474,-100,4,1,0,35,0,0
+28911,-100,4,1,0,25,0,0
+29286,-100,4,1,0,20,0,0
+29661,-100,4,1,0,15,0,0
+30036,-100,4,1,0,10,0,0
+30411,-100,4,1,0,5,0,0
+
+
+[HitObjects]
+254,191,517,5,4,0:0:0:0:
+255,191,892,1,4,0:0:0:0:
+254,191,1267,1,6,0:0:0:0:
+255,192,2037,1,2,0:0:0:0:
+257,192,2787,1,0,0:0:0:0:
+257,191,3537,1,0,0:0:0:0:
+256,192,3912,1,2,0:0:0:0:
+257,194,4287,1,0,0:0:0:0:
+254,193,5037,1,0,0:0:0:0:
+255,195,5787,1,0,0:0:0:0:
+267,214,6162,1,2,0:0:0:0:
+260,189,6537,1,2,0:0:0:0:
+257,192,8037,1,6,0:0:0:0:
+256,190,8787,1,0,0:0:0:0:
+253,195,9537,1,2,0:0:0:0:
+253,196,10287,1,0,0:0:0:0:
+256,192,11037,1,0,0:0:0:0:
+256,192,12537,5,0,0:0:0:0:
+256,192,13287,1,0,0:0:0:0:
+256,192,13662,1,0,0:0:0:0:
+256,192,14037,1,6,0:0:0:0:
+256,193,14787,1,0,0:0:0:0:
+239,182,15537,1,2,0:0:0:0:
+264,193,16287,1,0,0:0:0:0:
+255,192,17037,1,0,0:0:0:0:
+256,192,17412,1,2,0:0:0:0:
+258,187,17787,1,2,0:0:0:0:
+262,194,18537,1,0,0:0:0:0:
+256,192,18912,1,0,0:0:0:0:
+256,192,19287,1,2,0:0:0:0:
+255,196,20037,1,12,0:0:0:0:
+256,196,20787,1,2,0:0:0:0:
+259,190,21537,1,0,0:0:0:0:
+248,204,22287,1,2,0:0:0:0:
+256,192,23037,1,0,0:0:0:0:
+256,192,24537,5,0,0:0:0:0:
+256,192,25287,1,0,0:0:0:0:
+267,198,26037,1,6,0:0:0:0:
+261,195,26787,1,0,0:0:0:0:
+256,192,27162,1,2,0:0:0:0:
+246,196,27537,1,0,0:0:0:0:
+253,197,28287,1,2,0:0:0:0:
+256,192,29037,1,8,0:0:0:0:
+256,192,29412,1,8,0:0:0:0:
+256,192,29787,1,0,0:0:0:0:
+256,192,30537,1,8,0:0:0:0:

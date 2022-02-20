@@ -1,0 +1,108 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 3974
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 2.9
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 0.6999999
+
+[Metadata]
+Title:Aqua-dan Toujou!
+TitleUnicode:アクア団登場！
+Artist:Ichinose Go
+ArtistUnicode:一之瀬剛
+Creator:Default Guy
+Version:Hivie's Kantan
+Source:ポケットモンスタールビー・サファイア
+Tags:video game instrumental team theme appears pokemon pokémon hoenn antagonist sapphire gen 3 III encounter ruby gameboy advanced gba nintendo company freak pocket monsters hivie
+BeatmapID:2674753
+BeatmapSetID:1287382
+
+[Difficulty]
+HPDrainRate:9.5
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:10
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"1410760970152.jpg",0,90
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+211,430.10752688172,4,1,0,60,1,8
+641,430.10752688172,4,1,0,60,1,0
+17845,-100,4,1,0,60,0,1
+31608,-100,4,1,0,60,0,0
+
+
+[HitObjects]
+256,192,640,5,8,0:0:0:0:
+256,192,1071,1,8,0:0:0:0:
+256,192,1716,1,0,0:0:0:0:
+256,192,2361,1,8,0:0:0:0:
+256,192,3221,1,8,0:0:0:0:
+256,192,3651,1,8,0:0:0:0:
+256,96,4081,1,4,0:0:0:0:
+256,192,4511,1,8,0:0:0:0:
+256,192,5372,1,8,0:0:0:0:
+256,192,5802,1,0,0:0:0:0:
+256,192,6662,1,0,0:0:0:0:
+256,192,7092,1,8,0:0:0:0:
+256,192,7522,1,8,0:0:0:0:
+256,192,8813,1,0,0:0:0:0:
+256,192,9243,1,8,0:0:0:0:
+256,192,10103,1,0,0:0:0:0:
+256,192,10533,1,0,0:0:0:0:
+256,96,10963,1,12,0:0:0:0:
+256,192,11393,1,0,0:0:0:0:
+256,192,12253,1,8,0:0:0:0:
+256,192,12684,1,0,0:0:0:0:
+256,192,13544,1,8,0:0:0:0:
+256,192,13974,1,0,0:0:0:0:
+256,192,14404,1,8,0:0:0:0:
+256,192,15694,1,0,0:0:0:0:
+256,192,16124,1,8,0:0:0:0:
+256,192,16985,5,8,0:0:0:0:
+256,192,17845,1,0,0:0:0:0:
+256,192,18705,1,8,0:0:0:0:
+256,192,19135,1,8,0:0:0:0:
+256,192,19565,1,0,0:0:0:0:
+256,192,20425,1,0,0:0:0:0:
+256,192,20856,1,0,0:0:0:0:
+256,192,21286,1,8,0:0:0:0:
+256,192,21716,1,0,0:0:0:0:
+256,192,23006,1,8,0:0:0:0:
+256,192,23651,1,8,0:0:0:0:
+256,192,24296,1,0,0:0:0:0:
+256,192,24727,1,8,0:0:0:0:
+256,192,25587,1,8,0:0:0:0:
+256,192,26447,1,0,0:0:0:0:
+256,192,26877,1,8,0:0:0:0:
+256,192,27307,1,0,0:0:0:0:
+256,192,28167,1,8,0:0:0:0:
+256,192,28813,1,8,0:0:0:0:
+256,192,29458,1,0,0:0:0:0:
+256,192,29888,1,8,0:0:0:0:
+256,192,30748,1,0,0:0:0:0:
+256,192,31178,1,0,0:0:0:0:
+256,96,31608,1,12,0:0:0:0:

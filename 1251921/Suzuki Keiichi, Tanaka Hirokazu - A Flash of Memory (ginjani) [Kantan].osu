@@ -1,0 +1,105 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 24917
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.4
+BeatDivisor: 8
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:A Flash of Memory
+TitleUnicode:A Flash of Memory
+Artist:Suzuki Keiichi, Tanaka Hirokazu
+ArtistUnicode:鈴木慶一, 田中宏和
+Creator:ginjani
+Version:Kantan
+Source:MOTHER 2 ギーグの逆襲
+Tags:Shigesato Itoi 糸井 重里 Ape HAL Laboratory Earthbound Gyiyg no Gyakushū SNES Super Nintendo Famicom peace Entertainment System 大森暁生 上村律夫 Ritsuo Kamimura Satoru Iwata 岩田 聡 video game electronic instrumental Horiiizon
+BeatmapID:2602028
+BeatmapSetID:1251921
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:5
+OverallDifficulty:2.5
+ApproachRate:4.3
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"hhhhhhhhhhhhhh.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+349,767.754318618042,4,1,0,10,1,0
+1788,-100,4,1,0,30,0,0
+6395,-100,4,1,0,50,0,0
+40176,-100,4,1,0,40,0,0
+40944,-100,4,1,0,35,0,0
+41711,-100,4,1,0,25,0,0
+42479,-100,4,1,0,15,0,0
+43247,-100,4,1,0,5,0,0
+
+
+[HitObjects]
+265,192,349,5,0,0:0:0:0:
+265,192,1116,1,8,0:0:0:0:
+265,192,1884,1,0,0:0:0:0:
+265,192,3420,1,8,0:0:0:0:
+265,192,4187,1,8,0:0:0:0:
+265,192,4955,1,0,0:0:0:0:
+265,192,6491,1,0,0:0:0:0:
+265,192,7258,1,8,0:0:0:0:
+265,192,8026,1,8,0:0:0:0:
+265,192,9562,1,8,0:0:0:0:
+265,192,10329,1,0,0:0:0:0:
+265,192,10713,1,0,0:0:0:0:
+265,192,11865,1,8,0:0:0:0:
+265,192,12633,1,0,0:0:0:0:
+265,192,13400,1,8,0:0:0:0:
+265,192,14168,1,0,0:0:0:0:
+265,192,15704,1,8,0:0:0:0:
+265,192,16471,1,0,0:0:0:0:
+265,192,17239,1,8,0:0:0:0:
+265,192,18775,1,0,0:0:0:0:
+265,192,19542,1,8,0:0:0:0:
+265,192,20310,1,8,0:0:0:0:
+265,192,21846,1,0,0:0:0:0:
+265,192,22613,1,8,0:0:0:0:
+265,192,22997,1,8,0:0:0:0:
+265,192,24149,1,0,0:0:0:0:
+265,192,24917,1,8,0:0:0:0:
+265,192,25684,1,8,0:0:0:0:
+265,192,26452,1,0,0:0:0:0:
+265,192,27988,1,8,0:0:0:0:
+265,192,28755,1,0,0:0:0:0:
+265,192,29523,1,8,0:0:0:0:
+265,192,31059,1,0,0:0:0:0:
+265,192,31826,1,8,0:0:0:0:
+265,192,32594,1,0,0:0:0:0:
+265,192,34130,1,0,0:0:0:0:
+265,192,34897,1,8,0:0:0:0:
+265,192,35281,1,8,0:0:0:0:
+265,192,36433,1,8,0:0:0:0:
+265,192,37201,1,0,0:0:0:0:
+265,192,37968,1,8,0:0:0:0:
+265,192,38736,1,0,0:0:0:0:
+256,192,40272,12,0,43343,0:0:0:0:

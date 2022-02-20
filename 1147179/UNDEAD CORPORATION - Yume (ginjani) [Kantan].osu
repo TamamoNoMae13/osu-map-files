@@ -1,0 +1,106 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 6710
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 12
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Yume
+TitleUnicode:ゆめ
+Artist:UNDEAD CORPORATION
+ArtistUnicode:UNDEAD CORPORATION
+Creator:ginjani
+Version:Kantan
+Source:osu!
+Tags:featured artist piano fa instrumental video game touhou pinetree complete box dream パインツリー project 鬼ーoniー 夢  紅染の鬼が哭く Benizome no Oni ga Naku yasuho yenmaster
+BeatmapID:2514968
+BeatmapSetID:1147179
+
+[Difficulty]
+HPDrainRate:9
+CircleSize:2
+OverallDifficulty:2
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"yume.jpg",0,100
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+6881,683.760683760684,4,1,0,40,1,0
+6881,-100,4,1,0,40,0,0
+13718,697.674418604651,4,1,0,40,1,8
+13718,-98.0392156862745,4,1,0,40,0,0
+15113,743.034055727554,4,1,0,40,1,0
+15113,-91.743119266055,4,1,0,40,0,0
+18085,674.157303370787,4,1,0,40,1,0
+18085,-101.419878296146,4,1,0,40,0,0
+33590,-100,4,1,0,20,0,0
+34264,666.666666666667,4,1,0,20,1,0
+34264,-102.564102564103,4,1,0,20,0,0
+35597,655.737704918033,4,1,0,20,1,8
+35597,-104.166666666667,4,1,0,20,0,0
+36908,683.760683760684,4,1,0,20,1,0
+36908,-100,4,1,0,20,0,0
+38617,-100,4,1,0,40,0,0
+
+
+[HitObjects]
+266,261,6881,5,8,0:0:0:0:
+85,147,8248,1,0,0:0:0:0:
+209,121,8932,1,0,0:0:0:0:
+209,121,9274,1,8,0:0:0:0:
+209,121,9616,1,0,0:0:0:0:
+307,88,10299,1,8,0:0:0:0:
+307,88,10641,1,0,0:0:0:0:
+307,88,10983,1,8,0:0:0:0:
+315,225,12351,1,0,0:0:0:0:
+181,232,13034,1,8,0:0:0:0:
+181,232,13376,1,0,0:0:0:0:
+181,232,13718,1,8,0:0:0:0:
+174,180,14415,1,0,0:0:0:0:
+175,180,14764,1,0,0:0:0:0:
+176,181,15113,1,8,0:0:0:0:
+268,149,16599,1,8,0:0:0:0:
+155,221,18085,1,0,0:0:0:0:
+155,221,18759,1,0,0:0:0:0:
+155,221,19433,1,8,0:0:0:0:
+191,166,20781,1,0,0:0:0:0:
+155,221,21455,1,0,0:0:0:0:
+155,221,22129,1,8,0:0:0:0:
+242,156,23478,1,8,0:0:0:0:
+155,221,24152,1,8,0:0:0:0:
+155,221,24826,1,0,0:0:0:0:
+155,221,26174,1,0,0:0:0:0:
+155,221,26849,1,8,0:0:0:0:
+33,159,27523,1,8,0:0:0:0:
+230,185,28871,1,0,0:0:0:0:
+35,158,29545,1,8,0:0:0:0:
+35,158,30219,1,0,0:0:0:0:
+35,158,31568,1,0,0:0:0:0:
+35,158,32242,1,8,0:0:0:0:
+54,180,32916,1,0,0:0:0:0:
+256,192,33927,12,0,37933,0:0:0:0:
+170,147,39358,5,8,0:0:0:0:

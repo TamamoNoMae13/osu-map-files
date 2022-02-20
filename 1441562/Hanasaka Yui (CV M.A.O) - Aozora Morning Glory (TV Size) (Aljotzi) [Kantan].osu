@@ -1,0 +1,97 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 15480
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 15697,29610
+DistanceSpacing: 0.6
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Aozora Morning Glory (TV Size)
+TitleUnicode:青空モーニンググローリー (TV Size)
+Artist:Hanasaka Yui (CV: M.A.O)
+ArtistUnicode:花坂結衣(CV: M·A·O)
+Creator:Aljotzi
+Version:Kantan
+Source:One Room セカンドシーズン
+Tags:pop anime japanese oneroom season two second s2 カントク kantoku mao ichimichi 市道 真央 ワンルーム female solo vocals SMIRAL スマイラル 奥井康介 稲葉エミ Kosuke Okui Emi Inaba
+BeatmapID:2965583
+BeatmapSetID:1441562
+
+[Difficulty]
+HPDrainRate:9
+CircleSize:2
+OverallDifficulty:2
+ApproachRate:2.5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg1.jpg",0,-30
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+45,434.782608695652,4,1,0,65,1,0
+15697,-100,4,1,0,65,0,1
+29610,-100,4,1,0,65,0,0
+
+
+[HitObjects]
+256,192,45,12,0,1349,0:0:0:0:
+255,191,1784,5,8,0:0:0:0:
+255,191,3523,1,8,0:0:0:0:
+256,192,5262,1,8,0:0:0:0:
+256,192,6131,1,8,0:0:0:0:
+256,192,7001,1,8,0:0:0:0:
+256,192,7871,1,0,0:0:0:0:
+256,192,8740,1,12,0:0:0:0:
+256,192,10479,1,4,0:0:0:0:
+256,192,11784,1,0,0:0:0:0:
+256,192,12218,1,12,0:0:0:0:
+256,192,13088,1,8,0:0:0:0:
+256,192,13958,1,8,0:0:0:0:
+256,192,14392,1,8,0:0:0:0:
+256,192,14827,1,0,0:0:0:0:
+256,192,15697,1,12,0:0:0:0:
+256,192,16566,1,8,0:0:0:0:
+256,192,17001,1,8,0:0:0:0:
+256,192,17436,1,8,0:0:0:0:
+256,192,18305,1,0,0:0:0:0:
+256,192,19175,1,8,0:0:0:0:
+256,192,19610,1,0,0:0:0:0:
+256,192,20044,1,8,0:0:0:0:
+256,192,20914,1,8,0:0:0:0:
+256,192,22218,1,0,0:0:0:0:
+256,192,22653,1,12,0:0:0:0:
+256,192,23523,1,0,0:0:0:0:
+256,192,23958,1,0,0:0:0:0:
+256,192,24392,1,8,0:0:0:0:
+256,192,25262,1,8,0:0:0:0:
+256,192,26131,1,12,0:0:0:0:
+256,192,26566,1,8,0:0:0:0:
+256,192,27001,1,0,0:0:0:0:
+256,192,27436,1,0,0:0:0:0:
+256,192,27871,1,8,0:0:0:0:
+256,192,28740,1,0,0:0:0:0:
+256,192,29175,1,0,0:0:0:0:
+256,192,29610,1,12,0:0:0:0:
+256,192,29827,12,0,30914,0:0:0:0:

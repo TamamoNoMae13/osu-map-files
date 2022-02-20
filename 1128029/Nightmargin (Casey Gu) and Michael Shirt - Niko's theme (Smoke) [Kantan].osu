@@ -1,0 +1,95 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 113
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.4
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.5
+BeatDivisor: 3
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Niko's theme
+TitleUnicode:Niko's theme
+Artist:Nightmargin (Casey Gu) and Michael Shirt
+ArtistUnicode:Nightmargin (Casey Gu) and Michael Shirt
+Creator:Smoke
+Version:Kantan
+Source:OneShot
+Tags:instrumental solstice ambient video game niko little cat feet
+BeatmapID:2356559
+BeatmapSetID:1128029
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:3
+OverallDifficulty:2
+ApproachRate:10
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"oneshot.jpg",0,-125
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+113,642.907657030195,4,1,0,40,1,0
+25829,-100,4,1,0,25,0,0
+
+
+[HitObjects]
+256,192,113,5,0,0:0:0:0:
+256,192,755,1,8,0:0:0:0:
+256,192,1398,1,0,0:0:0:0:
+256,192,2684,1,0,0:0:0:0:
+256,192,3327,1,8,0:0:0:0:
+256,192,3970,1,0,0:0:0:0:
+256,192,5256,1,0,0:0:0:0:
+256,192,5899,1,8,0:0:0:0:
+256,192,6542,1,8,0:0:0:0:
+256,192,7184,1,8,0:0:0:0:
+256,192,7827,1,0,0:0:0:0:
+256,192,8470,1,8,0:0:0:0:
+256,192,9113,1,0,0:0:0:0:
+256,192,10399,1,0,0:0:0:0:
+256,192,11042,1,8,0:0:0:0:
+256,192,11685,1,8,0:0:0:0:
+256,192,12327,1,8,0:0:0:0:
+256,192,12970,1,0,0:0:0:0:
+256,192,13613,1,8,0:0:0:0:
+256,192,14256,1,0,0:0:0:0:
+256,192,15542,1,0,0:0:0:0:
+256,192,16185,1,8,0:0:0:0:
+256,192,16828,1,8,0:0:0:0:
+256,192,17471,1,8,0:0:0:0:
+256,192,18114,1,0,0:0:0:0:
+256,192,18757,1,8,0:0:0:0:
+256,192,19400,1,0,0:0:0:0:
+256,192,20686,1,0,0:0:0:0:
+256,192,21328,1,8,0:0:0:0:
+256,192,21971,1,8,0:0:0:0:
+256,192,22614,1,8,0:0:0:0:
+256,192,23257,1,0,0:0:0:0:
+256,192,23900,1,8,0:0:0:0:
+256,192,24543,1,0,0:0:0:0:
+256,192,25186,1,0,0:0:0:0:
+256,192,25829,12,0,28079,0:0:0:0:
+256,192,28400,12,0,30651,0:0:0:0:
+256,192,30972,12,0,33222,0:0:0:0:
+256,192,33544,12,0,36115,0:0:0:0:

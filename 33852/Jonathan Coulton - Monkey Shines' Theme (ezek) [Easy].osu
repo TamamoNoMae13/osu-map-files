@@ -1,0 +1,95 @@
+osu file format v9
+
+[General]
+AudioFilename: Jonathan Coulton - Monkey Shines.mp3
+AudioLeadIn: 2000
+PreviewTime: 11900
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+
+[Metadata]
+Title:Monkey Shines' Theme
+Artist:Jonathan Coulton
+Creator:ezek
+Version:Easy
+Source:
+Tags:winber1 OzzyOzrock The Aftermath
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:1
+ApproachRate:2
+SliderMultiplier:0.9
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+Video,-1400,"Monkey Shines.avi"
+0,0,"BG.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+-10,375,4,2,0,35,1,0
+11990,-100,4,1,0,40,0,0
+23990,-100,4,1,0,40,0,1
+35990,-100,4,1,0,40,0,0
+41990,-100,4,1,0,40,0,1
+46115,-100,4,1,0,40,0,0
+
+
+[HitObjects]
+48,48,740,2,0,B|128:108|216:48,1,180,2|2
+296,112,2052,2,0,B|380:48|464:112,1,180
+472,288,3740,1,2
+368,288,4302,1,0
+40,288,5990,6,0,B|40:104,2,180,2|2|2
+144,312,8052,2,0,B|184:200|144:72,1,225,0|4
+432,48,10490,5,4
+432,192,11240,2,4,B|432:264|432:264|432:304|400:336|400:336|368:368,1,180
+312,336,12365,1,8
+168,336,13115,5,0
+168,192,13865,1,8
+40,264,14615,1,0
+40,120,15365,1,8
+168,48,16115,1,0
+296,120,16865,5,8
+416,48,17615,2,0,B|472:136|416:216,1,180,0|8
+280,176,19115,2,0,B|224:264|280:344,1,180,0|8
+416,312,20615,5,0
+280,344,21365,1,8
+140,312,22115,1,0
+256,192,22490,12,4,23990
+164,48,25115,6,0,B|364:48,1,180,0|8
+256,160,26615,1,0
+112,160,27365,1,8
+116,340,28302,2,4,B|132:324|188:356|208:340,3,90
+256,248,29990,2,0,B|436:260,1,180,4|0
+440,188,31115,5,8
+388,52,31865,1,0
+256,112,32615,1,8
+124,52,33365,1,0
+32,212,34302,2,4,B|32:308,3,90
+132,340,35990,5,0
+204,340,36365,2,0,B|388:340,1,180,0|8
+456,212,37865,1,0
+372,96,38615,1,0
+324,44,38990,2,0,B|139:73|39:201|74:375,1,450,8|0
+144,348,41240,1,0
+216,224,41990,6,4,B|272:272|272:344,4,135
+340,152,44990,2,4,B|284:104|284:32,2,135

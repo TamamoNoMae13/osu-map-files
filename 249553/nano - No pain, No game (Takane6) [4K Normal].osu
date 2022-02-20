@@ -1,0 +1,1052 @@
+osu file format v14
+
+[General]
+AudioFilename: No Pain, No Game by Nano.mp3
+AudioLeadIn: 0
+PreviewTime: 127472
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 133005,151320
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1.1
+
+[Metadata]
+Title:No pain, No game
+TitleUnicode:No pain, No game
+Artist:nano
+ArtistUnicode:ナノ
+Creator:Takane6
+Version:4K Normal
+Source:BTOOOM!
+Tags:Remillion Cross Julie Japanese Anime Rock
+BeatmapID:574797
+BeatmapSetID:249553
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"btooom!.jpg",0,0
+Video,0,"no pain no game_.avi"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+367,315.789473684211,4,1,0,45,1,0
+8104,315.789473684211,4,1,0,45,1,8
+52156,-100,4,1,0,45,0,1
+72525,-100,4,1,0,45,0,0
+107735,-100,4,1,0,45,0,1
+128104,-100,4,1,0,45,0,0
+163314,-100,4,1,0,45,0,1
+173577,-100,4,1,0,45,0,0
+
+
+[HitObjects]
+320,192,1630,128,0,2893:0:0:0:40:LR_Tom Hit.wav
+192,192,2893,128,0,4156:0:0:0:40:LR_Tom Hit.wav
+448,192,4156,128,0,5419:0:0:0:40:LR_Tom Hit.wav
+64,192,5419,128,0,6682:0:0:0:40:LR_Tom Hit.wav
+320,192,6682,128,0,7945:0:0:0:40:LR_Tom Hit.wav
+192,192,7945,1,0,0:0:0:40:LR_Tom Hit.wav
+64,192,8103,128,0,9367:0:0:0:40:LR_Tom Hit.wav
+448,192,9367,128,0,10630:0:0:0:40:LR_Tom Hit.wav
+64,192,10630,128,0,11893:0:0:0:40:LR_Tom Hit.wav
+448,192,11893,1,0,0:0:0:100:G#6S_Ab6S_s.wav
+192,192,12051,1,0,0:0:0:40:A#5S_Bb5S_s.wav
+64,192,12209,1,0,0:0:0:40:C6S_s.wav
+320,192,12367,1,0,0:0:0:100:G6S_s.wav
+448,192,12525,1,0,0:0:0:40:G#5S_Ab5S_s.wav
+64,192,12682,1,0,0:0:0:40:C6S_s.wav
+448,192,12840,1,0,0:0:0:40:F6S.wav
+448,192,13788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,13946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,14104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,14261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,14419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,14419,1,0,0:0:0:40:LR_Drum Finish.wav
+64,192,14893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,14893,1,0,0:0:0:40:LR_Drum Finish.wav
+320,192,15367,1,0,0:0:0:40:LR_Drum Finish.wav
+448,192,15367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,16946,128,0,17261:0:0:0:40:LR_Tom Hit.wav
+320,192,17419,128,0,17735:0:0:0:40:LR_Tom Hit.wav
+64,192,17893,128,0,18209:0:0:0:40:LR_Tom Hit.wav
+448,192,18367,128,0,18682:0:0:0:40:LR_Tom Hit.wav
+192,192,18840,128,0,19156:0:0:0:40:LR_Tom Hit.wav
+320,192,19156,128,0,19472:0:0:0:40:LR_Tom Hit.wav
+64,192,19472,128,0,19788:0:0:0:40:LR_Tom Hit.wav
+320,192,19946,128,0,20261:0:0:0:40:LR_Tom Hit.wav
+448,192,20419,128,0,20735:0:0:0:40:LR_Tom Hit.wav
+192,192,20893,128,0,21209:0:0:0:40:LR_Tom Hit.wav
+320,192,21367,128,0,21682:0:0:0:40:LR_Tom Hit.wav
+192,192,21682,128,0,21998:0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,21998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,21998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,22314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,22314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,22630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,22788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,22946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,22946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,23261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,23419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,23577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,23577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,23893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,24051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,24209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,24209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,24525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,24525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,24840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,24840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,25156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,25314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,25472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,25472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,25788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,25946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,26104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,26104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,26419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,26577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,26735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,26735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,26893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,26972,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,27051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,27051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,27367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,27367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,27682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,27840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,27998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,27998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,28314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,28472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,28630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,28630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,28946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,29104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,29261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,29261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,29577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,29577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,29893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,29893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,30209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,30367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,30525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,30525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,30840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,30998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,31156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,31156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,31472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,31630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,31788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,31788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,32104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,32104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,32261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,32419,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,32577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,32893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,33051,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,33525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,33682,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,33998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,34156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,34314,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,34630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,34788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,34946,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,35104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,35419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,35577,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,35735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,36051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,36209,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,36525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,36682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,36840,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,37156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,37314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,37472,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,37630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,37946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,38104,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,38261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,38577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,38735,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,39051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,39209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,39367,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,39682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,39840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,39998,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,40156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,40472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,40630,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,40788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,40946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,41104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,41261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,41419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,41577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,41735,1,0,0:0:0:40:LR_Tom Normal.wav
+192,192,41893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,42051,1,0,0:0:0:40:LR_Tom Hit.wav
+64,192,42051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,42367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,42525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,42840,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,42840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,43156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,43314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,43630,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,43630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,43788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,44104,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,44104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,44419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,44577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,44893,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,45051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,45209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,45367,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,45367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,45682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,45840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,46156,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,46314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,46630,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,46946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,47104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,47261,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+64,192,47261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,47577,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+64,192,47893,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+448,192,48209,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+192,192,48525,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+448,192,48840,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+64,192,49156,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+192,192,49314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,49472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,49630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,49788,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+64,192,49788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,50261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,50261,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+448,192,50735,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+64,192,50735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,50893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,50893,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+192,192,52156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,52156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,52472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,52630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,52630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,52946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,53104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,53261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,53261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,53419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,53735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,53893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,53893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,54209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,54367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,54525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,54525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,54682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,54998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,55156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,55156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,55472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,55630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,55788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,55788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,55946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,56261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,56577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,56893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,57051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,57051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,57209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,57209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,57525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,57682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,57682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,57998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,58156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,58314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,58314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,58472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,58788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,58946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,58946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,59261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,59419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,59577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,59577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,59735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,60051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,60209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,60209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,60525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,60525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,60840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,60840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,61156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,61156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,61472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,61630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,61788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,61946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,62261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,62261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,62577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,62735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,62735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,63051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,63209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,63367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,63367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,63525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,63840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,63998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,63998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,64314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,64472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,64630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,64630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,64788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,65104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,65261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,65261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,65577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,65735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,65893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,65893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,66051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,66367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,66682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,66998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,67314,1,0,0:0:0:40:LR_Drum Finish.wav
+448,192,67314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,67630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,67788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,67946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,68104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,68261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,68419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,68577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,68735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,68893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,69051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,69209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,69367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,69525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,69682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,69840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,69998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,69998,1,0,0:0:0:40:LR_Drum Finish.wav
+192,192,70472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,70472,1,0,0:0:0:40:LR_Drum Finish.wav
+448,192,70946,1,0,0:0:0:40:LR_Drum Finish.wav
+320,192,70946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,71419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,71577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,71735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,71893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,72209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,72525,1,0,0:0:0:100:G#6S_Ab6S_s.wav
+448,192,72682,1,0,0:0:0:40:A#5S_Bb5S_s.wav
+320,192,72840,1,0,0:0:0:40:C6S_s.wav
+192,192,72998,1,0,0:0:0:100:G6S_s.wav
+320,192,73156,1,0,0:0:0:40:G#5S_Ab5S_s.wav
+192,192,73314,1,0,0:0:0:40:C6S_s.wav
+64,192,73472,1,0,0:0:0:40:F6S.wav
+448,192,74419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,74419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,74735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,74735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,75051,1,0,0:0:0:40:LR_Drum Finish.wav
+64,192,75051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,75525,1,0,0:0:0:40:LR_Drum Finish.wav
+320,192,75525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,75998,1,0,0:0:0:40:LR_Drum Finish.wav
+448,192,75998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,76946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,77104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,77261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,77419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,77577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,77577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,77893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,77893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,78209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,78367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,78525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,78525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,78840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,78998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,79156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,79156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,79472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,79788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,79788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,80104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,80419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,80419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,80735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,80893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,81051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,81051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,81367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,81525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,81682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,81682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,81998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,82314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,82314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,82630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,82946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,82946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,83261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,83419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,83577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,83577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,83893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,84051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,84209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,84209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,84525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,84840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,84840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,85156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,85472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,85472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,85788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,85946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,85946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,86261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,86419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,86419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,86735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,86893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,86893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,87209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,87367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,87367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,87682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,87682,1,0,0:0:0:40:LR_Drum Finish.wav
+320,192,88314,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,89419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,89577,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,90209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,90840,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,91946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,92104,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,92735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,93051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,93367,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,93682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,93998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,94314,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,94630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,94946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,95104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,95261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,96367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,96367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,96682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,96682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,96998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,97156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,97314,1,0,0:0:0:40:LR_Tom Normal.wav
+448,192,97472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,97630,1,0,0:0:0:40:LR_Tom Hit.wav
+64,192,97946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,98104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,98419,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,98735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,98893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,99209,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,99367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,99682,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+192,192,99998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,100156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,100472,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,100630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,100946,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+320,192,101261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,101419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,101735,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,101893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,102209,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+64,192,102525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,102682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,102840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,103156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,103472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,103788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,104104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,104314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,104525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,104735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,104946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,105051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,105156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,105261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,105367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,105367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,105682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,105840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,105840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,106314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,106314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,106472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,106472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,106788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,106946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,107104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,107261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,107419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,107577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,107735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,107735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,108209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,108209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,108525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,108840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,108840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,108998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,109472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,109472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,109788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,110104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,110104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,110261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,110577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,110735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,110735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,111051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,111209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,111367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,111367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,111525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,111840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,111998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,111998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,112314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,112472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,112630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,112630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,112788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,113104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,113261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,113261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,113577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,113735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,113893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,113893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,114051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,114367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,114525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,114525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,114840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,115156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,115156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,115314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,115630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,115788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,115788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,116104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,116104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,116419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,116419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,116735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,116735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,117051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,117209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,117367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,117525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,117840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,117840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,118156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,118314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,118314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,118630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,118788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,118946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,118946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,119104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,119419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,119577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,119577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,119893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,120051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,120209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,120209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,120367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,120682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,120840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,120840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,121156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,121472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,121472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,121630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,121630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,121946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,121946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,122261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,122261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,122577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,122893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,123209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,123367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,123525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,123682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,123840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,123998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,124156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,124314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,124472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,124630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,124788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,124946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,125104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,125182,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,125261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,125419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,125577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,125577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,126051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,126051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,126525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,126525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,126998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,126998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,127472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,127630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,127788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,128104,1,0,0:0:0:100:G#6S_Ab6S_s.wav
+320,192,128261,1,0,0:0:0:40:A#5S_Bb5S_s.wav
+192,192,128419,1,0,0:0:0:40:C6S_s.wav
+448,192,128577,1,0,0:0:0:100:G6S_s.wav
+192,192,128735,1,0,0:0:0:40:G#5S_Ab5S_s.wav
+320,192,128893,1,0,0:0:0:40:C6S_s.wav
+64,192,129051,1,0,0:0:0:40:F6S.wav
+64,192,129998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,129998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,130314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,130314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,130630,1,0,0:0:0:40:LR_Drum Finish.wav
+192,192,130630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,131104,1,0,0:0:0:40:LR_Drum Finish.wav
+320,192,131104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,131577,1,0,0:0:0:40:LR_Drum Finish.wav
+192,192,131577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,131893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,132051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,132209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,132367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,132525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,132682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,132840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,132998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,132998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,133314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,133472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,133472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,133788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,134104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,134104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,134261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,134577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,134735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,134735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,135051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,135367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,135367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,135525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,135840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,135998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,135998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,136314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,136630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,136630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,136788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,137104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,137261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,137261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,137577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,137893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,137893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,138051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,138367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,138525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,138525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,138840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,139156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,139156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,139314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,139630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,139788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,139788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,140104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,140419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,140419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,140577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,140893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,141051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,141051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,141367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,141367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,141682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,141682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,141998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,141998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,142156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,142235,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,142314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,142472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,142551,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,142630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,142788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,142946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,142946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,143104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,143419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,143577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,143577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,143893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,144209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,144209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,144367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,144682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,144840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,144840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,145156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,145472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,145472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,145630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,145946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,146104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,146104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,146419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,146735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,146735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,146893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,147209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,147367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,147367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,147682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,147998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,147998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,148156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,148472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,148630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,148630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,148946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,149261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,149261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,149419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,149735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,149893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,149893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,150209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,150525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,150682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,150840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,150840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,150998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,151156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,151156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,151314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,151393,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,151472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,151630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,151788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,151946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,151946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,153209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,153209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,153840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,153998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,153998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,154472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,154472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,154788,1,0,0:0:0:40:LR_Tom Hit.wav
+320,192,155104,1,0,0:0:0:40:LR_Tom Normal.wav
+64,192,155261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,155419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,155577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,155735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,155735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,156051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,156525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,156998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,157314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,157630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,157946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,158261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,158261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,159051,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+320,192,159525,1,0,0:0:0:40:G6S_s.wav
+192,192,159840,1,0,0:0:0:40:G6S_s.wav
+448,192,159998,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+64,192,160156,1,0,0:0:0:40:C#8H_Db8H_s.wav
+320,192,160314,1,0,0:0:0:40:C8H_s.wav
+64,192,160472,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+448,192,160630,1,0,0:0:0:40:G6S_s.wav
+192,192,160788,1,0,0:0:0:40:A#6S_Bb6S.wav
+64,192,160788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,161104,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+320,192,161261,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+64,192,161261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,161577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,161577,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+448,192,161893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,161893,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+64,192,162051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,162209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,162209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,162367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,162525,1,0,0:0:0:40:G6S_s.wav
+320,192,162604,1,0,0:0:0:40:G#6S_Ab6S_s.wav
+64,192,162682,1,0,0:0:0:40:A#6S_Bb6S.wav
+192,192,162761,1,0,0:0:0:40:C#8H_Db8H_s.wav
+320,192,162840,1,0,0:0:0:40:C8H_s.wav
+64,192,162998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,163314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,163314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,163630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,163788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,163788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,164104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,164261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,164419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,164419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,164577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,164893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,165051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,165051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,165367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,165525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,165682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,165682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,165840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,166156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,166314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,166314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,166630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,166788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,166946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,166946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,167104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,167104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,167419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,167419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,167735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,167735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,168051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,168051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,168367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,168367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,168525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,168682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,168840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,168998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,169156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,169314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,169472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,169630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,169788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,169946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,170104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,170261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,170419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,170577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,170656,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,170735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,170893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,171051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,171051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,171525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,171525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,171998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,171998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,172472,5,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,172472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,172946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,172946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,173261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,173261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,173577,5,0,0:0:0:100:G#6S_Ab6S_s.wav
+64,192,173735,1,0,0:0:0:40:A#5S_Bb5S_s.wav
+448,192,173893,1,0,0:0:0:40:C6S_s.wav
+192,192,174051,1,0,0:0:0:100:G6S_s.wav
+448,192,174209,1,0,0:0:0:40:G#5S_Ab5S_s.wav
+64,192,174367,1,0,0:0:0:40:C6S_s.wav
+320,192,174525,1,0,0:0:0:40:F6S.wav
+64,192,175472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,175472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,175788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,175788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,176104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,176104,1,0,0:0:0:40:LR_Drum Finish.wav
+448,192,176577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,176577,1,0,0:0:0:40:LR_Drum Finish.wav
+64,192,177051,1,0,0:0:0:40:LR_Drum Finish.wav
+320,192,177051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,177998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,178156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,178314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,178472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,178630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,178630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,178946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,178946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,179261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,179419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,179577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,179577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,179893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,180051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,180209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,180209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,180525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,180840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,180840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,181156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,181472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,181472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,181788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,181946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,182104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,182104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,182419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,182577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,182735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,182735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,183051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,183209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,183367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,183367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,183525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,183682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,183998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,183998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,184314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,184472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,184630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,184630,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,184946,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,185104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,185261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,185261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,185577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,185893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,185893,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,186209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,186525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,186525,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,186840,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,186998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,187156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,187156,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,187472,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,187630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,187788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,187788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,188104,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,188261,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,188340,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,188419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,188419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,188735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,188735,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,189051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,189051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,189367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,189525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,189682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,189682,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,189998,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,190156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,190314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,190314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,190630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,190946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,190946,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,191261,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,191577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,191577,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,191893,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,192051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,192209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,192209,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,192525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,192682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,192840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,192840,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,193156,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,193314,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,193472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,193472,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,193630,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,193788,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,193788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,194104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,194104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,194419,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,194577,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,194735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,194735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,195051,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+192,192,195209,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,195367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,195367,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,195682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+448,192,195998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,195998,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,196314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,196314,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,196788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,196788,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,197104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,197104,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,197419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+64,192,197419,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,197735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+448,192,197735,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,198051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+320,192,198051,1,0,0:0:0:40:LR_Drum Hit Clap Sn.wav
+192,192,198367,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+320,192,198525,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav
+64,192,198682,1,0,0:0:0:40:LR_Drum Barrel Hit.wav
+448,192,198682,1,0,0:0:0:40:LR_Drum Loud Bass Drop.wav

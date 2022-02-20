@@ -1,0 +1,116 @@
+osu file format v8
+
+[General]
+AudioFilename: Fuwa Fuwa Time.mp3
+AudioLeadIn: 0
+PreviewTime: 22907
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+SkinPreference:Default
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 2
+GridSize: 8
+
+[Metadata]
+Title:Fuwa Fuwa Time
+Artist:MK feat. Latte + CAMRY
+Creator:ztrot
+Version:Easy
+Source:K-ON!
+Tags:exit trance toyasaki aki hisaka yoko satou satomi kotobuki minako hirasawa yui akiyama mio tainaka ritsu kotobuki tsumugi keion
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:3
+ApproachRate:3
+SliderMultiplier:1.2
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"K-on!.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,255,181,106
+
+[TimingPoints]
+1566,333.333333333333,4,1,1,75,1,0
+55073,-100,4,2,1,100,0,0
+73907,-100,4,1,1,75,0,0
+
+[Colours]
+Combo1 : 255,255,0
+Combo2 : 217,70,0
+Combo3 : 0,128,192
+Combo4 : 255,91,173
+
+[HitObjects]
+256,288,22899,1,4
+96,192,23566,1,8
+176,80,24066,1,4
+416,16,24899,6,0,B|528:80|544:256,1,240
+440,216,25899,1,0
+176,320,26899,5,0
+208,224,27232,1,8
+304,224,27566,1,0
+336,320,27899,1,8
+336,128,28566,5,0
+256,80,28899,1,0
+80,144,29566,2,0,B|64:288|208:320,1,240,4|0
+352,192,30899,5,0
+168,152,31566,1,0
+256,112,31899,1,2
+256,112,32066,1,2
+104,264,32732,6,0,B|416:264,1,300,0|4
+408,120,34066,2,0,B|104:120,1,300,4|4
+16,40,35399,6,2,B|16:344,1,300
+176,336,36732,2,2,B|176:32,1,300
+304,48,38899,5,0
+208,48,39232,1,0
+208,48,39399,1,4
+344,288,40232,6,0,B|152:288,2,180
+344,192,41565,2,0,B|160:192,1,180,0|4
+112,336,43399,6,12,B|416:336,1,300
+408,192,44732,2,0,B|104:192,1,300,0|12
+112,48,46065,6,2,B|416:48,1,300
+256,200,47565,1,8
+472,128,48232,2,2,B|304:304,1,240
+256,96,49565,5,0
+96,96,50065,1,4
+352,56,50899,5,0
+368,200,51399,2,0,B|320:280|224:312,1,180
+256,192,52232,12,4,53565
+48,192,54899,5,0
+160,96,55399,1,0
+464,192,56232,5,0
+352,96,56565,1,0
+352,96,56732,1,0
+136,296,57565,6,0,B|424:296,2,240
+40,192,59565,5,0
+40,96,59899,1,2
+136,96,60232,2,2,B|384:96,2,240
+136,96,62232,1,0
+80,320,62899,6,2,B|448:320,1,360
+464,216,64232,1,2
+48,192,65565,5,0
+192,192,66065,1,8
+480,192,66899,5,0
+320,192,67232,1,8
+320,192,67399,1,8
+136,280,68232,6,4,B|424:280,2,240
+56,192,70232,5,0
+56,96,70565,1,0
+136,144,70899,2,0,B|424:144,2,240,2|0|2
+256,296,72899,1,0
+256,296,73565,1,4

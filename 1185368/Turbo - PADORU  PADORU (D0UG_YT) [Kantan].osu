@@ -1,0 +1,110 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 21142
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.2
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.9
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:PADORU / PADORU
+TitleUnicode:PADORU / PADORU
+Artist:Turbo
+ArtistUnicode:Turbo
+Creator:D0UG_YT
+Version:Kantan
+Source:Fate/EXTRA
+Tags:Christmas XMAS Remix Edit turboautism eurobeat Hashire sori yo Kaze no you ni Tsukimihara wo japanese anime electronic video game jingle bells Saber
+BeatmapID:2536491
+BeatmapSetID:1185368
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:0
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+64,315.789473684211,4,1,0,60,1,0
+11432,-100,4,1,0,70,0,0
+21537,-100,4,1,0,70,0,1
+30379,-100,4,1,0,70,0,0
+
+
+[HitObjects]
+256,192,1327,5,12,0:0:0:0:
+256,192,1958,1,0,0:0:0:0:
+256,192,2590,1,8,0:0:0:0:
+256,192,3853,1,12,0:0:0:0:
+256,192,4485,1,8,0:0:0:0:
+256,192,5116,1,0,0:0:0:0:
+256,192,6379,1,12,0:0:0:0:
+256,192,7011,1,0,0:0:0:0:
+256,192,7642,1,8,0:0:0:0:
+256,192,8906,1,12,0:0:0:0:
+256,192,9537,1,8,0:0:0:0:
+256,192,10169,1,0,0:0:0:0:
+256,192,11432,1,4,0:0:0:0:
+256,192,12064,1,0,0:0:0:0:
+256,192,12695,1,8,0:0:0:0:
+256,192,13011,1,0,0:0:0:0:
+256,192,13327,1,8,0:0:0:0:
+256,192,13958,1,12,0:0:0:0:
+256,192,14590,1,8,0:0:0:0:
+256,192,15221,1,0,0:0:0:0:
+256,192,15537,1,8,0:0:0:0:
+256,192,15853,1,0,0:0:0:0:
+256,192,16485,1,4,0:0:0:0:
+256,192,17748,1,0,0:0:0:0:
+256,192,18064,1,0,0:0:0:0:
+256,192,18379,1,8,0:0:0:0:
+256,192,19011,1,12,0:0:0:0:
+256,192,19642,1,8,0:0:0:0:
+256,192,20274,1,0,0:0:0:0:
+256,192,21221,1,0,0:0:0:0:
+256,192,21537,1,12,0:0:0:0:
+256,192,22169,1,0,0:0:0:0:
+256,192,22800,1,8,0:0:0:0:
+256,192,23116,1,0,0:0:0:0:
+256,192,23432,1,0,0:0:0:0:
+256,192,23748,1,8,0:0:0:0:
+256,192,24064,1,12,0:0:0:0:
+256,192,24695,1,8,0:0:0:0:
+256,192,25327,1,8,0:0:0:0:
+256,192,25642,1,8,0:0:0:0:
+256,192,25958,1,0,0:0:0:0:
+256,192,26274,1,0,0:0:0:0:
+256,192,26590,1,12,0:0:0:0:
+256,192,27853,1,8,0:0:0:0:
+256,192,28169,1,0,0:0:0:0:
+256,192,28485,1,8,0:0:0:0:
+256,192,28800,1,0,0:0:0:0:
+256,192,29116,1,12,0:0:0:0:
+256,192,29748,1,0,0:0:0:0:
+256,192,30064,1,8,0:0:0:0:
+256,192,30379,1,12,0:0:0:0:
+256,192,31642,1,12,0:0:0:0:

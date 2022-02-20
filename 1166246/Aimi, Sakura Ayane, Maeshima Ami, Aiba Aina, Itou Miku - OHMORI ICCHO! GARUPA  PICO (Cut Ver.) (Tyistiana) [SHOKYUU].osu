@@ -1,0 +1,90 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 6283
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 6330
+DistanceSpacing: 1
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 0.5199996
+
+[Metadata]
+Title:OHMORI ICCHO! GARUPA * PICO (Cut Ver.)
+TitleUnicode:大盛り一丁！ガルパ☆ピコ (Cut Ver.)
+Artist:Aimi, Sakura Ayane, Maeshima Ami, Aiba Aina, Itou Miku
+ArtistUnicode:愛美、佐倉綾音、前島亜美、相羽あいな、伊藤美来
+Creator:Tyistiana
+Version:SHOKYUU
+Source:BanG Dream! ガルパ☆ピコ ～大盛り～
+Tags:戸山 香澄 Toyama Kasumi 美竹 蘭 Mitake Ran 丸山 彩 Maruyama Aya 湊 友希那 Minato Yukina 弦巻 こころ Tsurumaki Kokoro bang dream! girls band party! bandori gbp バンドリ！ ガールズバンドパーティ！ extra large anime japanese pop jpop j-pop opening op ending ed theme song edited edit version oomori icchou [zeth] roger ][ -GH- ][ blackener Finana Ryugu
+BeatmapID:2432719
+BeatmapSetID:1166246
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:5
+OverallDifficulty:2
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg 0.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1912,368.098159509202,4,1,0,90,1,0
+1912,-125,4,1,0,90,0,0
+
+
+[HitObjects]
+256,192,1912,5,0,0:0:0:0:
+256,192,3384,1,0,0:0:0:0:
+256,192,4856,1,8,0:0:0:0:
+256,192,6329,5,0,0:0:0:0:
+256,192,7065,1,0,0:0:0:0:
+256,192,7801,1,8,0:0:0:0:
+256,192,9273,1,0,0:0:0:0:
+256,192,10010,1,0,0:0:0:0:
+256,192,10746,1,0,0:0:0:0:
+256,192,12218,1,0,0:0:0:0:
+256,192,12954,1,0,0:0:0:0:
+256,192,13691,1,8,0:0:0:0:
+256,192,15163,1,8,0:0:0:0:
+256,192,15899,1,8,0:0:0:0:
+256,192,16635,1,8,0:0:0:0:
+256,192,18108,1,0,0:0:0:0:
+256,192,19580,1,8,0:0:0:0:
+256,192,20316,1,0,0:0:0:0:
+256,192,21053,1,8,0:0:0:0:
+256,192,22525,1,0,0:0:0:0:
+256,192,23261,1,8,0:0:0:0:
+256,192,23997,1,0,0:0:0:0:
+256,192,25470,1,8,0:0:0:0:
+256,192,26942,1,0,0:0:0:0:
+256,192,27678,1,8,0:0:0:0:
+256,192,28415,1,0,0:0:0:0:
+256,192,29151,1,8,0:0:0:0:
+256,192,29887,1,0,0:0:0:0:
+256,192,31359,1,0,0:0:0:0:
+256,192,32832,1,0,0:0:0:0:
+256,192,33568,1,0,0:0:0:0:
+256,192,34304,1,8,0:0:0:0:
+256,192,35777,1,4,0:0:0:0:

@@ -1,0 +1,109 @@
+osu file format v9
+
+[General]
+AudioFilename: K-On!   Masked DeDeDe Theme [REUPLOAD].mp3
+AudioLeadIn: 0
+PreviewTime: 13542
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:VS RitsuMioDerere
+Artist:NicoNicoDouga
+Creator:Leorda
+Version:Yui
+Source:K-ON!
+Tags:yui hirasawa mio akiyama ritsu tainaka tsumugi kotobuki azusa nakano rokodo roko-don
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:2
+ApproachRate:2
+SliderMultiplier:0.7
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"Yui.jpg"
+Video,0,"Video desu yo!.flv"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+8695,400.133377792598,4,1,0,80,1,0
+71115,-100,4,2,0,0,0,0
+
+[Colours]
+Combo1 : 255,176,216
+Combo2 : 255,183,183
+Combo3 : 255,255,193
+Combo4 : 183,255,183
+Combo5 : 176,176,255
+
+[HitObjects]
+72,192,10295,1,0
+128,176,10695,1,0
+184,192,11095,1,0
+240,208,11495,1,0
+296,192,11896,1,0
+352,176,12296,1,0
+408,192,12696,1,0
+112,328,13496,6,0,B|168:328|168:328|152:248|280:248|264:328|264:328|320:328,4,280,2|0|2|0|2
+112,103,21499,5,0
+168,120,21899,1,0
+224,103,22299,1,8
+280,80,22699,1,0
+336,103,23099,6,0,B|336:184|440:184|440:288,2,210,0|8|0
+224,104,26300,6,8,B|204:184|80:184|60:96,1,210,0|8
+40,160,27901,2,0,B|-16:280|120:240|32:360,1,210,0|8
+93,351,29501,2,0,B|376:352,2,280,0|8|0
+144,136,34303,5,0
+171,89,34703,1,8
+219,65,35103,1,0
+267,89,35503,1,8
+296,136,35904,5,0
+296,248,36704,1,2
+256,192,37504,12,0,39105
+96,144,40705,6,0,B|96:72,1,70,0|8
+152,72,41505,1,0
+152,128,41906,1,8
+152,184,42306,6,0,B|176:240|240:240|256:176,3,140,0|4|0|0
+310,183,45107,1,4
+310,239,45507,6,0,B|296:320|208:368|136:328,2,210,0|8|4
+256,192,48708,12,0,50308
+96,56,51109,6,2,B|96:144|184:144,1,140
+232,160,52309,1,0
+296,144,52709,1,0
+408,144,53509,5,8
+424,200,53910,1,0
+405,255,54310,1,0
+293,255,55110,5,8
+240,232,55510,1,0
+181,255,55910,1,0
+181,367,56711,5,8
+293,367,57511,1,0
+405,367,58311,6,2,B|408:72,2,280
+293,367,62312,1,0
+256,192,63113,12,4,64713
+80,56,66314,5,4
+192,56,67114,1,0
+304,56,67914,1,4
+304,168,68715,1,0
+304,279,69515,1,4
+192,279,70315,1,0
+256,192,71115,12,0,75917

@@ -1,0 +1,90 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 0
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Transition I
+TitleUnicode:Transition I
+Artist:Garoad
+ArtistUnicode:Garoad
+Creator:Axer
+Version:Kantan
+Source:VA-11 Hall-A
+Tags:valhalla cyberpunk bartender action black screen records sukeban games bsr017 michael kelly second round future synth video game soundtrack instrumental ost
+BeatmapID:2404338
+BeatmapSetID:1151884
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:1
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"GlitchCity.png",0,-50
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+150,500,4,1,0,30,1,0
+150,-133.333333333333,4,1,0,30,0,0
+30150,-133.333333333333,4,1,0,10,0,0
+
+
+[HitObjects]
+256,192,150,5,8,0:0:0:0:
+256,192,900,1,8,0:0:0:0:
+256,192,1900,1,0,0:0:0:0:
+256,192,3150,1,0,0:0:0:0:
+256,192,4150,1,8,0:0:0:0:
+256,192,4900,1,8,0:0:0:0:
+256,192,5900,1,0,0:0:0:0:
+256,192,7650,1,0,0:0:0:0:
+256,192,8150,1,8,0:0:0:0:
+256,192,9150,1,8,0:0:0:0:
+256,192,10150,1,0,0:0:0:0:
+256,192,11150,1,8,0:0:0:0:
+256,192,11650,1,8,0:0:0:0:
+256,192,12150,1,0,0:0:0:0:
+256,192,12900,1,8,0:0:0:0:
+256,192,13650,1,0,0:0:0:0:
+256,192,16150,1,8,0:0:0:0:
+256,192,16900,1,8,0:0:0:0:
+256,192,17900,1,0,0:0:0:0:
+256,192,19150,1,0,0:0:0:0:
+256,192,20150,1,8,0:0:0:0:
+256,192,20900,1,8,0:0:0:0:
+256,192,21900,1,0,0:0:0:0:
+256,192,23650,1,0,0:0:0:0:
+256,192,24150,1,8,0:0:0:0:
+256,192,25150,1,8,0:0:0:0:
+256,192,26150,1,0,0:0:0:0:
+256,192,27150,1,8,0:0:0:0:
+256,192,27650,1,8,0:0:0:0:
+256,192,28150,1,0,0:0:0:0:
+256,192,28900,1,8,0:0:0:0:
+256,192,29650,1,0,0:0:0:0:
+256,192,30150,12,0,32150,0:0:0:0:

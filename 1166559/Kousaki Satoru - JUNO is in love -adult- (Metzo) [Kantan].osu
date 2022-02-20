@@ -1,0 +1,103 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 16754
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.1
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 2.1
+
+[Metadata]
+Title:JUNO is in love -adult-
+TitleUnicode:JUNO is in love -adult-
+Artist:Kousaki Satoru
+ArtistUnicode:神前 暁
+Creator:Metzo
+Version:Kantan
+Source:BEASTARS
+Tags:ビースターズ instrumental waltz ost anime studio orange paru itagaki 板垣巴留 netflix piano trumpet 有限会社オレンジ Yūgen-gaisha Orenji Yuugen-gaisha
+BeatmapID:2433312
+BeatmapSetID:1166559
+
+[Difficulty]
+HPDrainRate:9
+CircleSize:5
+OverallDifficulty:2
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"cutecute.jpg",0,70
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+575,674.157303370787,3,1,0,60,1,0
+575,-66.6666666666667,3,1,0,60,0,0
+
+
+[HitObjects]
+256,192,575,5,0,0:0:0:0:
+256,192,1586,1,8,0:0:0:0:
+256,192,2597,1,0,0:0:0:0:
+256,192,3608,1,8,0:0:0:0:
+256,192,4619,1,8,0:0:0:0:
+256,192,5631,1,0,0:0:0:0:
+256,192,6642,1,0,0:0:0:0:
+256,192,7653,1,0,0:0:0:0:
+256,192,7990,1,8,0:0:0:0:
+256,192,8664,1,0,0:0:0:0:
+256,192,9676,1,8,0:0:0:0:
+256,192,10687,1,0,0:0:0:0:
+256,192,11698,1,8,0:0:0:0:
+256,192,12709,1,8,0:0:0:0:
+256,192,13721,1,0,0:0:0:0:
+256,192,14732,1,0,0:0:0:0:
+256,192,15743,1,0,0:0:0:0:
+256,192,16754,1,8,0:0:0:0:
+256,192,17766,1,0,0:0:0:0:
+256,192,18777,1,0,0:0:0:0:
+256,192,20125,1,0,0:0:0:0:
+256,192,20799,1,8,0:0:0:0:
+256,192,21810,1,0,0:0:0:0:
+256,192,22822,1,8,0:0:0:0:
+256,192,24170,1,0,0:0:0:0:
+256,192,24844,1,8,0:0:0:0:
+256,192,25855,1,8,0:0:0:0:
+256,192,26867,1,0,0:0:0:0:
+256,192,28215,1,0,0:0:0:0:
+256,192,28889,1,8,0:0:0:0:
+256,192,29900,1,8,0:0:0:0:
+256,192,30912,1,0,0:0:0:0:
+256,192,32934,1,8,0:0:0:0:
+256,192,33945,1,0,0:0:0:0:
+256,192,34957,1,0,0:0:0:0:
+256,192,36305,1,0,0:0:0:0:
+256,192,36979,1,8,0:0:0:0:
+256,192,37990,1,0,0:0:0:0:
+256,192,39001,1,8,0:0:0:0:
+256,192,40350,1,0,0:0:0:0:
+256,192,41024,1,8,0:0:0:0:
+256,192,42035,1,8,0:0:0:0:
+256,192,43046,1,8,0:0:0:0:
+256,192,44058,1,0,0:0:0:0:
+256,192,45069,1,0,0:0:0:0:
+256,192,46417,1,8,0:0:0:0:
+256,192,47091,1,0,0:0:0:0:

@@ -1,0 +1,116 @@
+osu file format v14
+
+[General]
+AudioFilename: bears.mp3
+AudioLeadIn: 0
+PreviewTime: 4514
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 0.6999999
+
+[Metadata]
+Title:Always Here
+TitleUnicode:Always Here
+Artist:Brad Breeck
+ArtistUnicode:Brad Breeck
+Creator:Flade
+Version:murmur
+Source:We Bare Bears
+Tags:bradbreeck english orchestral cartoon network cn animation daniel chong wbb original soundtrack sound track ost grizzly panda panpan ice bear
+BeatmapID:2685042
+BeatmapSetID:1293913
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:2.5
+ApproachRate:3
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BEARS.png",0,80
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1300,857.142857142857,4,1,0,20,1,0
+32157,-100,4,1,0,10,0,0
+33872,-100,4,1,0,7,0,0
+35586,-100,4,1,0,5,0,0
+
+
+[Colours]
+Combo1 : 0,128,128
+Combo2 : 67,163,120
+
+[HitObjects]
+256,192,1300,5,0,0:0:0:0:
+256,192,1728,1,8,0:0:0:0:
+256,192,2157,1,8,0:0:0:0:
+256,192,3014,1,0,0:0:0:0:
+256,192,3442,1,8,0:0:0:0:
+256,192,3871,1,8,0:0:0:0:
+256,192,4728,1,0,0:0:0:0:
+256,192,5585,1,8,0:0:0:0:
+256,192,6442,1,0,0:0:0:0:
+256,192,6871,1,0,0:0:0:0:
+256,192,7299,1,8,0:0:0:0:
+256,192,7728,1,0,0:0:0:0:
+256,192,8157,1,8,0:0:0:0:
+256,192,9014,1,8,0:0:0:0:
+256,192,9871,1,0,0:0:0:0:
+256,192,10299,1,0,0:0:0:0:
+256,192,10728,1,8,0:0:0:0:
+256,192,11157,1,8,0:0:0:0:
+256,192,11585,1,0,0:0:0:0:
+256,192,12442,1,8,0:0:0:0:
+256,192,12871,1,8,0:0:0:0:
+256,192,13299,1,0,0:0:0:0:
+256,192,14157,1,8,0:0:0:0:
+256,192,15014,1,0,0:0:0:0:
+256,192,15442,1,8,0:0:0:0:
+256,192,15871,1,8,0:0:0:0:
+256,192,16299,1,0,0:0:0:0:
+256,192,16728,1,0,0:0:0:0:
+256,192,17156,1,8,0:0:0:0:
+256,192,17585,1,8,0:0:0:0:
+256,192,18442,1,0,0:0:0:0:
+256,192,19299,1,8,0:0:0:0:
+256,192,20156,1,0,0:0:0:0:
+256,192,20585,1,0,0:0:0:0:
+256,192,21013,1,8,0:0:0:0:
+256,192,21442,1,0,0:0:0:0:
+256,192,21871,1,8,0:0:0:0:
+256,192,22728,1,8,0:0:0:0:
+256,192,23585,1,0,0:0:0:0:
+256,192,24442,1,8,0:0:0:0:
+256,192,24871,1,8,0:0:0:0:
+256,192,25299,1,0,0:0:0:0:
+256,192,26156,1,8,0:0:0:0:
+256,192,27014,1,0,0:0:0:0:
+256,192,27442,1,0,0:0:0:0:
+256,192,27871,1,8,0:0:0:0:
+256,192,28299,1,8,0:0:0:0:
+256,192,28728,1,0,0:0:0:0:
+256,192,29157,1,8,0:0:0:0:
+256,192,29585,1,8,0:0:0:0:
+256,192,30442,1,0,0:0:0:0:
+256,192,30871,1,8,0:0:0:0:
+256,192,31299,1,8,0:0:0:0:
+256,192,32157,12,0,37299,0:0:0:0:

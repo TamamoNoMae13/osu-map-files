@@ -1,0 +1,93 @@
+osu file format v7
+
+[General]
+AudioFilename: 1243251542.renardv_you_goddamn_fish.mp3
+AudioLeadIn: 3000
+PreviewTime: 4248
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+EpilepsyWarning: 1
+
+[Editor]
+Bookmarks: 4248,29722,46717,63712
+DistanceSpacing: 0.800000011920929
+BeatDivisor: 1
+GridSize: 8
+
+[Metadata]
+Title:You Goddamn Fish
+Artist:Renard
+Creator:Xgor
+Version:Easy
+Source:Super Mario Bros. 3
+Tags:Koji Kondo NES Nintendo Underwater theme World 3 Water
+
+[Difficulty]
+HPDrainRate:1
+CircleSize:3
+OverallDifficulty:2
+SliderMultiplier:0.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Background.png"
+//Break Periods
+2,29921,43028
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+Sprite,Pass,Centre,"Easy win.png",320,240
+ M,0,73537,,320,259
+ F,0,73537,73803,0,1
+ F,0,73803,76193,1
+ F,0,76193,76458,1,0
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,16,179,233
+
+[TimingPoints]
+4235,265.486725663717,4,2,0,100,1,0
+
+[HitObjects]
+64,288,4235,5,0
+64,96,5296,1,2
+256,64,6358,6,0,B|320:40|376:64,1,120,0|8
+424,144,7420,2,0,B|472:200|424:256,1,120,2|8
+360,320,8482,5,0
+168,320,9544,1,2
+104,136,10606,6,0,B|144:72|256:8|384:72|416:144,1,360,2|4
+400,232,12730,5,0
+256,104,13792,1,2
+88,192,14854,6,0,B|112:256|176:272,1,120,0|8
+264,272,15916,2,0,B|336:248|344:184,1,120,2|8
+352,96,16978,5,0
+160,96,18040,1,2
+80,296,19102,6,2,B|176:368|328:368|424:296,1,360,2|4
+424,208,21226,6,2,B|416:80|320:56,1,180,2|8
+256,120,22553,1,2
+232,216,23084,6,2,B|304:216,1,60,2|8
+288,312,23881,2,0,B|224:312,1,60,8|2
+256,112,25473,5,2
+296,248,26270,2,0,B|360:216|416:248,2,120,8|2|2
+256,280,27597,6,2,B|136:336|16:272,1,240
+152,128,29721,1,4
+352,200,44588,6,0,B|416:288|256:368|96:288|160:192,1,360,0|4
+256,192,46712,6,2,B|304:136|256:80,2,120,2|8|2
+184,136,48305,1,8
+112,192,48836,6,2,B|120:328|288:336,1,240,2|8
+384,192,50960,5,2
+312,128,51491,2,0,B|256:80|200:128,1,120,8|2
+128,192,52553,1,8
+184,272,53084,6,2,B|360:208|184:184|368:112,1,240
+352,320,55208,5,2
+160,320,56270,1,2
+88,128,57332,6,2,B|216:128,1,120,2|4
+304,128,58394,2,2,B|432:128,1,120,2|4
+352,240,59456,5,2
+160,240,60518,1,2
+256,192,61580,12,4,63704

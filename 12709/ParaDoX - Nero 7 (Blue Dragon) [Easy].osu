@@ -1,0 +1,100 @@
+osu file format v6
+
+[General]
+AudioFilename: PARADOX - Arkanoid (Nero 7).mp3
+AudioLeadIn: 1996
+PreviewTime: 30997
+Countdown: 1
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1.39999997615814
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Nero 7
+Artist:ParaDoX
+Creator:Blue Dragon
+Version:Easy
+Source:Arkanoid
+Tags:keygen chiptune
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:2
+SliderMultiplier:0.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Tech_Cthulhu_Wallpaper_2_0_by_NilNilNil.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+287,480,4,2,0,50,1,0
+
+[Colours]
+Combo1 : 22,40,169
+Combo2 : 167,167,167
+Combo3 : 132,40,17
+SliderBorder : 172,172,172
+
+[HitObjects]
+256,48,287,1,0
+144,48,767,2,8,B|144:216,1,160
+256,208,2207,5,0
+256,320,2687,2,8,B|424:320,1,160
+344,240,4127,5,0
+256,32,5087,1,2
+168,240,6047,1,0
+256,32,7007,2,0,B|256:128,1,80,2|4
+144,136,7967,6,2,B|96:120|56:168|80:224|160:208,1,160
+368,192,9887,1,8
+368,192,10847,1,2
+192,328,11807,6,2,B|56:232,1,160
+264,144,13727,1,8
+264,144,14687,1,2
+472,216,15647,6,0,B|488:368|320:344,1,240,2|8
+384,248,17567,2,0,B|219:271|235:119,1,240,2|8
+344,152,19487,2,0,B|359:0|195:24,1,240,2|8
+112,96,21407,2,0,B|96:247|260:223,1,240,2|8
+320,128,23327,5,4
+320,128,24287,1,4
+152,272,25247,1,8
+192,128,27167,5,4
+192,128,28127,1,4
+360,272,29087,1,8
+424,72,31007,6,0,B|424:320,1,240,2|8
+312,312,32927,2,0,B|312:64,1,240,2|8
+200,72,34847,2,0,B|200:320,1,240,2|8
+88,312,36767,2,0,B|88:64,1,240,2|8
+200,72,38687,5,4
+200,72,39647,1,4
+200,72,40607,1,8
+312,312,42527,5,4
+312,312,43487,1,4
+312,312,44447,1,8
+216,64,46367,6,0,B|304:64,3,80,0|8|0|8
+296,176,48287,2,0,B|208:176,3,80,0|8|0|8
+216,288,50207,2,0,B|304:288,3,80,0|8|0|8
+256,184,52127,6,0,B|256:88,1,80,0|8
+368,104,53087,2,2,B|368:200,1,80,2|8
+256,208,54047,5,4
+256,208,55007,1,4
+256,208,55967,1,2
+256,64,57887,5,4
+88,208,58847,1,4
+256,352,59807,1,8
+256,208,60047,12,4,61727

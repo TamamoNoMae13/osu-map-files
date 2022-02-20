@@ -1,0 +1,84 @@
+osu file format v5
+
+[General]
+AudioFilename: 21_paradise.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+
+[Metadata]
+Title:Paradise
+Artist:Masaya Matsuura
+Creator:Ash
+Version:Easy
+Source:Parappa The Rapper
+Tags:Parappa The Rapper Masaya Matsuura Playstation Paradise
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:5
+OverallDifficulty:3
+SliderMultiplier:1.4
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"paradise.png"
+//Break Periods
+2,34873,35820
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Failing)
+//Storyboard Layer 2 (Passing)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,96,96,151
+
+[TimingPoints]
+1550,517.250684746283,4,2,0,100
+
+[Colours]
+Combo1 : 0,64,128
+Combo2 : 128,0,0
+Combo3 : 91,0,91
+
+[HitObjects]
+256,48,1550,1,0
+208,136,2067,1,0
+112,168,2584,1,0
+8,160,3101,1,0
+8,160,3360,2,2,B|90:184|120:264,1,140
+256,336,5688,5,0
+304,248,6205,1,0
+400,216,6722,1,0
+504,224,7239,1,4
+504,224,7498,2,2,B|422:200|392:120,1,140
+80,64,9308,6,0,B|88:208|216:240,1,210
+200,120,10601,2,0,B|272:160,1,70
+344,224,11377,2,0,B|344:296,1,70
+264,368,12153,2,0,B|170:320|184:240,1,140
+304,120,13446,6,0,B|448:104,1,140
+416,288,14739,2,0,B|264:320|144:80,1,350
+240,48,16550,2,0,B|243:193|72:376,1,350
+91,356,18102,6,0,B|185:357,1,70
+176,256,18877,2,0,B|264:280,1,70
+344,320,19653,2,0,B|432:280,1,70
+392,184,20429,2,0,B|304:184,1,70
+72,288,21722,6,0,B|21:166|104:80,1,210
+176,160,23015,2,0,B|264:192,1,70
+272,288,23791,2,0,B|344:264,1,70
+368,168,24567,1,0
+416,264,25602,6,0,B|256:376|72:264,2,350
+256,192,28705,5,2
+256,192,28964,1,2
+256,192,29222,1,2
+56,64,30257,5,0
+56,64,30516,1,2
+56,240,31291,1,0
+56,240,31550,1,2
+56,352,32067,1,0
+416,336,33102,6,0,B|434:237|320:224,3,140
+256,192,37240,12,0,41895

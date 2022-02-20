@@ -1,0 +1,758 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 89583
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.4
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.3
+
+[Metadata]
+Title:VIVID DEBUT!
+TitleUnicode:VIVID DEBUT!
+Artist:#EmoCosine
+ArtistUnicode:#EmoCosine
+Creator:Shima Rin
+Version:Unpredictable's BASIC
+Source:SOUND VOLTEX VIVID WAVE
+Tags:SDVX 5 III GRAVITY WARS 3  コナステ BEMANI KONAMI ボルテ Tofu1222 Fresh Chicken _FrEsH_ChICkEn_ FAMoss BriannaZZPet Nines Unpredictable Youwhang EMCD-0004 Electronic Video Game Instrumental
+BeatmapID:2411389
+BeatmapSetID:957330
+
+[Difficulty]
+HPDrainRate:6.9
+CircleSize:4
+OverallDifficulty:6.9
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,2633,0,"Drum Crash Cymbals.wav",70
+Sample,3127,0,"Drum Crash Cymbals.wav",70
+Sample,3622,0,"Drum Crash Cymbals.wav",70
+Sample,4116,0,"Drum Crash Cymbals.wav",70
+Sample,4611,0,"Drum Crash Cymbals.wav",70
+Sample,4940,0,"Drum Crash Cymbals.wav",70
+Sample,5764,0,"Drum Crash Cymbals.wav",70
+Sample,6094,0,"Drum Crash Cymbals.wav",70
+Sample,6424,0,"Drum Crash Cymbals.wav",70
+Sample,6918,0,"Drum Crash Cymbals.wav",70
+Sample,6918,0,"Drum Finger snap 2.wav",75
+Sample,7248,0,"Drum Crash Cymbals.wav",70
+Sample,7578,0,"Drum Finger snap 2.wav",75
+Sample,7578,0,"Drum Crash Cymbals.wav",70
+Sample,7907,0,"Drum Crash Cymbals.wav",70
+Sample,8402,0,"Drum Crash Cymbals.wav",70
+Sample,8731,0,"Drum Crash Cymbals.wav",70
+Sample,9061,0,"Drum Crash Cymbals.wav",70
+Sample,9556,0,"Drum Finger snap 2.wav",75
+Sample,9556,0,"Drum Crash Cymbals.wav",70
+Sample,9885,0,"Drum Crash Cymbals.wav",70
+Sample,10215,0,"FX Squeeze 1.wav",70
+Sample,10545,0,"Drum Crash Cymbals 02.wav",80
+Sample,12193,0,"Percussion Hey sound.wav",70
+Sample,12852,0,"Percussion Hey sound.wav",70
+Sample,13182,0,"Drum Crash Cymbals.wav",70
+Sample,13512,0,"Percussion Hey sound.wav",70
+Sample,13676,0,"Drum Crash Cymbals.wav",70
+Sample,14006,0,"Drum Crash Cymbals.wav",70
+Sample,14336,0,"Drum Crash Cymbals.wav",70
+Sample,14665,0,"Drum Crash Cymbals.wav",70
+Sample,14830,0,"Drum Crash Cymbals.wav",70
+Sample,14830,0,"Percussion Hey sound.wav",70
+Sample,14995,0,"Drum Crash Cymbals.wav",70
+Sample,15160,0,"Drum Crash Cymbals.wav",70
+Sample,16479,0,"Drum Crash Cymbals.wav",70
+Sample,16808,0,"Drum Crash Cymbals.wav",70
+Sample,16973,0,"Drum Crash Cymbals.wav",70
+Sample,17303,0,"Drum Crash Cymbals.wav",70
+Sample,17633,0,"Drum Crash Cymbals.wav",70
+Sample,17797,0,"Drum Crash Cymbals.wav",70
+Sample,18457,0,"Drum Finger snap 2.wav",75
+Sample,19116,0,"Percussion Hey sound.wav",70
+Sample,20435,0,"Percussion Hey sound.wav",70
+Sample,20435,0,"FX Squeeze 1.wav",70
+Sample,20764,0,"FX Squeeze 1.wav",70
+Sample,21094,0,"Drum Crash Cymbals.wav",70
+Sample,21589,0,"Drum Crash Cymbals.wav",70
+Sample,21753,0,"Percussion Hey sound.wav",70
+Sample,21918,0,"Drum Crash Cymbals.wav",70
+Sample,22248,0,"Drum Crash Cymbals.wav",70
+Sample,22742,0,"Drum Crash Cymbals.wav",70
+Sample,23072,0,"Percussion Hey sound.wav",70
+Sample,23402,0,"Drum Crash Cymbals.wav",70
+Sample,23731,0,"Drum Crash Cymbals.wav",70
+Sample,24226,0,"Drum Crash Cymbals.wav",70
+Sample,24556,0,"Drum Crash Cymbals.wav",70
+Sample,26369,0,"Drum Crash Cymbals.wav",70
+Sample,27687,0,"Drum Crash Cymbals.wav",70
+Sample,29006,0,"Drum Crash Cymbals.wav",70
+Sample,29665,0,"Drum Crash Cymbals.wav",70
+Sample,30325,0,"Drum Crash Cymbals.wav",70
+Sample,30654,0,"Drum Crash Cymbals.wav",70
+Sample,30984,0,"Drum whistle.wav",75
+Sample,31314,0,"Drum whistle.wav",75
+Sample,31643,0,"Drum Crash Cymbals.wav",70
+Sample,32303,0,"Drum Crash Cymbals.wav",70
+Sample,32550,0,"Drum Crash Cymbals.wav",70
+Sample,32797,0,"Drum Crash Cymbals.wav",70
+Sample,32962,0,"Drum Crash Cymbals.wav",70
+Sample,33622,0,"Drum Crash Cymbals.wav",70
+Sample,33869,0,"Drum Crash Cymbals.wav",70
+Sample,34116,0,"Drum Crash Cymbals.wav",70
+Sample,34281,0,"Drum Crash Cymbals.wav",70
+Sample,34940,0,"Drum Crash Cymbals.wav",70
+Sample,35600,0,"Drum Crash Cymbals.wav",70
+Sample,35600,0,"Drum Clap.wav",85
+Sample,36918,0,"Drum Finger snap 2.wav",75
+Sample,37248,0,"Drum Crash Cymbals.wav",70
+Sample,37578,0,"Drum Crash Cymbals.wav",70
+Sample,37825,0,"Drum Crash Cymbals.wav",70
+Sample,38072,0,"Drum Crash Cymbals.wav",70
+Sample,38237,0,"Drum Crash Cymbals 02.wav",60
+Sample,38567,0,"Drum Crash Cymbals.wav",70
+Sample,38896,0,"Drum Crash Cymbals.wav",70
+Sample,39143,0,"Drum Crash Cymbals.wav",70
+Sample,39391,0,"Drum Crash Cymbals.wav",70
+Sample,39556,0,"Drum Crash Cymbals 02.wav",60
+Sample,39885,0,"Drum Crash Cymbals.wav",70
+Sample,40215,0,"Drum Crash Cymbals.wav",70
+Sample,40462,0,"Drum Crash Cymbals.wav",70
+Sample,40709,0,"Drum Crash Cymbals.wav",70
+Sample,40874,0,"Drum Crash Cymbals.wav",70
+Sample,41122,0,"Drum Crash Cymbals.wav",70
+Sample,41369,0,"Drum Crash Cymbals.wav",70
+Sample,41534,0,"Drum Crash Cymbals.wav",70
+Sample,42193,0,"Drum Finger snap 2.wav",75
+Sample,42523,0,"Drum Crash Cymbals.wav",70
+Sample,42852,0,"Drum Crash Cymbals.wav",70
+Sample,43100,0,"Drum Crash Cymbals.wav",70
+Sample,43347,0,"Drum Crash Cymbals.wav",70
+Sample,43512,0,"Drum Crash Cymbals 02.wav",60
+Sample,43841,0,"Drum Crash Cymbals.wav",70
+Sample,44171,0,"Drum Crash Cymbals.wav",70
+Sample,44418,0,"Drum Crash Cymbals.wav",70
+Sample,44665,0,"Drum Crash Cymbals.wav",70
+Sample,44830,0,"Drum Finger snap 2.wav",75
+Sample,48127,0,"Percussion Hey sound.wav",70
+Sample,48127,0,"Drum Snare 03.wav",60
+Sample,48374,0,"Drum Crash Cymbals.wav",70
+Sample,48622,0,"Drum Crash Cymbals.wav",70
+Sample,48786,0,"Drum Crash Cymbals.wav",70
+Sample,49116,0,"Drum Crash Cymbals.wav",70
+Sample,49446,0,"Percussion Hey sound.wav",70
+Sample,49446,0,"Drum Snare 03.wav",60
+Sample,49693,0,"Drum Crash Cymbals.wav",70
+Sample,49940,0,"Drum Crash Cymbals.wav",70
+Sample,50105,0,"Drum Crash Cymbals 02.wav",60
+Sample,50435,0,"Drum Crash Cymbals.wav",70
+Sample,50764,0,"Percussion Hey sound.wav",70
+Sample,50764,0,"Drum Snare 03.wav",60
+Sample,51012,0,"Drum Crash Cymbals.wav",70
+Sample,51259,0,"Drum Crash Cymbals.wav",70
+Sample,51424,0,"Drum Crash Cymbals.wav",70
+Sample,51671,0,"Drum Crash Cymbals.wav",70
+Sample,51918,0,"Drum Crash Cymbals.wav",70
+Sample,52083,0,"Drum Snare 03.wav",60
+Sample,52083,0,"Percussion Hey sound.wav",70
+Sample,52742,0,"Drum Finger snap 2.wav",75
+Sample,53072,0,"Drum Crash Cymbals.wav",70
+Sample,53402,0,"Drum Snare 03.wav",60
+Sample,53402,0,"Percussion Hey sound.wav",70
+Sample,53649,0,"Drum Crash Cymbals.wav",70
+Sample,53896,0,"Drum Crash Cymbals.wav",70
+Sample,54061,0,"Drum Finger snap 2.wav",75
+Sample,54061,0,"Drum Crash Cymbals 02.wav",60
+Sample,54391,0,"Drum Crash Cymbals.wav",70
+Sample,54720,0,"Percussion Hey sound.wav",70
+Sample,54720,0,"Drum Snare 03.wav",60
+Sample,54968,0,"Drum Crash Cymbals.wav",70
+Sample,55215,0,"Drum Crash Cymbals.wav",70
+Sample,55380,0,"Drum Finger snap 2.wav",75
+Sample,55380,0,"Drum Crash Cymbals 02.wav",60
+Sample,55380,0,"Drum Snare.wav",80
+Sample,56039,0,"Percussion Hey sound.wav",70
+Sample,58347,0,"Drum Snare.wav",80
+Sample,58676,0,"Drum Crash Cymbals.wav",70
+Sample,58924,0,"Drum Crash Cymbals.wav",70
+Sample,59171,0,"Drum Crash Cymbals.wav",70
+Sample,59336,0,"Drum Crash Cymbals.wav",70
+Sample,59665,0,"Drum Snare.wav",80
+Sample,59995,0,"Drum Crash Cymbals.wav",70
+Sample,60242,0,"Drum Crash Cymbals.wav",70
+Sample,60490,0,"Drum Crash Cymbals.wav",70
+Sample,60654,0,"Drum Crash Cymbals.wav",70
+Sample,60984,0,"Drum Snare.wav",80
+Sample,61314,0,"Drum Crash Cymbals.wav",70
+Sample,61561,0,"Drum Crash Cymbals.wav",70
+Sample,61808,0,"Drum Crash Cymbals.wav",70
+Sample,61973,0,"Drum Crash Cymbals.wav",70
+Sample,62633,0,"Drum Crash Cymbals.wav",70
+Sample,70545,0,"Drum Snare 03.wav",30
+Sample,73182,0,"Drum Snare 03.wav",30
+Sample,75819,0,"Drum Snare 03.wav",30
+Sample,78457,0,"Drum Snare 03.wav",30
+Sample,79116,0,"Drum Snare 03.wav",40
+Sample,79940,0,"Drum Crash Cymbals.wav",70
+Sample,80435,0,"Drum Crash Cymbals 02.wav",70
+Sample,81094,0,"Drum Crash Cymbals.wav",70
+Sample,81424,0,"Drum Crash Cymbals.wav",70
+Sample,81753,0,"Drum Crash Cymbals.wav",70
+Sample,82248,0,"Drum Crash Cymbals.wav",70
+Sample,82742,0,"Drum Crash Cymbals.wav",70
+Sample,83237,0,"Drum Crash Cymbals.wav",70
+Sample,83731,0,"Drum Crash Cymbals.wav",70
+Sample,84061,0,"Drum Crash Cymbals.wav",70
+Sample,89336,0,"VEC3 Snares 042.wav",70
+Sample,97578,0,"Drum Crash Cymbals.wav",70
+Sample,97907,0,"Drum Crash Cymbals.wav",70
+Sample,98072,0,"Drum Crash Cymbals.wav",70
+Sample,98402,0,"Drum Crash Cymbals.wav",70
+Sample,98567,0,"Drum Crash Cymbals.wav",70
+Sample,98567,0,"FX Squeeze 2.wav",70
+Sample,98731,0,"Drum Crash Cymbals.wav",70
+Sample,99061,0,"Drum Crash Cymbals.wav",70
+Sample,99391,0,"Drum Crash Cymbals.wav",70
+Sample,99556,0,"Drum Crash Cymbals.wav",70
+Sample,99885,0,"Drum Crash Cymbals.wav",70
+Sample,100545,0,"Percussion Hey sound.wav",70
+Sample,101204,0,"Percussion Hey sound.wav",70
+Sample,101863,0,"Percussion Hey sound.wav",70
+Sample,102523,0,"Percussion Hey sound.wav",70
+Sample,103182,0,"Percussion Hey sound.wav",70
+Sample,104501,0,"Percussion Hey sound.wav",70
+Sample,105160,0,"Percussion Hey sound.wav",70
+Sample,105819,0,"Percussion Hey sound.wav",70
+Sample,106479,0,"Percussion Hey sound.wav",70
+Sample,106808,0,"Drum Crash Cymbals.wav",70
+Sample,107138,0,"Percussion Hey sound.wav",70
+Sample,107138,0,"Drum Crash Cymbals.wav",70
+Sample,107303,0,"Drum Crash Cymbals.wav",70
+Sample,107468,0,"Drum Crash Cymbals.wav",70
+Sample,107715,0,"Drum Crash Cymbals.wav",70
+Sample,107962,0,"Drum Crash Cymbals.wav",70
+Sample,108127,0,"Drum Crash Cymbals.wav",70
+Sample,108457,0,"Drum Crash Cymbals.wav",70
+Sample,108457,0,"Percussion Hey sound.wav",70
+Sample,108622,0,"Drum Crash Cymbals.wav",70
+Sample,108786,0,"Drum Crash Cymbals.wav",70
+Sample,109034,0,"Drum Crash Cymbals.wav",70
+Sample,109281,0,"Drum Crash Cymbals.wav",70
+Sample,111259,0,"Drum Crash Cymbals.wav",70
+Sample,111753,0,"Drum Crash Cymbals.wav",70
+Sample,112248,0,"Drum Crash Cymbals.wav",70
+Sample,112742,0,"Drum Crash Cymbals.wav",70
+Sample,113072,0,"Drum Crash Cymbals.wav",70
+Sample,113896,0,"Drum Crash Cymbals.wav",70
+Sample,114226,0,"Drum Crash Cymbals.wav",70
+Sample,114556,0,"Drum Crash Cymbals.wav",70
+Sample,114885,0,"Drum Crash Cymbals.wav",70
+Sample,115050,0,"Drum Finger snap 2.wav",75
+Sample,115050,0,"Drum Crash Cymbals.wav",70
+Sample,115215,0,"Drum Crash Cymbals.wav",70
+Sample,115380,0,"Drum Crash Cymbals.wav",70
+Sample,115709,0,"Drum Finger snap 2.wav",75
+Sample,115709,0,"Drum Crash Cymbals.wav",70
+Sample,116039,0,"Drum Crash Cymbals.wav",70
+Sample,116369,0,"Drum Crash Cymbals.wav",70
+Sample,116369,0,"Drum Finger snap 2.wav",75
+Sample,116534,0,"Drum Crash Cymbals.wav",70
+Sample,116863,0,"Drum Crash Cymbals.wav",70
+Sample,117193,0,"Drum Crash Cymbals.wav",70
+Sample,117523,0,"Drum Crash Cymbals.wav",70
+Sample,117687,0,"Drum Crash Cymbals.wav",70
+Sample,117687,0,"Drum Finger snap 2.wav",75
+Sample,117852,0,"Drum Crash Cymbals.wav",70
+Sample,118017,0,"Drum Crash Cymbals.wav",70
+Sample,118347,0,"FX Squeeze 1.wav",70
+Sample,118347,0,"Drum Crash Cymbals.wav",70
+Sample,118347,0,"Drum Finger snap 2.wav",75
+
+[TimingPoints]
+2633,329.67032967033,4,1,1,50,1,0
+36918,-100,4,1,1,50,0,1
+58017,-100,4,1,1,50,0,0
+89665,-100,4,1,1,50,0,1
+110764,-100,4,1,1,50,0,0
+
+
+[HitObjects]
+448,192,2633,128,0,2962:0:0:0:50:Drum Kick.wav
+192,192,2962,1,0,0:0:0:0:
+320,192,3127,128,0,3457:0:0:0:50:Drum Kick.wav
+64,192,3457,1,0,0:0:0:0:
+192,192,3622,128,0,3951:0:0:0:50:Drum Kick.wav
+448,192,3951,1,0,0:0:0:0:
+64,192,4116,128,0,4446:0:0:0:50:Drum Kick.wav
+320,192,4446,1,0,0:0:0:50:Drum Kick.wav
+448,192,4611,128,0,4940:0:0:0:50:Drum Kick.wav
+192,192,4940,128,0,5270:0:0:0:50:Drum Kick.wav
+320,192,5270,128,0,5764:0:0:0:50:Drum Kick.wav
+448,192,5270,1,0,0:0:0:70:Drum Crash Cymbals.wav
+64,192,5764,1,0,0:0:0:50:Drum Kick.wav
+320,192,6094,1,0,0:0:0:50:Drum Kick.wav
+64,192,6424,1,0,0:0:0:50:Drum Kick.wav
+448,192,6753,1,0,0:0:0:0:
+192,192,6918,1,0,0:0:0:50:Drum Kick.wav
+320,192,7083,1,0,0:0:0:0:
+448,192,7248,128,0,7578:0:0:0:50:Drum Kick.wav
+64,192,7578,1,0,0:0:0:50:Drum Kick.wav
+320,192,7907,128,0,8402:0:0:0:50:Drum Kick.wav
+64,192,8402,1,0,0:0:0:50:Drum Kick.wav
+320,192,8731,1,0,0:0:0:50:Drum Kick.wav
+64,192,9061,1,0,0:0:0:50:Drum Kick.wav
+448,192,9391,1,0,0:0:0:0:
+64,192,9556,1,0,0:0:0:50:Drum Kick.wav
+320,192,9720,1,0,0:0:0:0:
+192,192,9885,128,0,10215:0:0:0:50:Drum Kick.wav
+448,192,10215,128,2,10545:0:0:0:75:Drum Finger snap 2.wav
+320,192,10545,128,0,11039:0:0:0:50:Drum Kick.wav
+64,192,11039,1,0,0:0:0:0:
+320,192,11369,1,0,0:0:0:0:
+64,192,11698,1,0,0:0:0:0:
+448,192,12028,1,0,0:0:0:0:
+192,192,12193,1,0,0:0:0:50:Drum Kick.wav
+320,192,12358,1,0,0:0:0:0:
+64,192,12523,1,0,0:0:0:50:Drum Kick.wav
+448,192,12852,1,0,0:0:0:50:Drum Kick.wav
+64,192,13182,1,0,0:0:0:50:Drum Kick.wav
+320,192,13512,1,0,0:0:0:50:Drum Kick.wav
+192,192,13676,1,0,0:0:0:50:Drum Kick.wav
+448,192,14006,1,0,0:0:0:50:Drum Kick.wav
+192,192,14336,1,0,0:0:0:50:Drum Kick.wav
+448,192,14665,1,0,0:0:0:50:Drum Kick.wav
+192,192,14830,1,0,0:0:0:50:Drum Kick.wav
+448,192,14995,1,0,0:0:0:50:Drum Kick.wav
+64,192,15160,128,0,15819:0:0:0:50:Drum Kick.wav
+320,192,15490,1,0,0:0:0:80:Drum Snare.wav
+320,192,15819,1,0,0:0:0:50:Drum Kick.wav
+448,192,15819,128,0,16479:0:0:0:70:Drum Crash Cymbals.wav
+192,192,16479,1,0,0:0:0:50:Drum Kick.wav
+320,192,16808,1,0,0:0:0:50:Drum Kick.wav
+192,192,16973,1,0,0:0:0:50:Drum Kick.wav
+448,192,17303,1,0,0:0:0:50:Drum Kick.wav
+64,192,17633,1,0,0:0:0:50:Drum Kick.wav
+320,192,17797,1,0,0:0:0:50:Drum Kick.wav
+192,192,18127,128,0,18457:0:0:0:0:
+64,192,18457,128,0,18951:0:0:0:50:Drum Kick.wav
+448,192,18457,1,0,0:0:0:70:Drum Crash Cymbals.wav
+320,192,18951,1,0,0:0:0:50:Drum Kick.wav
+448,192,19116,1,0,0:0:0:60:Drum Snare 03.wav
+192,192,19281,1,0,0:0:0:0:
+448,192,19446,1,0,0:0:0:50:Drum Kick.wav
+64,192,19611,1,0,0:0:0:0:
+448,192,19940,1,0,0:0:0:0:
+64,192,20270,1,0,0:0:0:0:
+320,192,20435,128,0,20764:0:0:0:60:Drum Snare 03.wav
+192,192,20764,1,0,0:0:0:50:Drum Kick.wav
+448,192,20929,1,0,0:0:0:70:FX Squeeze 2.wav
+64,192,21094,128,0,21424:0:0:0:50:Drum Kick.wav
+320,192,21424,1,0,0:0:0:0:
+192,192,21589,1,0,0:0:0:50:Drum Kick.wav
+448,192,21753,1,0,0:0:0:60:Drum Snare 03.wav
+64,192,21918,1,0,0:0:0:50:Drum Kick.wav
+448,192,22248,1,0,0:0:0:50:Drum Kick.wav
+64,192,22578,1,0,0:0:0:0:
+192,192,22742,1,0,0:0:0:50:Drum Kick.wav
+320,192,22907,1,0,0:0:0:0:
+448,192,23072,128,0,23402:0:0:0:60:Drum Snare 03.wav
+192,192,23402,128,0,23731:0:0:0:50:Drum Kick.wav
+320,192,23731,128,0,24061:0:0:0:50:Drum Kick.wav
+448,192,24061,1,0,0:0:0:0:
+64,192,24226,128,0,24556:0:0:0:50:Drum Kick.wav
+192,192,24556,128,0,24885:0:0:0:50:Drum Kick.wav
+320,192,24885,128,0,25709:0:0:0:50:Drum Kick.wav
+448,192,24885,1,0,0:0:0:70:Drum Crash Cymbals.wav
+192,192,25709,128,0,26039:0:0:0:0:
+448,192,26039,128,0,26369:0:0:0:70:FX Squeeze 1.wav
+64,192,26369,1,0,0:0:0:50:Drum Kick.wav
+192,192,26698,1,0,0:0:0:60:Drum Snare 03.wav
+320,192,27028,1,0,0:0:0:0:
+320,192,27275,1,0,0:0:0:0:
+320,192,27523,1,0,0:0:0:0:
+64,192,27687,1,0,0:0:0:50:Drum Kick.wav
+192,192,28017,1,0,0:0:0:60:Drum Snare 03.wav
+320,192,28347,1,0,0:0:0:0:
+320,192,28594,1,0,0:0:0:0:
+320,192,28841,1,0,0:0:0:0:
+64,192,29006,1,0,0:0:0:50:Drum Kick.wav
+320,192,29253,1,0,0:0:0:50:Drum Kick.wav
+320,192,29501,1,0,0:0:0:50:Drum Kick.wav
+64,192,29665,1,0,0:0:0:50:Drum Kick.wav
+320,192,29913,1,0,0:0:0:50:Drum Kick.wav
+192,192,30160,1,0,0:0:0:50:Drum Kick.wav
+448,192,30325,128,0,30654:0:0:0:60:Drum Snare 03.wav
+64,192,30654,128,0,30984:0:0:0:60:Drum Snare 03.wav
+320,192,30984,1,0,0:0:0:50:Drum Kick.wav
+448,192,30984,1,0,0:0:0:70:Drum Crash Cymbals.wav
+64,192,31314,1,0,0:0:0:50:Drum Kick.wav
+192,192,31314,1,0,0:0:0:70:Drum Crash Cymbals.wav
+448,192,31643,1,0,0:0:0:50:Drum Kick.wav
+320,192,31973,1,0,0:0:0:60:Drum Snare 03.wav
+192,192,32303,1,0,0:0:0:50:Drum Kick.wav
+192,192,32550,1,0,0:0:0:50:Drum Kick.wav
+192,192,32797,1,0,0:0:0:50:Drum Kick.wav
+448,192,32962,1,0,0:0:0:50:Drum Kick.wav
+320,192,33292,1,0,0:0:0:60:Drum Snare 03.wav
+192,192,33622,1,0,0:0:0:50:Drum Kick.wav
+192,192,33869,1,0,0:0:0:50:Drum Kick.wav
+192,192,34116,1,0,0:0:0:50:Drum Kick.wav
+448,192,34281,1,0,0:0:0:50:Drum Kick.wav
+64,192,34528,1,0,0:0:0:50:Drum Kick.wav
+320,192,34775,1,0,0:0:0:50:Drum Kick.wav
+192,192,34940,1,0,0:0:0:50:Drum Kick.wav
+448,192,35187,1,0,0:0:0:50:Drum Kick.wav
+320,192,35435,1,0,0:0:0:50:Drum Kick.wav
+192,192,35600,128,0,35929:0:0:0:50:Drum Kick.wav
+448,192,35929,128,0,36259:0:0:0:85:Drum Clap.wav
+64,192,36259,1,0,0:0:0:0:
+192,192,36424,1,0,0:0:0:0:
+320,192,36589,128,0,36918:0:0:0:70:VEC3 Snares 042.wav
+64,192,36918,1,0,0:0:0:50:Drum Kick.wav
+192,192,36918,1,0,0:0:0:60:Drum Crash Cymbals 02.wav
+448,192,37248,1,0,0:0:0:50:Drum Kick.wav
+192,192,37578,1,0,0:0:0:50:Drum Kick.wav
+320,192,37825,1,0,0:0:0:50:Drum Kick.wav
+192,192,38072,1,0,0:0:0:50:Drum Kick.wav
+448,192,38237,1,0,0:0:0:50:Drum Kick.wav
+64,192,38567,1,0,0:0:0:50:Drum Kick.wav
+320,192,38896,1,0,0:0:0:50:Drum Kick.wav
+192,192,39143,1,0,0:0:0:50:Drum Kick.wav
+320,192,39391,1,0,0:0:0:50:Drum Kick.wav
+64,192,39556,1,0,0:0:0:50:Drum Kick.wav
+192,192,39885,1,0,0:0:0:50:Drum Kick.wav
+448,192,40215,1,0,0:0:0:50:Drum Kick.wav
+64,192,40462,1,0,0:0:0:50:Drum Kick.wav
+448,192,40709,1,0,0:0:0:50:Drum Kick.wav
+192,192,40874,1,0,0:0:0:50:Drum Kick.wav
+320,192,41122,1,0,0:0:0:50:Drum Kick.wav
+192,192,41369,1,0,0:0:0:50:Drum Kick.wav
+448,192,41534,1,0,0:0:0:50:Drum Kick.wav
+64,192,41698,1,0,0:0:0:0:
+320,192,41863,128,0,42193:0:0:0:0:
+64,192,42193,1,0,0:0:0:50:Drum Kick.wav
+192,192,42193,1,0,0:0:0:80:Drum Crash Cymbals 02.wav
+448,192,42523,1,0,0:0:0:50:Drum Kick.wav
+192,192,42852,1,0,0:0:0:50:Drum Kick.wav
+320,192,43100,1,0,0:0:0:50:Drum Kick.wav
+192,192,43347,1,0,0:0:0:50:Drum Kick.wav
+448,192,43512,1,0,0:0:0:50:Drum Kick.wav
+64,192,43841,1,0,0:0:0:50:Drum Kick.wav
+320,192,44171,1,0,0:0:0:50:Drum Kick.wav
+192,192,44418,1,0,0:0:0:50:Drum Kick.wav
+320,192,44665,1,0,0:0:0:50:Drum Kick.wav
+64,192,44830,1,0,0:0:0:50:Drum Kick.wav
+192,192,44830,1,0,0:0:0:60:Drum Crash Cymbals 02.wav
+192,192,45160,1,0,0:0:0:0:
+448,192,45490,1,0,0:0:0:60:Drum Snare 03.wav
+64,192,45737,1,0,0:0:0:0:
+448,192,45984,1,0,0:0:0:0:
+320,192,46314,1,0,0:0:0:0:
+192,192,46479,1,0,0:0:0:50:Drum Kick.wav
+64,192,46643,128,0,46973:0:0:0:0:
+448,192,46973,1,0,0:0:0:0:
+192,192,47138,1,0,0:0:0:50:Drum Kick.wav
+320,192,47303,1,0,0:0:0:50:Drum Kick.wav
+448,192,47468,128,0,47797:0:0:0:100:Drum Crash Cymbals 02.wav
+192,192,47797,128,0,48127:0:0:0:50:Drum Kick.wav
+320,192,48127,1,0,0:0:0:50:Drum Kick.wav
+448,192,48127,1,0,0:0:0:60:Drum Crash Cymbals 02.wav
+192,192,48374,1,0,0:0:0:50:Drum Kick.wav
+320,192,48622,1,0,0:0:0:50:Drum Kick.wav
+64,192,48786,1,0,0:0:0:50:Drum Kick.wav
+448,192,49116,1,0,0:0:0:50:Drum Kick.wav
+64,192,49446,1,0,0:0:0:50:Drum Kick.wav
+192,192,49446,1,0,0:0:0:70:Drum Crash Cymbals.wav
+320,192,49693,1,0,0:0:0:50:Drum Kick.wav
+192,192,49940,1,0,0:0:0:50:Drum Kick.wav
+448,192,50105,1,0,0:0:0:50:Drum Kick.wav
+192,192,50435,1,0,0:0:0:50:Drum Kick.wav
+320,192,50764,1,0,0:0:0:50:Drum Kick.wav
+448,192,50764,1,0,0:0:0:70:Drum Crash Cymbals.wav
+64,192,51012,1,0,0:0:0:50:Drum Kick.wav
+448,192,51259,1,0,0:0:0:50:Drum Kick.wav
+192,192,51424,1,0,0:0:0:50:Drum Kick.wav
+320,192,51671,1,0,0:0:0:50:Drum Kick.wav
+192,192,51918,1,0,0:0:0:50:Drum Kick.wav
+320,192,52083,1,0,0:0:0:50:Drum Kick.wav
+448,192,52083,128,0,52413:0:0:0:70:Drum Crash Cymbals.wav
+64,192,52413,128,0,52742:0:0:0:0:
+320,192,52742,1,0,0:0:0:50:Drum Kick.wav
+448,192,52742,1,0,0:0:0:60:Drum Crash Cymbals 02.wav
+192,192,53072,1,0,0:0:0:50:Drum Kick.wav
+320,192,53402,1,0,0:0:0:50:Drum Kick.wav
+448,192,53402,1,0,0:0:0:70:Drum Crash Cymbals.wav
+64,192,53649,1,0,0:0:0:50:Drum Kick.wav
+448,192,53896,1,0,0:0:0:50:Drum Kick.wav
+192,192,54061,1,0,0:0:0:50:Drum Kick.wav
+320,192,54391,1,0,0:0:0:50:Drum Kick.wav
+64,192,54720,1,0,0:0:0:50:Drum Kick.wav
+192,192,54720,1,0,0:0:0:70:Drum Crash Cymbals.wav
+448,192,54968,1,0,0:0:0:50:Drum Kick.wav
+64,192,55215,1,0,0:0:0:50:Drum Kick.wav
+320,192,55380,1,0,0:0:0:50:Drum Kick.wav
+192,192,55709,1,0,0:0:0:80:Drum Snare.wav
+448,192,56039,1,0,0:0:0:80:Drum Snare.wav
+64,192,56369,1,0,0:0:0:80:Drum Snare.wav
+320,192,56698,1,0,0:0:0:70:Drum Snare.wav
+448,192,57028,1,0,0:0:0:60:Drum Snare.wav
+192,192,57358,1,0,0:0:0:50:Drum Snare.wav
+64,192,57687,1,0,0:0:0:0:
+320,192,58017,128,0,58347:0:0:0:50:Drum Kick.wav
+448,192,58017,1,0,0:0:0:80:Drum Crash Cymbals 02.wav
+192,192,58347,128,0,58676:0:0:0:50:Drum Kick.wav
+448,192,58676,1,0,0:0:0:50:Drum Kick.wav
+64,192,58924,1,0,0:0:0:50:Drum Kick.wav
+448,192,59171,1,0,0:0:0:50:Drum Kick.wav
+192,192,59336,128,0,59665:0:0:0:50:Drum Kick.wav
+320,192,59665,128,0,59995:0:0:0:50:Drum Kick.wav
+64,192,59995,1,0,0:0:0:50:Drum Kick.wav
+448,192,60242,1,0,0:0:0:50:Drum Kick.wav
+64,192,60490,1,0,0:0:0:50:Drum Kick.wav
+320,192,60654,128,0,60984:0:0:0:50:Drum Kick.wav
+192,192,60984,128,0,61314:0:0:0:50:Drum Kick.wav
+448,192,61314,1,0,0:0:0:50:Drum Kick.wav
+64,192,61561,1,0,0:0:0:50:Drum Kick.wav
+448,192,61808,1,0,0:0:0:50:Drum Kick.wav
+192,192,61973,128,0,62303:0:0:0:50:Drum Kick.wav
+320,192,62303,128,0,62633:0:0:0:80:Drum Snare.wav
+64,192,62633,128,0,62962:0:0:0:50:Drum Kick.wav
+448,192,62962,128,0,63292:0:0:0:80:Drum Snare.wav
+64,192,63292,1,0,0:0:0:50:Drum Kick.wav
+192,192,63292,128,0,63622:0:0:0:80:Drum Crash Cymbals 02.wav
+320,192,63622,128,0,63951:0:0:0:0:
+192,192,63951,128,0,64281:0:0:0:50:Drum Kick.wav
+448,192,64281,128,0,64611:0:0:0:0:
+192,192,64611,128,0,64940:0:0:0:50:Drum Kick.wav
+64,192,64940,128,0,65270:0:0:0:0:
+320,192,65270,128,0,65600:0:0:0:50:Drum Kick.wav
+448,192,65600,1,0,0:0:0:50:Drum Kick.wav
+64,192,65929,1,0,0:0:0:50:Drum Kick.wav
+192,192,65929,1,0,0:0:0:80:Drum Crash Cymbals 02.wav
+320,192,66259,1,0,0:0:0:80:Drum Snare.wav
+192,192,66589,1,0,0:0:0:80:Drum Snare.wav
+320,192,66753,1,0,0:0:0:80:Drum Snare.wav
+192,192,66918,1,0,0:0:0:80:Drum Snare.wav
+320,192,67083,1,0,0:0:0:80:Drum Snare.wav
+64,192,67248,128,0,67907:0:0:0:80:Drum Snare.wav
+448,192,67907,1,0,0:0:0:60:Drum Snare.wav
+192,192,68237,1,0,0:0:0:50:Drum Snare.wav
+320,192,68567,1,0,0:0:0:50:Drum Kick.wav
+448,192,68567,1,0,0:0:0:0:
+64,192,69061,1,0,0:0:0:0:
+192,192,69391,1,0,0:0:0:0:
+320,192,69720,1,0,0:0:0:0:
+448,192,70050,1,0,0:0:0:0:
+320,192,70215,1,0,0:0:0:30:Drum Snare 03.wav
+192,192,70380,1,0,0:0:0:0:
+64,192,70545,1,2,0:0:0:75:Drum Finger snap 2.wav
+320,192,70874,1,0,0:0:0:30:Drum Snare 03.wav
+192,192,71204,1,0,0:0:0:30:Drum Snare 03.wav
+64,192,71698,1,0,0:0:0:0:
+192,192,72028,1,0,0:0:0:0:
+320,192,72358,1,0,0:0:0:0:
+64,192,72687,1,0,0:0:0:0:
+320,192,72852,1,0,0:0:0:30:Drum Snare 03.wav
+192,192,73017,1,0,0:0:0:0:
+448,192,73182,128,2,73512:0:0:0:75:Drum Finger snap 2.wav
+320,192,73512,1,0,0:0:0:30:Drum Snare 03.wav
+64,192,73676,1,0,0:0:0:0:
+192,192,73841,1,0,0:0:0:30:Drum Snare 03.wav
+64,192,74336,1,0,0:0:0:0:
+192,192,74665,1,0,0:0:0:0:
+320,192,74995,1,0,0:0:0:0:
+64,192,75325,1,0,0:0:0:0:
+320,192,75490,1,0,0:0:0:30:Drum Snare 03.wav
+192,192,75654,1,0,0:0:0:0:
+448,192,75819,1,2,0:0:0:75:Drum Finger snap 2.wav
+64,192,76149,1,0,0:0:0:30:Drum Snare 03.wav
+192,192,76479,1,0,0:0:0:30:Drum Snare 03.wav
+320,192,76808,1,0,0:0:0:30:Drum Snare 03.wav
+192,192,76973,1,0,0:0:0:0:
+64,192,77303,1,0,0:0:0:0:
+320,192,77468,1,0,0:0:0:30:Drum Snare 03.wav
+448,192,77633,1,0,0:0:0:0:
+192,192,77962,1,0,0:0:0:0:
+448,192,78292,1,0,0:0:0:0:
+192,192,78457,1,2,0:0:0:75:Drum Finger snap 2.wav
+320,192,78622,1,0,0:0:0:0:
+64,192,78786,1,0,0:0:0:70:VEC3 Snares 042.wav
+320,192,79116,1,0,0:0:0:50:Drum Kick.wav
+448,192,79116,1,0,0:0:0:70:Drum Crash Cymbals 02.wav
+320,192,79940,1,0,0:0:0:50:Drum Kick.wav
+320,192,80435,1,0,0:0:0:50:Drum Kick.wav
+320,192,81094,1,0,0:0:0:50:Drum Kick.wav
+320,192,81424,1,0,0:0:0:50:Drum Kick.wav
+192,192,81753,1,0,0:0:0:50:Drum Kick.wav
+192,192,82248,1,0,0:0:0:50:Drum Kick.wav
+192,192,82742,1,0,0:0:0:50:Drum Kick.wav
+192,192,83237,1,0,0:0:0:50:Drum Kick.wav
+192,192,83731,1,0,0:0:0:50:Drum Kick.wav
+192,192,84061,1,0,0:0:0:50:Drum Kick.wav
+320,192,84391,1,0,0:0:0:50:Drum Kick.wav
+448,192,84391,1,0,0:0:0:70:Drum Crash Cymbals 02.wav
+64,192,84720,1,0,0:0:0:50:Drum Kick.wav
+448,192,85050,1,0,0:0:0:50:Drum Kick.wav
+192,192,85380,1,0,0:0:0:50:Drum Kick.wav
+64,192,85709,1,0,0:0:0:50:Drum Kick.wav
+448,192,85709,1,0,0:0:0:70:Drum Crash Cymbals 02.wav
+320,192,86039,1,0,0:0:0:50:Drum Kick.wav
+192,192,86369,1,0,0:0:0:50:Drum Kick.wav
+448,192,86698,1,0,0:0:0:50:Drum Kick.wav
+64,192,87028,1,0,0:0:0:50:Drum Kick.wav
+192,192,87028,1,0,0:0:0:70:Drum Crash Cymbals 02.wav
+320,192,87358,1,0,0:0:0:50:Drum Kick.wav
+64,192,87687,1,0,0:0:0:50:Drum Kick.wav
+448,192,88017,1,0,0:0:0:50:Drum Kick.wav
+192,192,88182,1,0,0:0:0:50:Drum Kick.wav
+320,192,88512,1,0,0:0:0:50:Drum Kick.wav
+320,192,88841,1,0,0:0:0:50:Drum Kick.wav
+192,192,89006,128,0,89336:0:0:0:50:Drum Kick.wav
+448,192,89336,1,0,0:0:0:50:Drum Kick.wav
+64,192,89665,128,0,89995:0:0:0:50:Drum Kick.wav
+192,192,89665,1,0,0:0:0:80:Drum Crash Cymbals 02.wav
+320,192,89995,1,0,0:0:0:50:Drum Kick.wav
+192,192,90160,1,0,0:0:0:0:
+448,192,90325,128,0,90654:0:0:0:50:Drum Kick.wav
+192,192,90654,128,0,90984:0:0:0:50:Drum Kick.wav
+320,192,90984,1,0,0:0:0:50:Drum Kick.wav
+64,192,91149,1,0,0:0:0:0:
+320,192,91314,1,0,0:0:0:50:Drum Kick.wav
+64,192,91479,1,0,0:0:0:0:
+192,192,91643,128,0,91973:0:0:0:50:Drum Kick.wav
+448,192,91973,1,0,0:0:0:50:Drum Kick.wav
+64,192,92138,1,0,0:0:0:0:
+448,192,92303,128,0,92633:0:0:0:50:Drum Kick.wav
+192,192,92633,1,0,0:0:0:50:Drum Kick.wav
+320,192,92797,1,0,0:0:0:0:
+64,192,92962,128,0,93292:0:0:0:50:Drum Kick.wav
+320,192,93292,128,0,93622:0:0:0:50:Drum Kick.wav
+192,192,93622,1,0,0:0:0:50:Drum Kick.wav
+448,192,93786,1,0,0:0:0:0:
+192,192,93951,1,0,0:0:0:50:Drum Kick.wav
+448,192,94116,1,0,0:0:0:0:
+320,192,94281,128,0,94611:0:0:0:50:Drum Kick.wav
+192,192,94611,128,0,94940:0:0:0:50:Drum Kick.wav
+320,192,94940,1,0,0:0:0:50:Drum Kick.wav
+448,192,94940,128,0,95270:0:0:0:80:Drum Crash Cymbals 02.wav
+192,192,95270,1,0,0:0:0:50:Drum Kick.wav
+320,192,95435,1,0,0:0:0:0:
+64,192,95600,128,0,95929:0:0:0:50:Drum Kick.wav
+320,192,95929,128,0,96259:0:0:0:50:Drum Kick.wav
+192,192,96259,1,0,0:0:0:50:Drum Kick.wav
+448,192,96424,1,0,0:0:0:0:
+192,192,96589,1,0,0:0:0:50:Drum Kick.wav
+448,192,96753,1,0,0:0:0:0:
+320,192,96918,128,0,97248:0:0:0:50:Drum Kick.wav
+64,192,97248,1,0,0:0:0:50:Drum Kick.wav
+448,192,97413,1,0,0:0:0:50:Drum Kick.wav
+64,192,97578,128,0,97907:0:0:0:50:Drum Kick.wav
+192,192,97907,1,0,0:0:0:50:Drum Kick.wav
+320,192,98072,1,0,0:0:0:50:Drum Kick.wav
+448,192,98402,1,0,0:0:0:50:Drum Kick.wav
+64,192,98567,1,0,0:0:0:50:Drum Kick.wav
+320,192,98731,1,0,0:0:0:50:Drum Kick.wav
+192,192,99061,1,0,0:0:0:50:Drum Kick.wav
+192,192,99391,1,0,0:0:0:50:Drum Kick.wav
+448,192,99556,128,0,99885:0:0:0:50:Drum Kick.wav
+320,192,99885,128,0,100215:0:0:0:50:Drum Kick.wav
+64,192,100215,128,0,100545:0:0:0:50:Drum Kick.wav
+192,192,100215,1,0,0:0:0:80:Drum Crash Cymbals 02.wav
+320,192,100545,1,0,0:0:0:50:Drum Kick.wav
+192,192,100709,1,0,0:0:0:0:
+448,192,100874,128,0,101204:0:0:0:50:Drum Kick.wav
+192,192,101204,128,0,101534:0:0:0:50:Drum Kick.wav
+320,192,101534,1,0,0:0:0:50:Drum Kick.wav
+64,192,101698,1,0,0:0:0:0:
+320,192,101863,1,0,0:0:0:50:Drum Kick.wav
+64,192,102028,1,0,0:0:0:0:
+192,192,102193,128,0,102523:0:0:0:50:Drum Kick.wav
+448,192,102523,1,0,0:0:0:50:Drum Kick.wav
+64,192,102687,1,0,0:0:0:0:
+448,192,102852,128,0,103182:0:0:0:50:Drum Kick.wav
+192,192,103182,1,0,0:0:0:50:Drum Kick.wav
+320,192,103347,1,0,0:0:0:0:
+64,192,103512,1,0,0:0:0:50:Drum Kick.wav
+320,192,103759,128,0,104171:0:0:0:0:
+192,192,104171,1,0,0:0:0:50:Drum Kick.wav
+448,192,104336,1,0,0:0:0:0:
+192,192,104501,1,0,0:0:0:50:Drum Kick.wav
+448,192,104665,1,0,0:0:0:0:
+320,192,104830,128,0,105160:0:0:0:50:Drum Kick.wav
+192,192,105160,128,0,105490:0:0:0:50:Drum Kick.wav
+320,192,105490,1,0,0:0:0:50:Drum Kick.wav
+448,192,105490,128,0,105819:0:0:0:80:Drum Crash Cymbals 02.wav
+192,192,105819,1,0,0:0:0:50:Drum Kick.wav
+320,192,105984,1,0,0:0:0:0:
+64,192,106149,128,0,106479:0:0:0:50:Drum Kick.wav
+320,192,106479,128,0,106808:0:0:0:50:Drum Kick.wav
+192,192,106808,1,0,0:0:0:50:Drum Kick.wav
+448,192,107138,1,0,0:0:0:50:Drum Kick.wav
+192,192,107303,1,0,0:0:0:50:Drum Kick.wav
+320,192,107468,1,0,0:0:0:50:Drum Kick.wav
+64,192,107715,1,0,0:0:0:50:Drum Kick.wav
+320,192,107962,1,0,0:0:0:50:Drum Kick.wav
+64,192,108127,128,0,108457:0:0:0:50:Drum Kick.wav
+192,192,108457,1,0,0:0:0:50:Drum Kick.wav
+320,192,108622,1,0,0:0:0:50:Drum Kick.wav
+64,192,108786,1,0,0:0:0:50:Drum Kick.wav
+320,192,109034,1,0,0:0:0:50:Drum Kick.wav
+448,192,109281,1,0,0:0:0:50:Drum Kick.wav
+64,192,109611,1,0,0:0:0:50:Drum Kick.wav
+64,192,109940,1,0,0:0:0:50:Drum Kick.wav
+192,192,110105,128,0,110435:0:0:0:50:Drum Kick.wav
+320,192,110435,128,0,110764:0:0:0:50:Drum Kick.wav
+64,192,110764,1,0,0:0:0:50:Drum Kick.wav
+448,192,110764,128,0,111094:0:0:0:70:Drum Crash Cymbals.wav
+192,192,111094,1,0,0:0:0:50:Drum Kick.wav
+320,192,111259,128,0,111589:0:0:0:50:Drum Kick.wav
+64,192,111589,1,0,0:0:0:50:Drum Kick.wav
+192,192,111753,128,0,112083:0:0:0:50:Drum Kick.wav
+448,192,112083,1,0,0:0:0:50:Drum Kick.wav
+64,192,112248,128,0,112578:0:0:0:50:Drum Kick.wav
+320,192,112578,1,0,0:0:0:50:Drum Kick.wav
+448,192,112742,128,0,113072:0:0:0:50:Drum Kick.wav
+192,192,113072,128,0,113402:0:0:0:50:Drum Kick.wav
+320,192,113402,128,0,113896:0:0:0:50:Drum Kick.wav
+448,192,113402,1,0,0:0:0:70:Drum Crash Cymbals.wav
+64,192,113896,1,0,0:0:0:50:Drum Kick.wav
+320,192,114226,1,0,0:0:0:50:Drum Kick.wav
+64,192,114556,1,0,0:0:0:50:Drum Kick.wav
+448,192,114885,1,0,0:0:0:50:Drum Kick.wav
+192,192,115050,1,0,0:0:0:50:Drum Kick.wav
+320,192,115215,1,0,0:0:0:50:Drum Kick.wav
+64,192,115380,128,0,115709:0:0:0:50:Drum Kick.wav
+448,192,115709,1,0,0:0:0:50:Drum Kick.wav
+320,192,116039,1,0,0:0:0:50:Drum Kick.wav
+64,192,116369,1,0,0:0:0:50:Drum Kick.wav
+320,192,116534,1,0,0:0:0:50:Drum Kick.wav
+320,192,116863,1,0,0:0:0:50:Drum Kick.wav
+64,192,117193,1,0,0:0:0:50:Drum Kick.wav
+448,192,117523,1,0,0:0:0:50:Drum Kick.wav
+64,192,117687,1,0,0:0:0:50:Drum Kick.wav
+320,192,117852,1,0,0:0:0:50:Drum Kick.wav
+192,192,118017,1,0,0:0:0:50:Drum Kick.wav
+448,192,118347,128,0,118676:0:0:0:50:Drum Kick.wav
+64,192,118676,1,0,0:0:0:50:Drum Kick.wav
+192,192,118676,1,0,0:0:0:100:Drum Crash Cymbals 02.wav

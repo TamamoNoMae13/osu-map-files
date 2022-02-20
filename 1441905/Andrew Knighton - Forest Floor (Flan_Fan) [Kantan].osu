@@ -1,0 +1,99 @@
+osu file format v14
+
+[General]
+AudioFilename: jfdsdfdsnhbsd.mp3
+AudioLeadIn: 0
+PreviewTime: 15283
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Forest Floor
+TitleUnicode:Forest Floor
+Artist:Andrew Knighton
+ArtistUnicode:Andrew Knighton
+Creator:Flan_Fan
+Version:Kantan
+Source:Min Hero: Tower of Sages
+Tags:micro fin orchestral score soundtrack vgm video game music instrumental toy chest games ost original
+BeatmapID:2966196
+BeatmapSetID:1441905
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:5
+OverallDifficulty:2
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"wallpaperflare.com_wallpaper (4).jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+45,476.190476190476,4,1,0,45,1,0
+
+
+[HitObjects]
+352,96,45,5,8,0:0:0:0:
+160,96,997,1,0,0:0:0:0:
+352,96,1473,1,8,0:0:0:0:
+160,96,1949,1,0,0:0:0:0:
+352,96,2902,1,8,0:0:0:0:
+160,96,3378,1,0,0:0:0:0:
+352,96,3854,1,8,0:0:0:0:
+160,96,4806,1,0,0:0:0:0:
+160,96,5283,1,0,0:0:0:0:
+352,96,5759,1,8,0:0:0:0:
+160,96,7664,1,0,0:0:0:0:
+160,96,8140,1,0,0:0:0:0:
+352,96,8616,1,8,0:0:0:0:
+352,96,9568,1,8,0:0:0:0:
+160,96,10044,1,0,0:0:0:0:
+352,96,10521,1,8,0:0:0:0:
+352,96,11473,1,8,0:0:0:0:
+160,96,12187,1,0,0:0:0:0:
+160,96,12902,1,0,0:0:0:0:
+352,96,13378,1,8,0:0:0:0:
+352,288,15283,1,12,0:0:0:0:
+352,96,15997,1,8,0:0:0:0:
+352,96,16711,1,8,0:0:0:0:
+160,96,17187,1,0,0:0:0:0:
+160,96,17902,1,0,0:0:0:0:
+160,96,18616,1,0,0:0:0:0:
+352,96,19092,1,8,0:0:0:0:
+352,96,19806,1,8,0:0:0:0:
+352,96,20521,1,8,0:0:0:0:
+160,96,20997,1,0,0:0:0:0:
+135,166,22425,1,0,0:0:0:0:
+352,288,22902,1,12,0:0:0:0:
+352,96,23616,1,8,0:0:0:0:
+160,96,24330,1,0,0:0:0:0:
+352,96,24806,1,8,0:0:0:0:
+160,96,25521,1,0,0:0:0:0:
+160,96,26235,1,0,0:0:0:0:
+352,96,26711,1,8,0:0:0:0:
+352,96,27425,1,8,0:0:0:0:
+160,96,28140,1,0,0:0:0:0:
+352,96,28616,1,8,0:0:0:0:
+160,96,29330,1,0,0:0:0:0:
+160,96,30044,1,0,0:0:0:0:
+352,288,30521,1,12,0:0:0:0:

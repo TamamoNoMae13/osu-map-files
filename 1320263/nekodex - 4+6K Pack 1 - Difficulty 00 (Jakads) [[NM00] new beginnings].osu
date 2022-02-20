@@ -1,0 +1,72 @@
+osu file format v14
+
+[General]
+AudioFilename: nekodex.mp3
+AudioLeadIn: 0
+PreviewTime: 275
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 1
+GridSize: 4
+TimelineZoom: 1.200001
+
+[Metadata]
+Title:4+6K Pack 1 - Difficulty 00
+TitleUnicode:4+6K Pack 1 - Difficulty 00
+Artist:nekodex
+ArtistUnicode:nekodex
+Creator:Jakads
+Version:[NM00] new beginnings
+Source:osu!
+Tags:Akira Complex Ether Strike Coconatsu ここなつ Hare Tokidoki Melancholic ハレ トキドキ メランコリック Hamburgaga Fubuki Guys mafumafu まふまふ Super Nuko ni Narenkatta すーぱーぬこになれんかった Maid-chan (CV: Horie Yui) メイドちゃん (CV: 堀江由衣) Maid-chan Yori. メイドちゃんより。 Natsuge 夏毛 Asayake mo Yuuyake mo Nain da あさやけもゆうやけもないんだ nekodex new beginnings NIKO Maid of Fire S.S.H. Intersect Thunderbolt-Remix sakuzyo 削除 AXION Fracture Ray t+pazolite Tempestissimo Wowkie Zhang 大張偉 Yang Guang Cai Hong Xiao Bai Ma 陽光彩虹小白馬
+BeatmapID:2735120
+BeatmapSetID:1320263
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:10
+OverallDifficulty:0
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"nekodex.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+275,461.538461538462,4,2,0,0,1,0
+
+
+[HitObjects]
+179,192,2121,5,0,0:0:0:0:
+230,192,3967,1,0,0:0:0:0:
+281,192,5813,1,0,0:0:0:0:
+332,192,7659,1,0,0:0:0:0:
+230,192,9505,1,0,0:0:0:0:
+281,192,11351,1,0,0:0:0:0:
+179,192,13198,1,0,0:0:0:0:
+332,192,15044,1,0,0:0:0:0:
+25,192,16890,1,0,0:0:0:0:
+128,192,18736,1,0,0:0:0:0:
+486,192,20582,1,0,0:0:0:0:
+384,192,22428,1,0,0:0:0:0:
+76,192,24275,1,0,0:0:0:0:
+435,192,26121,1,0,0:0:0:0:
+128,192,27967,128,0,29813:0:0:0:0:
+384,192,29813,1,0,0:0:0:0:

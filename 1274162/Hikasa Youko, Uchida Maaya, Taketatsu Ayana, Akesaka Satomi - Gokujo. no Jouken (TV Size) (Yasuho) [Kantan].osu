@@ -1,0 +1,111 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 6274
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.4
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Gokujo. no Jouken (TV Size)
+TitleUnicode:ゴクジョッ。のジョーケン♡ (TV Size)
+Artist:Hikasa Youko, Uchida Maaya, Taketatsu Ayana, Akesaka Satomi
+ArtistUnicode:日笠陽子, 内田真礼, 竹達彩奈, 明坂聡美
+Creator:Yasuho
+Version:Kantan
+Source:ゴクジョッ。～極楽院女子高寮物語～
+Tags:japanese anime ringtone 赤羽亜矢 七里愛 栗橋南 大和田円 Oowada Madoka Kurihashi Minami Akaba Aya Nanasato Ai Gokurakuin Joshikou Ryou Monogatari op opening
+BeatmapID:2647542
+BeatmapSetID:1274162
+
+[Difficulty]
+HPDrainRate:9
+CircleSize:7
+OverallDifficulty:2
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"thumb-1920-1076219.jpg",0,50
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+115,332.963374028857,4,1,0,75,1,0
+115,-100,4,1,0,75,0,0
+6774,-100,4,1,0,90,0,1
+12101,-100,4,1,0,80,0,0
+17429,-100,4,1,0,90,0,1
+22756,-100,4,1,0,80,0,0
+29748,-100,4,1,0,40,0,0
+29915,-100,4,1,0,30,0,0
+30081,-100,4,1,0,20,0,0
+30248,-100,4,1,0,10,0,0
+
+
+[HitObjects]
+256,197,115,5,8,0:0:0:0:
+132,195,447,5,8,0:0:0:0:
+153,190,780,5,0,0:0:0:0:
+254,192,1446,5,4,0:0:0:0:
+254,195,2112,5,8,0:0:0:0:
+254,195,2778,5,0,0:0:0:0:
+254,195,3444,5,0,0:0:0:0:
+99,207,4443,5,8,0:0:0:0:
+104,182,4776,1,0,0:0:0:0:
+256,199,5442,5,12,0:0:0:0:
+173,52,6441,5,0,0:0:0:0:
+263,204,6774,5,12,0:0:0:0:
+111,166,7440,5,0,0:0:0:0:
+184,204,7939,5,8,0:0:0:0:
+122,108,8772,5,0,0:0:0:0:
+154,195,9105,5,0,0:0:0:0:
+184,204,9437,5,8,0:0:0:0:
+176,201,10603,5,0,0:0:0:0:
+176,201,11269,5,8,0:0:0:0:
+185,222,12101,5,4,0:0:0:0:
+185,222,12767,5,8,0:0:0:0:
+145,193,13433,5,0,0:0:0:0:
+155,182,14765,5,8,0:0:0:0:
+151,197,15431,5,0,0:0:0:0:
+151,197,16097,5,8,0:0:0:0:
+198,178,17096,5,0,0:0:0:0:
+187,190,17429,5,12,0:0:0:0:
+176,176,18095,5,0,0:0:0:0:
+186,179,18594,5,8,0:0:0:0:
+190,134,19426,5,0,0:0:0:0:
+213,190,19759,5,0,0:0:0:0:
+183,178,20092,5,8,0:0:0:0:
+236,203,21258,5,8,0:0:0:0:
+241,193,22090,5,8,0:0:0:0:
+241,193,22756,5,4,0:0:0:0:
+183,179,23422,5,0,0:0:0:0:
+219,158,23921,5,8,0:0:0:0:
+201,206,24587,5,0,0:0:0:0:
+200,200,25420,5,12,0:0:0:0:
+159,215,26086,5,0,0:0:0:0:
+229,200,26419,5,0,0:0:0:0:
+229,200,26752,5,12,0:0:0:0:
+220,191,27417,5,8,0:0:0:0:
+227,197,28083,5,4,0:0:0:0:
+209,183,28749,5,8,0:0:0:0:
+182,188,29249,5,12,0:0:0:0:
+256,192,29415,12,0,30248,0:0:0:0:

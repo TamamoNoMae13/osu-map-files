@@ -1,0 +1,73 @@
+osu file format v6
+
+[General]
+AudioFilename: Reflections Are Protection.mp3
+AudioLeadIn: 0
+PreviewTime: 68831
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+Bookmarks: 34039,35176,35639
+DistanceSpacing: 1.20000004768372
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Reflections Are Protection
+Artist:La Roux
+Creator:Larto
+Version:Jar's Beginner
+Source:
+Tags:Electropop Eleanor Jackson Ben Langmaid
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:0
+SliderMultiplier:0.799999999999999
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"la_roux_quicksand-3jpeg.jpg"
+//Break Periods
+2,48872,65024
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+26488,504.201680672269,4,1,0,70,1,0
+68850,-100,4,1,0,70,0,1
+84985,-100,4,1,0,70,0,0
+
+[HitObjects]
+256,192,28504,5,4
+176,352,30521,6,2,B|352:352,2,160,2|2|6
+336,32,34555,6,2,B|160:32,2,160,2|2|6
+256,160,37328,1,8
+160,256,39093,5,8
+352,256,40101,1,2
+448,256,40605,1,4
+336,112,41614,6,0,B|160:112,1,160,0|2
+176,304,43630,2,0,B|352:304,1,160,2|4
+328,160,46656,6,2,B|256:80|192:160,2,160,2|2|6
+192,224,66824,6,2,B|256:304|328:224,2,160,2|2|6
+88,104,69849,5,2
+256,16,70857,1,4
+424,104,71866,1,2
+256,192,72874,1,4
+112,320,73882,6,4,B|176:272|176:272|288:272,1,160,2|4
+432,352,75899,2,2,B|256:352,1,160,2|6
+256,256,77412,5,8
+296,64,78420,2,0,B|200:64,2,79.9999999999999,10|4|8
+256,256,80437,5,10
+256,192,80941,12,4,84975

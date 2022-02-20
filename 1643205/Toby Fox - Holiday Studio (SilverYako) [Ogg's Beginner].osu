@@ -1,0 +1,96 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 200
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 13605,14648,33417
+DistanceSpacing: 1
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 0.4
+
+[Metadata]
+Title:Holiday Studio
+TitleUnicode:Holiday Studio
+Artist:Toby Fox
+ArtistUnicode:Toby Fox
+Creator:SilverYako
+Version:Ogg's Beginner
+Source:DELTARUNE
+Tags:"radiation" vgm music ost original official soundtrack sound track video game instrumental chapter 2 Ogg 0gg 7Falcon7 MonsieurSebas xmas x-mas ggraterson axelixiya christmas Aranel Falcon
+BeatmapID:3354037
+BeatmapSetID:1643205
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:2
+OverallDifficulty:2
+ApproachRate:2
+SliderMultiplier:0.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bgg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+200,521.739130434783,4,2,1,80,1,0
+200,-100,4,2,1,75,0,0
+
+
+[Colours]
+Combo1 : 104,140,225
+Combo2 : 234,74,74
+Combo3 : 100,228,82
+Combo4 : 107,210,228
+
+[HitObjects]
+501,52,200,5,2,0:0:0:0:
+418,138,1243,1,2,0:0:0:0:
+308,87,2286,2,0,P|272:131|277:197,1,120,2|2,0:0|0:0,0:0:0:0:
+380,241,4373,5,2,0:0:0:0:
+297,328,5417,2,0,B|219:288|183:334|183:325|149:373|69:331,1,240,2|2,0:0|0:0,0:0:0:0:
+127,226,8547,37,2,0:0:0:0:
+61,125,9591,1,2,0:0:0:0:
+144,38,10634,2,0,B|196:7|196:7|254:18,1,120,2|2,0:0|0:0,0:0:0:0:
+361,71,12721,5,2,0:0:0:0:
+476,39,13765,2,0,B|487:98|487:98|457:149|457:149|468:208|468:208|438:259,1,240,2|2,0:0|0:0,0:0:0:0:
+344,184,16895,37,2,0:0:0:0:
+238,241,17939,1,2,0:0:0:0:
+317,330,18982,2,0,P|262:362|206:359,1,120,2|2,0:0|0:0,0:0:0:0:
+123,273,21069,5,2,0:0:0:0:
+8,310,22113,2,0,B|-20:224|31:198|22:196|73:168|46:85,1,240,2|2,0:0|0:0,0:0:0:0:
+137,6,25243,37,2,0:0:0:0:
+237,71,26286,1,2,0:0:0:0:
+344,18,27330,2,0,B|396:49|396:49|454:37,1,120,2|2,0:0|0:0,0:0:0:0:
+510,143,29417,5,2,0:0:0:0:
+414,215,30460,2,0,B|372:170|372:170|313:163|313:163|273:119|273:119|213:113,1,240,2|2,0:0|0:0,0:0:0:0:
+260,2,33591,5,2,0:0:0:0:
+353,117,35678,1,2,0:0:0:0:
+300,255,37765,1,2,0:0:0:0:
+155,277,39852,6,0,B|178:225|178:225|173:223|173:223|200:166,2,120,2|2|2,0:0|0:0|0:0,0:0:0:0:
+63,163,44026,1,2,0:0:0:0:
+116,26,46113,1,2,0:0:0:0:
+260,2,48200,38,0,B|237:54|237:54|242:56|242:56|214:112,2,120,2|2|2,0:0|0:0|0:0,0:0:0:0:
+403,43,52373,1,2,0:0:0:0:
+463,178,54460,1,2,0:0:0:0:
+376,296,56547,6,0,B|355:242|355:242|350:245|350:245|329:185,2,120,2|2|2,0:0|0:0|0:0,0:0:0:0:
+230,280,60721,1,2,0:0:0:0:
+171,146,62808,1,2,0:0:0:0:
+255,27,64895,38,0,B|275:80|275:80|280:77|280:77|300:137,1,120,2|2,0:0|0:0,0:0:0:0:

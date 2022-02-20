@@ -1,0 +1,113 @@
+osu file format v7
+
+[General]
+AudioFilename: Lunatica - Words Unleashed.mp3
+AudioLeadIn: 2000
+PreviewTime: 49698
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+SkinPreference:Default
+
+[Editor]
+DistanceSpacing: 1.5
+BeatDivisor: 2
+GridSize: 8
+
+[Metadata]
+Title:Words Unleashed
+Artist:Lunatica
+Creator:Louis Cyphre
+Version:Rain
+Source:
+Tags:Roddie sadkangaroo claymore teresa clare priscilla laki raki yoma abyssal irene awakening
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:2
+SliderMultiplier:0.7
+SliderTickRate:0.5
+
+[Events]
+//Background and Video events
+0,0,"Lunatica.png"
+Video,0,"Claymore Lunatica1.avi"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+273,352.941176470588,4,1,1,60,1,0
+73684,-100,4,1,1,60,0,1
+96286,-100,4,1,1,60,0,0
+
+[Colours]
+Combo1 : 167,167,167
+Combo2 : 255,255,255
+
+[HitObjects]
+40,192,49331,1,8
+240,120,50037,1,0
+304,40,50390,1,0
+368,120,50743,1,8
+224,272,51449,5,8
+72,128,52155,1,8
+128,40,52508,1,0
+176,136,52861,1,8
+384,120,53567,5,0
+248,280,54272,1,0
+144,296,54625,1,0
+184,200,54978,1,8
+376,120,55684,5,8
+168,88,56390,1,0
+104,168,56743,1,0
+56,72,57096,1,8
+256,136,57802,6,0,B|256:208,2,70,2|0|8
+464,184,59214,1,8
+464,80,59567,1,0
+376,136,59920,1,0
+272,112,60272,1,8
+208,312,60978,6,8,B|56:312,1,140,8|0
+208,160,62390,2,8,B|68:160,1,140
+144,80,63449,1,0
+248,80,63802,2,0,B|384:80,2,105,8|0|8
+96,224,65567,2,8,B|96:80,1,140
+200,80,66625,5,0
+360,80,67155,1,0
+360,240,67684,1,8
+152,240,68390,1,8
+256,264,68743,1,0
+256,160,69096,1,0
+256,192,69449,12,4,73684
+88,64,74037,6,0,B|176:64,2,70,2|0|8
+88,168,75096,1,0
+88,272,75449,2,0,B|192:272,2,70,2|0|8
+88,168,76508,1,0
+248,168,77037,1,0
+408,168,77567,1,0
+392,64,77920,6,0,B|256:16|112:64,2,280,0|0|0
+256,224,81449,1,0
+256,328,81802,2,0,B|344:328,5,70,8|0|8|0|8|0
+432,320,83920,2,0,B|432:160,1,140,8|0
+432,72,84978,6,0,B|264:72,3,140,0|8|0|8
+184,72,87449,1,0
+80,72,87802,1,8
+80,232,88331,1,0
+240,232,88861,1,0
+344,232,89214,6,0,B|376:152|344:96,3,140,0|8|0|8
+112,104,92037,1,0
+112,312,92743,1,8
+320,312,93449,5,0
+320,208,93802,1,0
+320,104,94155,1,0
+232,160,94508,1,0
+232,264,94861,1,0
+256,192,95037,12,4,96273

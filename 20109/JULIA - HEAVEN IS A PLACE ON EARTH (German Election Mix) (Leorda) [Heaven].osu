@@ -1,0 +1,103 @@
+osu file format v9
+
+[General]
+AudioFilename: HEAVEN IS A PLACE ON EARTH (German Election Mix).mp3
+AudioLeadIn: 496
+PreviewTime: 13720
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:HEAVEN IS A PLACE ON EARTH (German Election Mix)
+Artist:JULIA
+Creator:Leorda
+Version:Heaven
+Source:Dance Dance Revolution STRIKE
+Tags:dancing stage ddr supernova konami wmfchris
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:1
+ApproachRate:1
+SliderMultiplier:0.599999999999999
+SliderTickRate:0.5
+
+[Events]
+//Background and Video events
+0,0,"Rukia.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+90,425.531914893617,4,2,0,100,1,0
+23826,-100,4,1,0,70,0,0
+56271,-100,4,1,0,70,0,1
+69890,-100,4,1,0,70,0,0
+
+[Colours]
+Combo1 : 255,128,128
+Combo2 : 128,255,128
+Combo3 : 255,255,0
+Combo4 : 128,128,255
+
+[HitObjects]
+256,40,13707,1,4
+256,231,15409,1,2
+88,320,17111,6,0,B|40:256|40:144|96:96,2,240,4|0|4
+200,168,22217,5,2
+296,168,23068,1,2
+390,168,23919,5,0
+390,119,24345,1,8
+390,71,24770,1,0
+341,71,25196,1,8
+293,71,25621,5,0
+244,71,26047,1,8
+244,118,26472,1,0
+244,166,26898,1,8
+256,192,27324,12,0,29026
+216,128,29877,5,0
+120,128,30728,1,0
+120,223,31579,1,0
+167,223,32004,1,2
+216,224,32430,5,0
+310,223,33281,1,0
+406,223,34132,1,0
+406,127,34983,1,0
+406,78,35409,1,2
+360,72,35834,6,0,B|288:72|264:144|288:232|360:232,2,240
+456,72,40089,1,0
+256,192,40941,12,4,42643
+432,136,43494,5,0
+432,231,44345,1,2
+432,326,45196,1,0
+336,326,46047,5,0
+336,230,46898,1,2
+336,134,47749,1,0
+336,38,48600,1,2
+240,38,49451,6,0,B|240:160|104:104|104:232,2,240
+336,38,53707,1,2
+256,192,54558,12,4,56260
+80,192,57111,6,0,B|88:144|168:144|168:208,2,120,0|8|0
+80,287,59664,2,0,B|88:335|168:335|168:271,2,120,0|8|0
+80,191,62217,1,0
+176,191,63068,5,0
+271,191,63919,1,8
+366,191,64770,1,0
+461,191,65621,1,8
+461,95,66472,6,0,B|459:27|371:27|371:27|315:27|315:27,1,180,0|8
+256,192,68175,12,4,69877

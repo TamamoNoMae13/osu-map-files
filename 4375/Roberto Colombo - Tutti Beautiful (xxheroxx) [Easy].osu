@@ -1,0 +1,81 @@
+osu file format v7
+
+[General]
+AudioFilename: Beautiful - Theme Song - Sigla TV.mp3
+AudioLeadIn: 0
+PreviewTime: 5402
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.2
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Tutti Beautiful
+Artist:Roberto Colombo
+Creator:xxheroxx
+Version:Easy
+Source:The Bold and the Beautiful
+Tags:B&B
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:2
+SliderMultiplier:1
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+Video,0,"video(3).avi"
+0,0,"1483252606_beautiful-cs.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+Sample,15872,0,"normal-hitclap.wav",50
+Sample,15872,0,"normal-hitnormal.wav",50
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+810,367.376928728876,4,1,0,60,1,0
+
+[Colours]
+Combo1 : 255,0,0
+Combo2 : 60,60,60
+
+[HitObjects]
+208,192,5402,2,0,B|184:232|184:320|259:351|328:320|328:232|296:176,1,300,0|4
+256,48,7055,1,0
+208,192,7606,5,0
+304,192,7973,1,0
+440,256,8524,5,8
+256,328,9259,1,8
+72,256,9994,1,8
+256,168,10729,1,8
+440,80,11463,6,0,B|168:80,1,250,0|4
+40,80,12933,1,0
+144,192,13484,5,0
+240,192,13851,1,0
+392,192,14402,6,0,B|440:288|368:336|288:288,1,200,8|8
+209,295,15505,2,0,B|144:336|72:288|120:192,1,200
+256,144,16790,6,0,B|256:360,2,200,4|4|4
+306,27,19362,6,0,B|202:27,1,100
+256,272,20648,1,0
+72,192,21383,6,0,B|200:88|320:176,1,250,0|0
+392,208,22668,1,4
+256,56,23403,1,4
+144,280,24322,6,0,B|256:384|368:280,1,250
+368,184,25607,2,0,B|296:80|216:272|128:168,1,250,4|4
+176,88,26893,1,0
+256,24,27261,6,0,B|300:49|310:94|309:174|270:162|231:158|181:212|183:282|271:321,1,350,0|4
+392,168,29281,1,4
+256,192,30016,12,4,33047

@@ -1,0 +1,116 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 20115
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 1
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Padoru Padoru
+TitleUnicode:Padoru Padoru
+Artist:Selphius
+ArtistUnicode:Selphius
+Creator:Flan_Fan
+Version:Kantan
+Source:Fate/EXTRA
+Tags:christmas xmas cover selphy japanese anime フェイト/エクストラ  Nero Claudius ネロ・クラウディウス Jingle Bells video game music videogame vgm novelty Hashire sori yo kaze no you ni SelphiusMelody
+BeatmapID:3333451
+BeatmapSetID:1633078
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:5
+OverallDifficulty:2
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"padorudobezooming.png",0,6
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+240,500,4,1,0,30,1,0
+4240,500,4,1,0,40,1,0
+12472,500,4,1,0,40,1,8
+12722,500,4,1,0,40,1,8
+14222,500,4,1,0,40,1,0
+19707,500,4,1,0,40,1,8
+20209,500,4,1,0,40,1,1
+35709,-100,4,1,0,40,0,0
+
+
+[Colours]
+Combo1 : 0,0,0
+Combo2 : 255,255,0
+Combo3 : 255,255,0
+Combo4 : 255,255,255
+Combo5 : 255,255,255
+Combo6 : 128,0,255
+Combo7 : 128,0,255
+Combo8 : 0,0,0
+
+[HitObjects]
+100,293,240,5,8,0:0:0:0:
+217,169,1240,1,8,0:0:0:0:
+217,169,2240,1,8,0:0:0:0:
+217,169,3240,1,0,0:0:0:0:
+245,188,4240,1,0,0:0:0:0:
+239,172,4740,1,8,0:0:0:0:
+239,172,5240,1,0,0:0:0:0:
+76,150,6240,1,0,0:0:0:0:
+239,172,6740,1,8,0:0:0:0:
+239,172,7240,1,0,0:0:0:0:
+172,202,8240,1,8,0:0:0:0:
+176,202,8740,1,8,0:0:0:0:
+176,202,9240,1,0,0:0:0:0:
+221,178,10240,1,8,0:0:0:0:
+245,188,12240,1,0,0:0:0:0:
+239,172,12722,1,8,0:0:0:0:
+239,172,13222,1,8,0:0:0:0:
+76,150,14222,1,0,0:0:0:0:
+239,172,14722,1,0,0:0:0:0:
+239,172,15222,1,8,0:0:0:0:
+172,202,16222,1,8,0:0:0:0:
+176,202,16722,1,8,0:0:0:0:
+176,202,17222,1,0,0:0:0:0:
+221,178,18222,1,8,0:0:0:0:
+361,49,20209,5,8,0:0:0:0:
+361,49,21209,1,0,0:0:0:0:
+361,49,22209,1,0,0:0:0:0:
+243,232,22709,1,8,0:0:0:0:
+243,232,23209,1,0,0:0:0:0:
+286,80,24209,1,8,0:0:0:0:
+286,80,25209,1,0,0:0:0:0:
+286,80,26209,1,8,0:0:0:0:
+161,187,26709,1,0,0:0:0:0:
+161,187,27209,1,0,0:0:0:0:
+361,49,28209,5,8,0:0:0:0:
+361,49,29209,1,0,0:0:0:0:
+361,49,30209,1,0,0:0:0:0:
+263,254,30709,1,8,0:0:0:0:
+263,254,31209,1,0,0:0:0:0:
+286,80,32209,1,8,0:0:0:0:
+286,80,33209,1,8,0:0:0:0:
+286,80,34209,1,8,0:0:0:0:
+264,217,34709,1,8,0:0:0:0:
+140,177,35209,1,0,0:0:0:0:

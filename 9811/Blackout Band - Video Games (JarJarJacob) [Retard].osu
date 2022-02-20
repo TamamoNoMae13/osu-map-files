@@ -1,0 +1,91 @@
+osu file format v6
+
+[General]
+AudioFilename: song.ogg
+AudioLeadIn: 0
+PreviewTime: 38608
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+Bookmarks: 9063,23608,38154,52699,67245,81790,96336,110881,125427
+DistanceSpacing: 1
+BeatDivisor: 2
+GridSize: 16
+
+[Metadata]
+Title:Video Games
+Artist:Blackout Band
+Creator:JarJarJacob
+Version:Retard
+Source:
+Tags:Larto
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:2
+SliderMultiplier:0.799999999999999
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"800px-chocolate_cake_flourless_11.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+5427,454.545454545455,4,1,1,60,1,0
+8836,-100,4,1,0,60,0,0
+38154,-100,4,1,0,60,0,1
+52699,-100,4,1,0,60,0,0
+
+[HitObjects]
+176,112,9063,1,4
+176,272,9972,1,0
+336,272,10881,5,4
+336,112,11790,1,0
+176,112,12699,5,4
+176,272,13608,1,0
+336,272,14517,5,4
+336,112,15426,1,0
+176,112,16335,5,4
+176,272,17244,1,0
+336,272,18153,5,4
+336,112,19062,1,0
+256,192,19972,12,0,23154
+256,32,24063,5,0
+256,192,24972,1,0
+256,352,25881,2,2,B|0:352,1,240
+16,192,28154,5,0
+16,32,29063,1,0
+176,32,29972,2,2,B|176:208,1,160
+256,336,31790,5,0
+256,176,32699,1,0
+256,16,33608,2,2,B|64:16,1,160
+96,176,35427,5,0
+256,176,36336,2,2,B|256:336,2,120
+256,96,38154,5,4
+256,96,38608,1,8
+96,96,39517,1,8
+256,96,40427,1,8
+256,96,40881,2,2,B|336:176|240:256,1,160,2|6
+260,236,42245,5,8
+416,240,43154,1,8
+256,240,44064,1,8
+256,240,44517,2,2,B|176:160|272:80,1,160,2|6
+251,99,45881,5,8
+96,96,46790,1,8
+256,96,47699,1,10
+336,96,48154,1,2
+416,96,48608,1,2
+256,192,49063,12,4,52699

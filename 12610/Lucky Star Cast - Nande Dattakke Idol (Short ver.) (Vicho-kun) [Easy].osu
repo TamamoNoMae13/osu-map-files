@@ -1,0 +1,123 @@
+osu file format v6
+
+[General]
+AudioFilename: Nande Dattakke Idol (Short ver.).mp3
+AudioLeadIn: 2007
+PreviewTime: 32327
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+SkinPreference:LuckyStar
+
+[Editor]
+DistanceSpacing: 0.800000011920929
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Nande Dattakke Idol? (Short ver.)
+Artist:Lucky Star Cast
+Creator:Vicho-kun
+Version:Easy
+Source:Lucky Star Net Idol Meister
+Tags:hirano aya katou emiri fukuhara kaori endou aya beuchi-chan taka1235 orioncomet
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:3
+OverallDifficulty:4
+SliderMultiplier:1.2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,0,"Nande Dattakke Idol video.avi"
+0,0,"ls bg.jpg"
+//Break Periods
+2,28198,31090
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+-55,352.88928098809,4,1,1,100,1,0
+32415,-100,4,1,1,100,0,1
+58112,-100,4,1,1,100,0,0
+
+[Colours]
+Combo1 : 206,157,255
+Combo2 : 234,234,234
+Combo3 : 113,184,255
+Combo4 : 255,155,205
+
+[HitObjects]
+64,64,1356,5,0
+256,64,2062,1,0
+448,64,2768,1,0
+120,264,4179,5,0
+264,120,4885,1,0
+400,256,5591,1,0
+64,272,7002,5,0
+256,272,7708,1,0
+448,272,8414,1,0
+440,80,9120,1,0
+248,80,9825,2,0,B|83:276,1,240,0|0
+280,296,11237,5,0
+448,200,11943,1,0
+312,64,12649,5,0
+128,120,13354,1,0
+184,304,14060,1,0
+256,208,14942,12,0,16707
+80,88,17942,5,4
+176,88,18295,1,4
+464,88,19353,1,0
+424,176,19706,1,4
+48,264,21118,5,0
+48,120,21647,1,2
+176,48,22177,1,8
+248,112,22529,1,2
+440,112,23235,1,0
+440,304,23941,6,2,B|248:304,1,180,2|2
+16,304,25353,1,0
+120,144,26058,1,0
+312,144,26764,1,2
+120,288,27646,2,2,B|32:298,2,60
+72,64,32410,5,0
+264,64,33116,1,2
+456,64,33822,1,0
+456,256,34528,1,2
+264,256,35233,1,0
+72,256,35939,1,2
+168,128,36645,1,0
+312,120,37174,5,0
+312,120,37351,1,4
+416,296,38057,5,0
+416,104,38762,1,2
+240,32,39468,1,0
+64,104,40174,1,2
+64,296,40880,1,0
+248,248,41585,1,0
+432,304,42291,1,4
+416,112,43703,6,2,B|336:64|224:56|104:104|96:168,1,360
+96,248,45114,1,0
+280,312,45820,1,2
+448,216,46526,1,0
+264,176,47232,1,2
+64,216,47937,1,0
+176,112,48467,1,2
+176,112,48643,1,2
+368,112,49349,6,0,B|232:112,2,120
+368,304,50761,1,2
+184,304,51466,1,0
+48,168,52172,1,0
+200,56,52878,2,2,B|296:48|464:88|440:256|376:272,1,360
+208,312,54642,5,0
+304,144,55348,1,2
+112,144,56054,1,0
+256,208,56407,12,4,57818

@@ -1,0 +1,97 @@
+osu file format v6
+
+[General]
+AudioFilename: Editing.mp3
+AudioLeadIn: 1500
+PreviewTime: 2320
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.4
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Fragments (Short Ver.)
+Artist:narco & capo
+Creator:Mafiamaster
+Version:Easy
+Source:ToHo Kinema Kan
+Tags:Necrofantasia Yukari Yakumo Perfect Cherry Blossom Phantasm Unchained Melody C76 Touhou Tim Vegas Condor KING
+
+[Difficulty]
+HPDrainRate:1
+CircleSize:3
+OverallDifficulty:3
+SliderMultiplier:0.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,0,"Promo.avi"
+0,0,"Sugoiiiii.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+818,375,4,2,1,100,1,0
+23132,-200,4,2,1,100,0,0
+24820,-100,4,1,1,100,0,1
+24913,-100,4,2,1,100,0,1
+30820,-100,4,1,1,100,0,1
+31007,-100,4,2,1,100,0,1
+36726,-100,4,2,1,40,0,0
+38038,-200,4,2,1,40,0,0
+38320,-100,4,2,1,0,0,0
+
+[HitObjects]
+200,80,818,2,0,B|256:32|312:80,1,120
+408,144,2318,6,0,B|400:280,1,120,4|8
+304,328,3818,1,0
+224,248,4568,2,0,B|168:272,2,60
+336,200,6068,5,8
+240,128,6818,1,0
+128,168,7568,2,0,B|120:240,2,60,0|0|4
+144,48,9068,6,0,B|216:56,2,60,8|0|0
+40,104,10568,6,0,B|48:32,2,60,0|0|0
+24,224,12068,6,0,B|56:280,1,60,8|0
+88,328,12818,2,0,B|136:376|208:352,1,120
+320,336,14318,5,4
+424,272,15068,1,8
+472,160,15818,2,0,B|408:40,1,120
+296,88,17318,5,0
+184,48,18068,1,8
+88,120,18818,2,0,B|32:80,2,60
+136,152,19943,1,0
+184,184,20318,6,0,B|200:312,1,120,4|8
+264,200,21818,2,0,B|280:328,1,120
+344,216,23318,2,0,B|360:344,1,120,0|4
+448,256,25568,5,0
+432,200,25943,1,0
+416,144,26318,2,0,B|400:80|336:56,1,120
+344,176,27818,2,0,B|328:240|264:264,1,120,8|0
+208,280,28943,1,0
+152,288,29318,2,0,B|112:296|88:264,1,60
+56,232,30068,2,0,B|16:168|72:120,1,120,0|4
+152,32,31568,5,0
+152,88,31943,1,0
+152,144,32318,1,8
+256,200,33068,5,0
+256,88,33818,1,8
+360,32,34568,5,0
+360,88,34943,1,0
+360,144,35318,1,8
+256,200,36068,5,8
+152,256,36818,6,0,B|152:328,2,60
+152,200,37943,1,0
+152,200,38130,2,0,B|128:152|168:136|128:88,1,112.5,0|0
