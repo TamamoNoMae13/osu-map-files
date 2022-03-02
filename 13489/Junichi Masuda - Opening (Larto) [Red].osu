@@ -5,13 +5,13 @@ AudioFilename: 101-opening.mp3
 AudioLeadIn: 0
 PreviewTime: 51907
 Countdown: 1
-SampleSet: Normal
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
 
 [Editor]
-DistanceSpacing: 1.29999995231628
+DistanceSpacing: 1.3
 BeatDivisor: 4
 GridSize: 8
 
@@ -27,6 +27,7 @@ Tags:Red Blue Yellow Green Game Freak Nintendo Gameboy GB Charmander Squirtle Bu
 HPDrainRate:7
 CircleSize:4
 OverallDifficulty:8
+ApproachRate:8
 SliderMultiplier:1.6
 SliderTickRate:2
 
