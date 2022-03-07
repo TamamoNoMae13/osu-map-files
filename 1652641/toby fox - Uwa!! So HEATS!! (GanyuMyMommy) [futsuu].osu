@@ -1,0 +1,107 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 40
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Uwa!! So HEATS!!
+TitleUnicode:Uwa!! So HEATS!!♫
+Artist:toby fox
+ArtistUnicode:toby fox
+Creator:GanyuMyMommy
+Version:futsuu
+Source:UNDERTALE
+Tags:electronic instrumental ost original soundtrack chiptune video game "radiation" summer vgm music nytrocide_ nytro
+BeatmapID:3437796
+BeatmapSetID:1652641
+
+[Difficulty]
+HPDrainRate:9.5
+CircleSize:2.5
+OverallDifficulty:3.5
+ApproachRate:4
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"yeets.jpeg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+34,1061.94690265487,4,1,0,64,1,0
+34,-100,4,1,0,64,0,0
+8529,-100,4,1,0,64,0,0
+17025,-100,4,1,0,64,0,0
+25520,-100,4,1,0,64,0,0
+
+
+[HitObjects]
+256,192,34,5,12,0:0:0:0:
+256,192,830,1,8,0:0:0:0:
+256,192,1095,1,0,0:0:0:0:
+256,192,1626,1,8,0:0:0:0:
+256,192,2157,1,8,0:0:0:0:
+256,192,2688,1,0,0:0:0:0:
+256,192,3219,1,8,0:0:0:0:
+256,192,3485,1,0,0:0:0:0:
+256,192,4281,1,8,0:0:0:0:
+256,192,5078,1,8,0:0:0:0:
+256,192,7467,1,0,0:0:0:0:
+256,192,7733,1,0,0:0:0:0:
+256,192,8529,1,12,0:0:0:0:
+256,192,9326,1,8,0:0:0:0:
+256,192,9591,1,0,0:0:0:0:
+256,192,10122,1,8,0:0:0:0:
+256,192,10653,1,0,0:0:0:0:
+256,192,11184,1,0,0:0:0:0:
+256,192,11715,1,8,0:0:0:0:
+256,192,11980,1,0,0:0:0:0:
+256,192,12777,1,8,0:0:0:0:
+256,192,13573,1,8,0:0:0:0:
+256,192,15963,1,0,0:0:0:0:
+256,192,16228,1,0,0:0:0:0:
+256,192,17025,1,4,0:0:0:0:
+256,192,17821,1,8,0:0:0:0:
+256,192,18087,1,0,0:0:0:0:
+256,192,18618,1,0,0:0:0:0:
+256,192,19149,1,0,0:0:0:0:
+256,192,19680,1,8,0:0:0:0:
+256,192,20210,1,8,0:0:0:0:
+256,192,20476,1,0,0:0:0:0:
+256,192,21272,1,0,0:0:0:0:
+256,192,22069,1,0,0:0:0:0:
+256,192,24458,1,0,0:0:0:0:
+256,192,24724,1,0,0:0:0:0:
+256,192,25520,1,4,0:0:0:0:
+256,192,26317,1,8,0:0:0:0:
+256,192,26582,1,0,0:0:0:0:
+256,192,27113,1,8,0:0:0:0:
+256,192,27644,1,0,0:0:0:0:
+256,192,28175,1,0,0:0:0:0:
+256,192,28706,1,8,0:0:0:0:
+256,192,28972,1,0,0:0:0:0:
+256,192,29768,1,0,0:0:0:0:
+256,192,30564,1,0,0:0:0:0:
+256,192,32954,1,0,0:0:0:0:
+256,192,33219,1,0,0:0:0:0:
