@@ -1,0 +1,180 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 28752
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Without the end
+TitleUnicode:Without the end
+Artist:UNDEAD CORPORATION
+ArtistUnicode:UNDEAD CORPORATION
+Creator:soirT
+Version:Normal
+Source:東方紅魔郷　～ the Embodiment of Scarlet Devil.
+Tags:famoss Instrumental Video Game 妖魔夜行 TOHO Complete Box RED 東方Project ZUN Rumia ルーミア Team Shanghai Alice Touhou Koumakyou EoSD Stage 1 Boss TH06 TH 06 私はもう死んでいる？ fa featured artist Youma Yakou Apparitions Stalk the Night Junya Ota 太田順也 touhou project toho 2hu piano calm other 上海アリス幻樂団 Shanhai Arisu Gengakudan Jun'ya 太田順也 ZEN uc Watashi wa mou shindeiru? c80 comiket 80 コミケ80 コミックマーケット80 Doujin パインツリー pain tsurii pine tree 妖魔夜行 ANCO-0005 TOHO COMPLETE BOX 赤 -RED- c85 comiket 85 コミケ85 コミックマーケット85 COM-1
+BeatmapID:3437958
+BeatmapSetID:1649093
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:9
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1895,571.428571428571,3,2,1,40,1,0
+49894,-100,3,2,1,30,0,0
+53323,-100,3,2,1,10,0,0
+55037,-100,3,2,1,5,0,0
+
+
+[HitObjects]
+199,192,1680,5,0,0:0:0:0:
+256,192,1752,1,0,0:0:0:0:
+312,192,1823,1,0,0:0:0:0:
+369,192,1895,128,0,2466:0:0:0:20:LR_Chm Soft Normal.wav
+199,192,2466,1,0,0:0:0:20:LR_Chm High Long.wav
+142,192,3609,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+256,192,4180,1,0,0:0:0:0:
+369,192,4752,1,0,0:0:0:0:
+85,192,5323,128,0,5894:0:0:0:20:LR_Chm Soft Normal.wav
+483,192,5323,1,0,0:0:0:0:
+199,192,5894,1,0,0:0:0:20:LR_Chm High Long.wav
+28,192,7037,128,0,7609:0:0:0:20:LR_Chm Soft Normal.wav
+142,192,7609,1,0,0:0:0:20:LR_Chm High Long.wav
+256,192,8180,1,0,0:0:0:0:
+426,192,8752,128,0,9323:0:0:0:20:LR_Chm Soft Normal.wav
+85,192,8752,1,0,0:0:0:0:
+199,192,9323,1,0,0:0:0:20:LR_Chm High Long.wav
+483,192,10466,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+369,192,11037,1,0,0:0:0:0:
+256,192,11609,1,0,0:0:0:0:
+142,192,12180,1,0,0:0:0:0:
+28,192,12180,128,0,12752:0:0:0:20:LR_Chm Soft Normal.wav
+199,192,12752,1,0,0:0:0:20:LR_Chm High Long.wav
+426,192,13894,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+199,192,15394,1,0,0:0:0:0:
+256,192,15466,1,0,0:0:0:0:
+312,192,15537,1,0,0:0:0:0:
+369,192,15609,128,0,16180:0:0:0:20:LR_Chm Soft Normal.wav
+28,192,16180,1,0,0:0:0:20:LR_Chm High Long.wav
+142,192,17323,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+256,192,17894,1,0,0:0:0:0:
+369,192,18466,1,0,0:0:0:0:
+483,192,19037,1,0,0:0:0:0:
+85,192,19037,128,0,19609:0:0:0:20:LR_Chm Soft Normal.wav
+199,192,19609,1,0,0:0:0:20:LR_Chm High Long.wav
+142,192,20752,128,0,21323:0:0:0:20:LR_Chm Soft Normal.wav
+199,192,21323,1,0,0:0:0:20:LR_Chm High Long.wav
+426,192,21894,1,0,0:0:0:0:
+85,192,22466,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+483,192,22466,128,0,23037:0:0:0:0:
+256,192,23037,1,0,0:0:0:20:LR_Chm High Long.wav
+426,192,24180,1,0,0:0:0:0:
+28,192,24180,128,0,24752:0:0:0:20:LR_Chm Soft Normal.wav
+312,192,24752,1,0,0:0:0:0:
+199,192,24752,1,0,0:0:0:20:LR_Chm High Long.wav
+369,192,25323,1,0,0:0:0:0:
+142,192,25894,1,0,0:0:0:0:
+483,192,25894,128,0,26466:0:0:0:20:LR_Chm Soft Normal.wav
+256,192,26466,1,0,0:0:0:20:LR_Chm High Long.wav
+369,192,27037,1,0,0:0:0:0:
+256,192,27609,128,0,28180:0:0:0:20:LR_Chm Soft Normal.wav
+142,192,28180,1,0,0:0:0:20:LR_Chm High Long.wav
+256,192,28752,1,0,0:0:0:0:
+312,192,29037,1,0,0:0:0:0:
+199,192,29323,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+369,192,29323,128,0,29894:0:0:0:0:
+85,192,29894,1,0,0:0:0:20:LR_Chm High Long.wav
+256,192,30466,1,0,0:0:0:0:
+28,192,31037,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+199,192,31037,128,0,31609:0:0:0:0:
+312,192,31609,1,0,0:0:0:0:
+85,192,31609,1,0,0:0:0:20:LR_Chm High Long.wav
+369,192,32180,1,0,0:0:0:0:
+28,192,32752,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+199,192,32752,128,0,33323:0:0:0:0:
+369,192,33323,1,0,0:0:0:20:LR_Chm High Long.wav
+28,192,34466,128,0,35037:0:0:0:20:LR_Chm Soft Normal.wav
+256,192,35037,1,0,0:0:0:20:LR_Chm High Long.wav
+85,192,35609,1,0,0:0:0:0:
+199,192,35894,1,0,0:0:0:0:
+312,192,36180,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+142,192,36180,128,0,36752:0:0:0:0:
+256,192,36752,1,0,0:0:0:20:LR_Chm High Long.wav
+426,192,37323,1,0,0:0:0:0:
+369,192,37894,1,0,0:0:0:0:
+28,192,37894,128,0,38466:0:0:0:20:LR_Chm Soft Normal.wav
+312,192,38466,1,0,0:0:0:20:LR_Chm High Long.wav
+85,192,38466,1,0,0:0:0:0:
+199,192,39037,1,0,0:0:0:0:
+312,192,39609,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+483,192,39609,128,0,40180:0:0:0:0:
+142,192,40180,1,0,0:0:0:20:LR_Chm High Long.wav
+369,192,41323,128,0,41894:0:0:0:20:LR_Chm Soft Normal.wav
+28,192,41894,1,0,0:0:0:20:LR_Chm High Long.wav
+85,192,42466,1,0,0:0:0:0:
+142,192,42752,1,0,0:0:0:0:
+483,192,43037,1,0,0:0:0:0:
+312,192,43037,128,0,43609:0:0:0:20:LR_Chm Soft Normal.wav
+256,192,43609,1,0,0:0:0:20:LR_Chm High Long.wav
+426,192,44180,1,0,0:0:0:0:
+369,192,44752,1,0,0:0:0:0:
+28,192,44752,128,0,45323:0:0:0:20:LR_Chm Soft Normal.wav
+483,192,45323,1,0,0:0:0:20:LR_Chm High Long.wav
+312,192,45323,1,0,0:0:0:0:
+256,192,45894,1,0,0:0:0:0:
+256,192,46466,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+483,192,46466,128,0,47037:0:0:0:0:
+199,192,47037,1,0,0:0:0:0:
+312,192,47037,1,0,0:0:0:15:LR_Chm High Long.wav
+142,192,47609,1,0,0:0:0:0:
+28,192,48180,1,0,0:0:0:20:LR_Chm Soft Normal.wav
+142,192,48180,128,0,48752:0:0:0:0:
+426,192,48752,1,0,0:0:0:15:LR_Chm High Long.wav
+199,192,49323,1,0,0:0:0:0:
+28,192,49894,1,0,0:0:0:15:LR_Chm Soft Normal.wav
+199,192,49894,128,0,50466:0:0:0:0:
+483,192,50466,1,0,0:0:0:15:LR_Chm High Long.wav
+312,192,50466,1,0,0:0:0:0:
+142,192,51037,1,0,0:0:0:0:
+426,192,51609,1,0,0:0:0:0:
+312,192,51609,128,0,52180:0:0:0:20:LR_Chm Soft Normal.wav
+256,192,52180,1,0,0:0:0:10:LR_Chm High Long.wav
+85,192,52180,1,0,0:0:0:0:
+199,192,52752,1,0,0:0:0:0:
+312,192,53323,1,0,0:0:0:0:
+483,192,53323,128,0,53894:0:0:0:20:LR_Chm Soft Normal.wav
+28,192,53894,1,0,0:0:0:8:LR_Chm High Long.wav
+256,192,54466,1,0,0:0:0:0:
+28,192,55037,1,0,0:0:0:8:LR_Chm Soft Normal.wav
+199,192,55037,128,0,55609:0:0:0:0:
+312,192,55609,1,0,0:0:0:8:LR_Chm High Long.wav
