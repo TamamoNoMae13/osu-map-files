@@ -1,0 +1,573 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 44496
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 61127,62431
+DistanceSpacing: 0.9
+BeatDivisor: 12
+GridSize: 16
+TimelineZoom: 1.4
+
+[Metadata]
+Title:Believe in you (TV Size)
+TitleUnicode:Believe in you (TV Size)
+Artist:nonoc
+ArtistUnicode:nonoc
+Creator:secXcscX
+Version:7K Normal
+Source:Re:ゼロから始める異世界生活
+Tags:re:zero kara hajimeru isekai seikatsu rezero starting life in another world different from zero season two second 2nd anime ending ed japanese pop jpop j-pop rock jrock j-rock KADOKAWA ost
+BeatmapID:2940251
+BeatmapSetID:1428082
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:7
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG2.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,12213,0,"LR_HiHat Click.wav",70
+Sample,14170,0,"LR_Hat Fast.wav",70
+Sample,14659,0,"LR_HiHat Click.wav",70
+Sample,22648,0,"LR_HiHat Click.wav",70
+Sample,24605,0,"LR_Hat Fast.wav",70
+Sample,25094,0,"LR_HiHat Click.wav",70
+Sample,27866,0,"LR_HiHat Click.wav",70
+Sample,28518,0,"LR_Hat Fast.wav",70
+Sample,33572,0,"LR_Hat Fast.wav",70
+Sample,34713,0,"LR_Hat Fast.wav",70
+Sample,36181,0,"LR_Hat Fast.wav",70
+Sample,37322,0,"LR_Hat Fast.wav",70
+Sample,38790,0,"LR_Hat Fast.wav",70
+Sample,39931,0,"LR_Hat Fast.wav",70
+Sample,41398,0,"LR_Kick Bass strong.wav",70
+Sample,41398,0,"LR_Hat Fast.wav",70
+Sample,45800,0,"LR_Hat Fast.wav",70
+Sample,46453,0,"LR_Hat Fast.wav",70
+Sample,46616,0,"LR_Kick Bass strong.wav",70
+Sample,46616,0,"LR_Hat Fast.wav",70
+Sample,47105,0,"LR_Kick Bass strong.wav",70
+Sample,47105,0,"LR_Hat Fast.wav",70
+Sample,47757,0,"LR_Hat Fast.wav",70
+Sample,48409,0,"LR_Hat Fast.wav",70
+Sample,49061,0,"LR_Hat Fast.wav",70
+Sample,49224,0,"LR_Kick Bass strong.wav",70
+Sample,49224,0,"LR_Hat Fast.wav",70
+Sample,49713,0,"LR_Kick Bass strong.wav",70
+Sample,49713,0,"LR_Hat Fast.wav",70
+Sample,50366,0,"LR_Hat Fast.wav",70
+Sample,50692,0,"LR_Hat Fast.wav",70
+Sample,51018,0,"LR_Hat Fast.wav",70
+Sample,51670,0,"LR_Hat Fast.wav",70
+Sample,51833,0,"LR_Kick Bass strong.wav",70
+Sample,51833,0,"LR_Hat Fast.wav",70
+Sample,52322,0,"LR_Kick Bass strong.wav",70
+Sample,52322,0,"LR_Hat Fast.wav",70
+Sample,52974,0,"LR_Hat Fast.wav",70
+Sample,53300,0,"LR_Hat Fast.wav",70
+Sample,53626,0,"LR_Hat Fast.wav",70
+Sample,54279,0,"LR_Hat Fast.wav",70
+Sample,54442,0,"LR_Hat Fast.wav",70
+Sample,55420,0,"LR_Tom Hit 2.wav",70
+Sample,56235,0,"LR_Hat Fast.wav",70
+Sample,56887,0,"LR_Hat Fast.wav",70
+Sample,57050,0,"LR_Kick Bass strong.wav",70
+Sample,57050,0,"LR_Hat Fast.wav",70
+Sample,57540,0,"LR_Kick Bass strong.wav",70
+Sample,57540,0,"LR_Hat Fast.wav",70
+Sample,58192,0,"LR_Hat Fast.wav",70
+Sample,58844,0,"LR_Hat Fast.wav",70
+Sample,59496,0,"LR_Hat Fast.wav",70
+Sample,59659,0,"LR_Kick Bass strong.wav",70
+Sample,59659,0,"LR_Hat Fast.wav",70
+Sample,60148,0,"LR_Kick Bass strong.wav",70
+Sample,60148,0,"LR_Hat Fast.wav",70
+Sample,60800,0,"LR_Hat Fast.wav",70
+Sample,60963,0,"LR_Hat Fast.wav",70
+Sample,61126,0,"LR_Kick Bass strong.wav",70
+Sample,61126,0,"LR_Hat Fast.wav",70
+Sample,61453,0,"LR_Hat Fast.wav",70
+Sample,62105,0,"LR_Hat Fast.wav",70
+Sample,62268,0,"LR_Hat Fast.wav",70
+Sample,62431,0,"LR_Kick Bass strong.wav",70
+Sample,62431,0,"LR_Hat Fast.wav",70
+Sample,62757,0,"LR_Kick Bass strong.wav",70
+Sample,62757,0,"LR_Hat Fast.wav",70
+Sample,63409,0,"LR_Hat Fast.wav",70
+Sample,63572,0,"LR_Hat Fast.wav",70
+Sample,64713,0,"LR_Kick Bass strong.wav",70
+Sample,66181,0,"LR_Tom Hit 3.wav",70
+Sample,66344,0,"LR_HiHat Click.wav",70
+Sample,67974,0,"LR_Hat Fast.wav",70
+Sample,68953,0,"LR_Hat Fast.wav",70
+Sample,69931,0,"LR_Hat Fast.wav",70
+Sample,70094,0,"LR_Kick Bass strong.wav",70
+Sample,70583,0,"LR_Kick Bass strong.wav",70
+Sample,70583,0,"LR_Hat Fast.wav",70
+Sample,71235,0,"LR_Hat Fast.wav",70
+Sample,71398,0,"LR_Kick Bass strong.wav",70
+Sample,73192,0,"LR_Hat Fast.wav",70
+Sample,74496,0,"LR_Hat Fast.wav",70
+Sample,75148,0,"LR_Hat Fast.wav",70
+Sample,75311,0,"LR_Kick Bass strong.wav",70
+Sample,75800,0,"LR_Kick Bass strong.wav",70
+Sample,75800,0,"LR_Hat Fast.wav",70
+Sample,76616,0,"LR_Tom Hit 3.wav",70
+Sample,76779,0,"LR_Hat Fast.wav",70
+Sample,78409,0,"LR_Hat Fast.wav",70
+Sample,79387,0,"LR_Hat Fast.wav",70
+Sample,80366,0,"LR_Hat Fast.wav",70
+Sample,80692,0,"LR_Hat Fast.wav",70
+Sample,81018,0,"LR_Kick Bass strong.wav",70
+Sample,81670,0,"LR_Hat Fast.wav",70
+Sample,81996,0,"LR_Snare Drum .wav",70
+Sample,82974,0,"LR_Hat Fast.wav",70
+Sample,83626,0,"LR_Kick Bass strong.wav",70
+Sample,83626,0,"LR_Hat Fast.wav",70
+
+[TimingPoints]
+1127,652.173913043478,4,2,1,100,1,0
+45474,-100.0,4,2,1,100,0,1
+66344,-100.0,4,2,1,100,0,0
+
+[HitObjects]
+182,192,474,1,0,0:0:0:70:F#6S_Gb6S.wav
+475,192,800,1,0,0:0:0:70:G#6S_Ab6S.wav
+402,192,963,1,0,0:0:0:70:F#6S_Gb6S.wav
+36,192,1127,128,0,2105:0:0:0:70:F#5S_Gb5S.wav
+329,192,1127,1,0,0:0:0:0:
+182,192,1453,1,0,0:0:0:40:F#6S_Gb6S.wav
+256,192,2105,1,0,0:0:0:70:C#6S_Db6S.wav
+109,192,2431,1,0,0:0:0:70:C#5S_Db5S.wav
+256,192,2757,1,0,0:0:0:70:C#6S_Db6S.wav
+182,192,3083,1,0,0:0:0:70:F#6S_Gb6S.wav
+475,192,3409,1,0,0:0:0:70:G#6S_Ab6S.wav
+402,192,3572,1,0,0:0:0:70:F#6S_Gb6S.wav
+36,192,3735,128,0,4713:0:0:0:70:F#5S_Gb5S.wav
+329,192,3735,1,0,0:0:0:0:
+182,192,4061,1,0,0:0:0:40:F#6S_Gb6S.wav
+256,192,4713,1,0,0:0:0:70:C#6S_Db6S.wav
+256,192,5203,1,0,0:0:0:70:C#6S_Db6S.wav
+109,192,6018,1,0,0:0:0:70:A#5S_Bb5S.wav
+182,192,6181,1,0,0:0:0:70:G#5S_Ab5S.wav
+256,192,6344,128,0,7322:0:0:0:70:F#5S_Gb5S.wav
+475,192,6344,128,0,7322:0:0:0:0:
+182,192,7648,128,0,8626:0:0:0:70:C#5S_Db5S.wav
+402,192,7648,128,0,8626:0:0:0:0:
+109,192,8953,128,0,10909:0:0:0:70:F#5S_Gb5S.wav
+329,192,8953,128,0,10257:0:0:0:0:
+475,192,10583,1,0,0:0:0:55:D#6S_Eb6S.wav
+402,192,10909,1,0,0:0:0:55:D#6S_Eb6S.wav
+329,192,11235,1,0,0:0:0:70:F6S.wav
+36,192,11561,1,0,0:0:0:55:F#6S_Gb6S.wav
+182,192,11561,1,0,0:0:0:70:LR_Kick Bass strong.wav
+402,192,11887,1,0,0:0:0:55:F#6S_Gb6S.wav
+256,192,12213,1,0,0:0:0:55:F#6S_Gb6S.wav
+182,192,12376,1,0,0:0:0:70:LR_HiHat Click.wav
+109,192,12540,1,0,0:0:0:55:F#6S_Gb6S.wav
+402,192,12703,1,0,0:0:0:55:F#6S_Gb6S.wav
+329,192,12866,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,13192,1,0,0:0:0:55:F6S.wav
+475,192,13518,1,0,0:0:0:55:D#6S_Eb6S.wav
+109,192,13844,1,0,0:0:0:55:C#6S_Db6S.wav
+329,192,14170,1,0,0:0:0:55:A#5S_Bb5S.wav
+182,192,14496,1,0,0:0:0:70:LR_HiHat Click.wav
+256,192,14659,1,0,0:0:0:55:C#6S_Db6S.wav
+36,192,14822,1,0,0:0:0:70:LR_Ride Med.wav
+329,192,14822,1,0,0:0:0:0:
+475,192,15148,1,0,0:0:0:70:LR_Hat Fast.wav
+109,192,15474,1,0,0:0:0:0:
+109,192,15800,1,0,0:0:0:0:
+402,192,16126,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,16453,1,0,0:0:0:55:A#5S_Bb5S.wav
+182,192,16616,1,0,0:0:0:55:B5S.wav
+36,192,16779,1,0,0:0:0:55:C#6S_Db6S.wav
+329,192,16779,1,0,0:0:0:70:LR_Kick Bass strong.wav
+475,192,17105,1,0,0:0:0:0:
+256,192,17431,1,0,0:0:0:70:LR_HiHat Click.wav
+329,192,17594,1,0,0:0:0:70:LR_HiHat Click.wav
+402,192,17757,1,0,0:0:0:55:A#5S_Bb5S.wav
+109,192,17920,1,0,0:0:0:55:C#6S_Db6S.wav
+182,192,18083,1,0,0:0:0:70:LR_Hat Fast.wav
+475,192,18409,1,0,0:0:0:55:A#5S_Bb5S.wav
+329,192,18735,1,0,0:0:0:55:G#5S_Ab5S.wav
+182,192,19061,1,0,0:0:0:55:G#5S_Ab5S.wav
+36,192,19224,1,0,0:0:0:55:A#5S_Bb5S.wav
+402,192,19387,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,19713,1,0,0:0:0:70:LR_HiHat Click.wav
+182,192,19876,1,0,0:0:0:70:LR_HiHat Click.wav
+109,192,20040,1,0,0:0:0:70:LR_Ride Med.wav
+475,192,20040,1,0,0:0:0:0:
+329,192,20366,1,0,0:0:0:0:
+256,192,20692,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,21018,1,0,0:0:0:55:D#6S_Eb6S.wav
+182,192,21344,1,0,0:0:0:55:D#6S_Eb6S.wav
+329,192,21670,1,0,0:0:0:55:F6S.wav
+36,192,21996,1,0,0:0:0:55:F#6S_Gb6S.wav
+475,192,21996,1,0,0:0:0:70:LR_Kick Bass strong.wav
+182,192,22322,1,0,0:0:0:55:F#6S_Gb6S.wav
+256,192,22485,1,0,0:0:0:55:F#6S_Gb6S.wav
+329,192,22648,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,22811,1,0,0:0:0:70:LR_HiHat Click.wav
+256,192,23137,1,0,0:0:0:55:F#6S_Gb6S.wav
+475,192,23300,1,0,0:0:0:70:LR_Hat Fast.wav
+402,192,23626,1,0,0:0:0:55:F6S.wav
+36,192,23953,1,0,0:0:0:55:D#6S_Eb6S.wav
+182,192,24279,1,0,0:0:0:55:C#6S_Db6S.wav
+329,192,24605,1,0,0:0:0:55:G#6S_Ab6S.wav
+475,192,24931,1,0,0:0:0:70:LR_HiHat Click.wav
+402,192,25094,1,0,0:0:0:55:F#6S_Gb6S.wav
+36,192,25257,1,0,0:0:0:70:LR_Ride Med.wav
+329,192,25257,1,0,0:0:0:0:
+109,192,25583,1,0,0:0:0:0:
+475,192,25909,1,0,0:0:0:0:
+475,192,26235,1,0,0:0:0:0:
+182,192,26561,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,26887,128,0,27213:0:0:0:55:A#5S_Bb5S.wav
+36,192,27213,1,0,0:0:0:55:B5S.wav
+329,192,27213,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,27540,1,0,0:0:0:0:
+402,192,27866,1,0,0:0:0:55:D#6S_Eb6S.wav
+329,192,28029,1,0,0:0:0:70:LR_HiHat Click.wav
+256,192,28192,1,0,0:0:0:55:F#6S_Gb6S.wav
+36,192,28518,1,0,0:0:0:55:G#6S_Ab6S.wav
+475,192,28844,1,0,0:0:0:0:
+329,192,29170,1,0,0:0:0:55:F6S.wav
+182,192,29496,1,0,0:0:0:0:
+256,192,29659,1,0,0:0:0:55:F#6S_Gb6S.wav
+475,192,29822,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,30148,1,0,0:0:0:70:LR_HiHat Click.wav
+109,192,30311,1,0,0:0:0:70:LR_HiHat Click.wav
+182,192,30474,1,0,0:0:0:70:LR_Ride Med.wav
+402,192,30474,1,0,0:0:0:0:
+329,192,30800,1,0,0:0:0:0:
+36,192,31126,1,0,0:0:0:70:LR_HiHat Click.wav
+402,192,31344,1,0,0:0:0:70:LR_HiHat Click.wav
+36,192,31561,1,0,0:0:0:70:LR_HiHat Click.wav
+475,192,31779,1,0,0:0:0:70:LR_HiHat Click.wav
+109,192,31996,1,0,0:0:0:70:LR_HiHat Click.wav
+475,192,32213,1,0,0:0:0:70:LR_HiHat Click.wav
+109,192,32431,1,0,0:0:0:70:LR_Kick Bass strong.wav
+182,192,32431,1,0,0:0:0:0:
+109,192,32757,1,0,0:0:0:70:LR_Kick Bass strong.wav
+182,192,32757,1,0,0:0:0:0:
+402,192,33083,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,33083,128,0,33409:0:0:0:0:
+329,192,33409,1,0,0:0:0:0:
+36,192,33572,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,33735,1,0,0:0:0:0:
+182,192,33898,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,34061,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,34061,1,0,0:0:0:0:
+402,192,34387,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,34387,128,0,34713:0:0:0:0:
+329,192,34713,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,35040,1,0,0:0:0:70:LR_Kick Bass strong.wav
+256,192,35040,1,0,0:0:0:0:
+109,192,35366,1,0,0:0:0:70:LR_Kick Bass strong.wav
+256,192,35366,1,0,0:0:0:0:
+36,192,35692,128,0,36018:0:0:0:70:LR_Snare Drum .wav
+182,192,35692,1,0,0:0:0:0:
+475,192,36018,1,0,0:0:0:55:C#6S_Db6S.wav
+402,192,36181,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,36344,1,0,0:0:0:55:A#5S_Bb5S.wav
+182,192,36507,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,36670,1,0,0:0:0:55:C#6S_Db6S.wav
+402,192,36670,1,0,0:0:0:70:LR_Kick Bass strong.wav
+36,192,36996,128,0,37322:0:0:0:55:D#6S_Eb6S.wav
+182,192,36996,1,0,0:0:0:70:LR_Snare Drum .wav
+329,192,37322,1,0,0:0:0:55:C#6S_Db6S.wav
+109,192,37485,1,0,0:0:0:55:C#6S_Db6S.wav
+256,192,37648,1,0,0:0:0:70:LR_Kick Bass strong.wav
+475,192,37648,1,0,0:0:0:0:
+256,192,37974,1,0,0:0:0:70:LR_Kick Bass strong.wav
+475,192,37974,1,0,0:0:0:0:
+109,192,38300,128,0,38626:0:0:0:70:LR_Snare Drum .wav
+329,192,38300,1,0,0:0:0:0:
+256,192,38626,1,0,0:0:0:0:
+329,192,38790,1,0,0:0:0:70:LR_Kick Bass strong.wav
+402,192,38953,1,0,0:0:0:0:
+182,192,39116,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,39279,1,0,0:0:0:55:C#6S_Db6S.wav
+475,192,39279,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,39605,128,0,39931:0:0:0:55:G#6S_Ab6S.wav
+329,192,39605,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,39931,1,0,0:0:0:55:F#6S_Gb6S.wav
+36,192,40257,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,40257,1,0,0:0:0:0:
+36,192,40583,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,40583,1,0,0:0:0:0:
+109,192,40909,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,40909,128,0,41235:0:0:0:0:
+182,192,41235,1,0,0:0:0:55:G#6S_Ab6S.wav
+109,192,41398,1,0,0:0:0:55:G#6S_Ab6S.wav
+329,192,41561,1,0,0:0:0:0:
+256,192,41724,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,41887,1,0,0:0:0:70:LR_Kick Bass strong.wav
+475,192,41887,1,0,0:0:0:0:
+109,192,42213,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,42213,128,0,44170:0:0:0:0:
+182,192,42540,128,0,44170:0:0:0:70:LR_Hat Fast.wav
+36,192,44822,1,0,0:0:0:55:C#6S_Db6S.wav
+109,192,44985,1,0,0:0:0:55:D#6S_Eb6S.wav
+182,192,45148,1,0,0:0:0:55:F#6S_Gb6S.wav
+329,192,45474,128,0,45800:0:0:0:50:LR_CymbalCCR.wav
+402,192,45474,128,0,45800:0:0:0:70:LR_Kick Bass strong.wav
+475,192,45474,128,0,45800:0:0:0:30:LR_CymbalQST.wav
+109,192,45800,1,0,0:0:0:55:C#7S_Db7S.wav
+182,192,45963,1,0,0:0:0:55:C#7S_Db7S.wav
+256,192,46126,1,0,0:0:0:55:C#7S_Db7S.wav
+402,192,46126,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,46453,1,0,0:0:0:55:A#6S_Bb6S.wav
+329,192,46616,1,0,0:0:0:55:A#6S_Bb6S.wav
+109,192,46779,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,46779,1,0,0:0:0:70:LR_Hat Fast.wav
+109,192,47105,1,0,0:0:0:55:G#6S_Ab6S.wav
+182,192,47268,1,0,0:0:0:55:G#6S_Ab6S.wav
+256,192,47431,1,0,0:0:0:55:G#6S_Ab6S.wav
+402,192,47431,1,0,0:0:0:70:LR_Snare Drum .wav
+36,192,47757,1,0,0:0:0:55:F#6S_Gb6S.wav
+475,192,47920,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,48083,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,48083,1,0,0:0:0:70:LR_Hat Fast.wav
+402,192,48409,1,0,0:0:0:55:C#7S_Db7S.wav
+329,192,48572,1,0,0:0:0:55:C#7S_Db7S.wav
+109,192,48735,1,0,0:0:0:55:C#7S_Db7S.wav
+256,192,48735,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,49061,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,49224,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,49387,1,0,0:0:0:55:A#6S_Bb6S.wav
+402,192,49387,1,0,0:0:0:70:LR_Hat Fast.wav
+402,192,49713,1,0,0:0:0:55:G#6S_Ab6S.wav
+329,192,49876,1,0,0:0:0:55:G#6S_Ab6S.wav
+109,192,50040,1,0,0:0:0:55:G#6S_Ab6S.wav
+256,192,50040,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,50366,1,0,0:0:0:55:A#6S_Bb6S.wav
+36,192,50529,1,0,0:0:0:70:LR_Hat Fast.wav
+182,192,50692,128,0,51018:0:0:0:55:B6S.wav
+475,192,50692,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,51018,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,51181,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,51344,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,51344,1,0,0:0:0:0:
+182,192,51507,1,0,0:0:0:55:F6S.wav
+256,192,51670,1,0,0:0:0:55:F#6S_Gb6S.wav
+329,192,51833,1,0,0:0:0:55:G#6S_Ab6S.wav
+109,192,51996,1,0,0:0:0:55:B6S.wav
+402,192,51996,128,0,52322:0:0:0:70:LR_Hat Fast.wav
+256,192,52322,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,52485,1,0,0:0:0:55:F#6S_Gb6S.wav
+36,192,52648,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,52648,1,0,0:0:0:0:
+329,192,52974,1,0,0:0:0:55:F#6S_Gb6S.wav
+256,192,53137,1,0,0:0:0:70:LR_Hat Fast.wav
+109,192,53300,128,0,53626:0:0:0:55:F6S.wav
+182,192,53300,1,0,0:0:0:70:LR_Kick Bass strong.wav
+475,192,53626,128,0,53953:0:0:0:55:F#6S_Gb6S.wav
+256,192,53953,1,0,0:0:0:55:F6S.wav
+329,192,53953,128,0,54279:0:0:0:70:LR_Snare Drum .wav
+402,192,54279,1,0,0:0:0:55:C#6S_Db6S.wav
+182,192,54442,1,0,0:0:0:70:LR_Kick Bass strong.wav
+36,192,54605,1,0,0:0:0:70:LR_Hat Fast.wav
+475,192,54768,1,0,0:0:0:70:LR_Snare Drum .wav
+256,192,54931,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,54931,1,0,0:0:0:70:LR_Hat Fast.wav
+109,192,55257,1,0,0:0:0:55:C#6S_Db6S.wav
+402,192,55257,1,0,0:0:0:70:LR_Tom Hit 2.wav
+109,192,55420,1,0,0:0:0:55:D#6S_Eb6S.wav
+256,192,55583,1,0,0:0:0:55:F#6S_Gb6S.wav
+475,192,55583,1,0,0:0:0:70:LR_Tom Hit 3.wav
+475,192,55746,1,0,0:0:0:70:LR_Tom Hit 3.wav
+36,192,55909,128,0,56235:0:0:0:50:LR_CymbalCCR.wav
+182,192,55909,128,0,56235:0:0:0:30:LR_CymbalQST.wav
+329,192,55909,1,0,0:0:0:0:
+475,192,56235,1,0,0:0:0:55:C#7S_Db7S.wav
+329,192,56398,1,0,0:0:0:55:C#7S_Db7S.wav
+36,192,56561,1,0,0:0:0:55:C#7S_Db7S.wav
+256,192,56561,1,0,0:0:0:70:LR_Snare Drum .wav
+36,192,56887,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,57050,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,57213,1,0,0:0:0:55:A#6S_Bb6S.wav
+475,192,57213,1,0,0:0:0:70:LR_Hat Fast.wav
+475,192,57540,1,0,0:0:0:55:G#6S_Ab6S.wav
+329,192,57703,1,0,0:0:0:55:G#6S_Ab6S.wav
+36,192,57866,1,0,0:0:0:55:G#6S_Ab6S.wav
+256,192,57866,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,58192,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,58355,1,0,0:0:0:70:LR_Hat Fast.wav
+402,192,58518,1,0,0:0:0:70:LR_Kick Bass strong.wav
+475,192,58518,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,58844,1,0,0:0:0:55:C#7S_Db7S.wav
+182,192,59007,1,0,0:0:0:55:C#7S_Db7S.wav
+256,192,59170,1,0,0:0:0:55:C#7S_Db7S.wav
+475,192,59170,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,59496,1,0,0:0:0:55:A#6S_Bb6S.wav
+329,192,59659,1,0,0:0:0:55:A#6S_Bb6S.wav
+36,192,59822,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,59822,1,0,0:0:0:70:LR_Hat Fast.wav
+36,192,60148,1,0,0:0:0:55:G#6S_Ab6S.wav
+182,192,60311,1,0,0:0:0:55:G#6S_Ab6S.wav
+256,192,60474,1,0,0:0:0:55:G#6S_Ab6S.wav
+475,192,60474,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,60800,1,0,0:0:0:55:A#6S_Bb6S.wav
+402,192,60963,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,61126,1,0,0:0:0:55:B6S.wav
+329,192,61126,128,0,61453:0:0:0:50:LR_CymbalQST.wav
+256,192,61453,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,61616,1,0,0:0:0:55:F#6S_Gb6S.wav
+36,192,61779,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,61779,1,0,0:0:0:0:
+182,192,61942,1,0,0:0:0:55:F6S.wav
+256,192,62105,1,0,0:0:0:55:F#6S_Gb6S.wav
+329,192,62268,1,0,0:0:0:55:G#6S_Ab6S.wav
+109,192,62431,1,0,0:0:0:55:B6S.wav
+402,192,62431,128,0,62757:0:0:0:50:LR_CymbalQST.wav
+329,192,62757,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,62920,1,0,0:0:0:55:G#6S_Ab6S.wav
+36,192,63083,1,0,0:0:0:70:LR_Snare Drum .wav
+182,192,63083,1,0,0:0:0:0:
+329,192,63246,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,63409,1,0,0:0:0:55:F6S.wav
+475,192,63572,1,0,0:0:0:55:F#6S_Gb6S.wav
+182,192,63735,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,63735,1,0,0:0:0:70:LR_Hat Fast.wav
+182,192,64061,1,0,0:0:0:70:LR_Snare Drum .wav
+329,192,64061,1,0,0:0:0:0:
+36,192,64387,1,0,0:0:0:50:LR_CymbalQST.wav
+475,192,64387,1,0,0:0:0:70:LR_Snare Drum .wav
+256,192,64713,1,0,0:0:0:55:C#6S_Db6S.wav
+109,192,64876,1,0,0:0:0:55:D#6S_Eb6S.wav
+402,192,64876,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,65203,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,65203,1,0,0:0:0:0:
+182,192,65366,1,0,0:0:0:55:F#6S_Gb6S.wav
+329,192,65366,1,0,0:0:0:70:LR_Kick Bass strong.wav
+256,192,65529,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,65692,1,0,0:0:0:55:G#6S_Ab6S.wav
+475,192,65692,1,0,0:0:0:70:LR_Tom Hit 2.wav
+475,192,65855,1,0,0:0:0:70:LR_Tom Hit 2.wav
+36,192,66018,1,0,0:0:0:55:F#6S_Gb6S.wav
+402,192,66018,1,0,0:0:0:70:LR_Tom Hit 3.wav
+36,192,66181,1,0,0:0:0:55:A#6S_Bb6S.wav
+329,192,66344,128,0,66670:0:0:0:30:LR_CymbalQST.wav
+402,192,66344,128,0,66670:0:0:0:70:LR_Kick Bass strong.wav
+109,192,66670,128,0,66996:0:0:0:70:LR_Hat Fast.wav
+256,192,66996,1,0,0:0:0:70:LR_Snare Drum .wav
+182,192,67159,1,0,0:0:0:0:
+402,192,67322,1,0,0:0:0:70:LR_Hat Fast.wav
+329,192,67485,1,0,0:0:0:70:LR_Kick Bass strong.wav
+36,192,67648,128,0,67974:0:0:0:70:LR_Hat Fast.wav
+475,192,67974,128,0,68300:0:0:0:70:LR_Kick Bass strong.wav
+182,192,68300,1,0,0:0:0:70:LR_Snare Drum .wav
+256,192,68463,1,0,0:0:0:0:
+402,192,68626,1,0,0:0:0:70:LR_Hat Fast.wav
+329,192,68790,1,0,0:0:0:0:
+109,192,68953,128,0,69279:0:0:0:70:LR_Kick Bass strong.wav
+182,192,69279,128,0,69605:0:0:0:70:LR_Hat Fast.wav
+402,192,69605,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,69605,1,0,0:0:0:0:
+36,192,69931,1,0,0:0:0:55:C#6S_Db6S.wav
+109,192,70094,1,0,0:0:0:55:D#6S_Eb6S.wav
+329,192,70257,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,70420,1,0,0:0:0:0:
+475,192,70583,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,70909,1,0,0:0:0:55:G#6S_Ab6S.wav
+182,192,70909,1,0,0:0:0:70:LR_Snare Drum .wav
+402,192,71235,1,0,0:0:0:55:C#7S_Db7S.wav
+329,192,71398,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,71561,128,0,71887:0:0:0:50:LR_CymbalQST.wav
+256,192,71561,128,0,71887:0:0:0:70:LR_Hat Fast.wav
+475,192,71887,128,0,72213:0:0:0:70:LR_Hat Fast.wav
+109,192,72213,1,0,0:0:0:70:LR_Snare Drum .wav
+182,192,72376,1,0,0:0:0:0:
+402,192,72540,1,0,0:0:0:70:LR_Hat Fast.wav
+329,192,72703,1,0,0:0:0:70:LR_Kick Bass strong.wav
+36,192,72866,128,0,73192:0:0:0:70:LR_Hat Fast.wav
+256,192,73192,128,0,73518:0:0:0:70:LR_Kick Bass strong.wav
+402,192,73518,1,0,0:0:0:70:LR_Snare Drum .wav
+329,192,73681,1,0,0:0:0:0:
+109,192,73844,1,0,0:0:0:70:LR_Hat Fast.wav
+182,192,74007,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,74170,128,0,74496:0:0:0:70:LR_Hat Fast.wav
+256,192,74496,128,0,74822:0:0:0:70:LR_Kick Bass strong.wav
+36,192,74822,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,74822,1,0,0:0:0:0:
+109,192,75148,1,0,0:0:0:55:C#6S_Db6S.wav
+182,192,75311,1,0,0:0:0:55:D#6S_Eb6S.wav
+329,192,75474,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,75637,1,0,0:0:0:70:LR_Snare Drum .wav
+182,192,75800,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,75963,1,0,0:0:0:70:LR_Kick Bass strong.wav
+36,192,76126,1,0,0:0:0:55:G#6S_Ab6S.wav
+402,192,76126,1,0,0:0:0:70:LR_Tom Hit 2.wav
+402,192,76290,1,0,0:0:0:70:LR_Tom Hit 3.wav
+109,192,76453,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,76616,1,0,0:0:0:55:A#6S_Bb6S.wav
+256,192,76779,128,0,77105:0:0:0:50:LR_CymbalQST.wav
+329,192,76779,128,0,77105:0:0:0:70:LR_Kick Bass strong.wav
+36,192,77105,128,0,77431:0:0:0:70:LR_Hat Fast.wav
+182,192,77431,1,0,0:0:0:70:LR_Snare Drum .wav
+256,192,77594,1,0,0:0:0:0:
+475,192,77757,1,0,0:0:0:70:LR_Hat Fast.wav
+402,192,77920,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,78083,128,0,78409:0:0:0:70:LR_Hat Fast.wav
+329,192,78409,128,0,78735:0:0:0:70:LR_Kick Bass strong.wav
+36,192,78735,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,78898,1,0,0:0:0:0:
+475,192,79061,1,0,0:0:0:70:LR_Hat Fast.wav
+402,192,79224,1,0,0:0:0:70:LR_Hat Fast.wav
+256,192,79387,128,0,79713:0:0:0:70:LR_Kick Bass strong.wav
+182,192,79713,128,0,80040:0:0:0:70:LR_Hat Fast.wav
+36,192,80040,1,0,0:0:0:70:LR_Snare Drum .wav
+329,192,80040,1,0,0:0:0:0:
+475,192,80366,1,0,0:0:0:55:C#7S_Db7S.wav
+402,192,80529,1,0,0:0:0:70:LR_Kick Bass strong.wav
+109,192,80692,1,0,0:0:0:55:D#7S_Eb7S.wav
+182,192,80855,1,0,0:0:0:70:LR_Snare Drum .wav
+256,192,81018,1,0,0:0:0:55:A#6S_Bb6S.wav
+36,192,81344,1,0,0:0:0:55:G#6S_Ab6S.wav
+329,192,81344,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,81670,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,81833,1,0,0:0:0:70:LR_Kick Bass strong.wav
+329,192,81996,128,0,82648:0:0:0:55:B6S.wav
+402,192,81996,128,0,82648:0:0:0:50:LR_CymbalQST.wav
+256,192,82322,128,0,82648:0:0:0:70:LR_Hat Fast.wav
+36,192,82648,1,0,0:0:0:55:A#6S_Bb6S.wav
+182,192,82648,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,82974,1,0,0:0:0:55:G#6S_Ab6S.wav
+402,192,83137,1,0,0:0:0:70:LR_Kick Bass strong.wav
+256,192,83300,1,0,0:0:0:70:LR_Snare Drum .wav
+109,192,83463,1,0,0:0:0:70:LR_Snare Drum .wav
+475,192,83626,1,0,0:0:0:55:F#6S_Gb6S.wav
+109,192,83953,1,0,0:0:0:55:F6S.wav
+329,192,83953,1,0,0:0:0:70:LR_Tom Hit 2.wav
+109,192,84116,1,0,0:0:0:70:LR_Tom Hit 2.wav
+182,192,84279,1,0,0:0:0:55:F#6S_Gb6S.wav
+402,192,84279,1,0,0:0:0:70:LR_Tom Hit 3.wav
+402,192,84442,1,0,0:0:0:70:LR_Tom Hit 3.wav
+36,192,84605,128,0,87866:0:0:0:50:LR_CymbalQST.wav
+256,192,84605,128,0,87866:0:0:0:70:LR_Kick Bass strong.wav
