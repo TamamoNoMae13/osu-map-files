@@ -1,0 +1,115 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 139
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 892,8425,12191,16192,23489,27256,31022
+DistanceSpacing: 1
+BeatDivisor: 6
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Ooame
+TitleUnicode:大雨
+Artist:Ichinose Go
+ArtistUnicode:一之瀬剛
+Creator:Slyme
+Version:Kantan
+Source:ポケットモンスター ルビー・サファイア
+Tags:pokémon pocket monsters gameboy pokemon sapphire and ruby emerald Ōame instrumental gba boy advance nintendo game freak kyogre カイオーガ heavy rain mari_0hara mari 0hara ohara video game silveryako ゲームボーイアドバンス ポケモンルビー＆サファイア ミュージック・スーパーコンプリート musical super collection complete & music vgm original soundtrack ost ポケットモンスターエメラルド oame gamefreak electronic
+BeatmapID:3632525
+BeatmapSetID:1774096
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:2.5
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"kyogre1920.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+892,470.772852098862,4,1,0,60,1,0
+35249,-100,4,1,0,50,0,0
+35406,-100,4,1,0,40,0,0
+35563,-100,4,1,0,30,0,0
+35719,-100,4,1,0,20,0,0
+
+
+[HitObjects]
+256,192,892,5,0,0:0:0:0:
+256,192,1362,1,0,0:0:0:0:
+256,192,1833,1,0,0:0:0:0:
+256,192,2461,1,8,0:0:0:0:
+256,192,2775,1,0,0:0:0:0:
+256,192,4187,1,8,0:0:0:0:
+256,192,4658,1,8,0:0:0:0:
+256,192,5128,1,8,0:0:0:0:
+256,192,5599,1,0,0:0:0:0:
+256,192,6227,1,8,0:0:0:0:
+256,192,6541,1,0,0:0:0:0:
+256,192,8424,1,0,0:0:0:0:
+256,192,9365,1,0,0:0:0:0:
+256,192,9679,1,8,0:0:0:0:
+256,192,10307,1,0,0:0:0:0:
+256,192,11249,1,8,0:0:0:0:
+256,192,11719,1,0,0:0:0:0:
+256,192,12190,1,8,0:0:0:0:
+256,192,12661,1,0,0:0:0:0:
+256,192,13132,1,8,0:0:0:0:
+256,192,14073,1,0,0:0:0:0:
+256,192,15015,1,0,0:0:0:0:
+256,192,15485,1,8,0:0:0:0:
+256,192,15956,1,0,0:0:0:0:
+256,192,16427,1,0,0:0:0:0:
+256,192,16898,1,0,0:0:0:0:
+256,192,17525,1,8,0:0:0:0:
+256,192,17839,1,0,0:0:0:0:
+256,192,19252,1,8,0:0:0:0:
+256,192,19722,1,8,0:0:0:0:
+256,192,20193,1,8,0:0:0:0:
+256,192,20664,1,0,0:0:0:0:
+256,192,21292,1,8,0:0:0:0:
+256,192,21606,1,0,0:0:0:0:
+256,192,23489,1,8,0:0:0:0:
+256,192,24430,1,0,0:0:0:0:
+256,192,24744,1,8,0:0:0:0:
+256,192,25372,1,0,0:0:0:0:
+256,192,26313,1,0,0:0:0:0:
+256,192,26784,1,8,0:0:0:0:
+256,192,27255,1,8,0:0:0:0:
+256,192,27726,1,0,0:0:0:0:
+256,192,28196,1,0,0:0:0:0:
+256,192,29138,1,8,0:0:0:0:
+256,192,30079,1,0,0:0:0:0:
+256,192,30550,1,8,0:0:0:0:
+256,192,31021,1,8,0:0:0:0:
+256,192,31492,1,0,0:0:0:0:
+256,192,31963,1,0,0:0:0:0:
+256,192,32590,1,8,0:0:0:0:
+256,192,32904,1,0,0:0:0:0:
+256,192,34316,1,8,0:0:0:0:
+256,192,34787,1,0,0:0:0:0:
+256,192,35258,1,8,0:0:0:0:
+256,192,35729,1,0,0:0:0:0:

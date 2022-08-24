@@ -1,0 +1,92 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 6855
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 2
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Enchantix (TV Size)
+TitleUnicode:Enchantix (TV Size)
+Artist:Eva Jagun
+ArtistUnicode:Eva Jagun
+Creator:zerokt
+Version:Cup
+Source:Winx Club
+Tags:animestyle german deutsch pop fairy transformation sequence cartoon rainbow nick nickelodeon
+BeatmapID:3724484
+BeatmapSetID:1815509
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:2.4
+OverallDifficulty:6
+ApproachRate:6
+SliderMultiplier:1.3
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"winkis.jpg",0,0
+Video,-272,"clueless.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+55,400,4,2,1,40,1,0
+36955,-100,4,2,1,40,0,0
+
+
+[Colours]
+Combo1 : 128,255,255
+Combo2 : 255,0,0
+
+[HitObjects]
+464,216,55,6,0,P|320:80|88:248,2,520,6|6|6,0:0|0:0|0:0,0:0:0:0:
+168,296,4855,2,0,L|440:296,2,260,6|6|6,0:0|0:0|0:0,0:0:0:0:
+392,288,8055,6,0,P|456:232|376:168,1,195,6|2,3:2|3:2,0:0:0:0:
+184,168,9255,1,10,0:0:0:0:
+72,168,9655,2,0,L|312:168,2,195,6|2|8,3:2|3:2|0:0,0:0:0:0:
+208,64,11255,6,0,L|432:64,1,195,6|2,3:2|3:2,0:0:0:0:
+208,72,12455,1,10,0:0:0:0:
+336,80,12855,2,0,L|96:80,2,195,6|2|10,3:2|3:2|0:0,0:0:0:0:
+200,112,14855,5,10,0:0:0:0:
+72,104,15255,2,0,L|256:104,1,130,2|10,0:0|0:0,0:0:0:0:
+344,104,16055,2,0,P|408:168|296:272,1,260,6|0,3:2|0:0,0:0:0:0:
+208,272,17255,1,10,0:0:0:0:
+336,264,17655,6,0,L|48:264,1,260,6|0,3:2|0:0,0:0:0:0:
+328,120,19255,2,0,L|112:120,2,195,6|2|14,3:2|3:2|0:0,0:0:0:0:
+120,112,21255,5,10,0:0:0:0:
+57,95,21455,1,2,3:2:0:0:
+16,112,21655,2,0,L|16:280,1,130,0|10,0:0|0:0,0:0:0:0:
+144,248,22455,2,0,L|352:248,2,195,6|2|10,3:2|3:2|0:0,0:0:0:0:
+384,72,24455,5,10,0:0:0:0:
+256,72,24855,2,0,L|424:72,1,130,0|0,0:0|0:0,0:0:0:0:
+496,64,25655,1,6,3:2:0:0:
+344,64,26055,1,10,0:0:0:0:
+273,63,26255,2,0,P|217:127|226:239,1,195,2|0,3:2|0:0,0:0:0:0:
+352,224,27255,5,6,3:2:0:0:
+222,212,27655,1,10,0:0:0:0:
+156,206,27855,2,0,P|127:160|239:120,1,195,2|8,3:2|0:0,0:0:0:0:
+352,176,28855,2,0,L|104:176,2,195,6|0|10,3:2|3:2|0:0,0:0:0:0:
+200,176,30455,6,0,P|111:137|106:32,2,195,6|2|8,3:2|3:2|0:0,0:0:0:0:
+329,186,32055,2,0,P|418:147|423:42,2,195,6|2|0,3:2|3:2|0:0,0:0:0:0:
+199,185,33655,1,6,3:2:0:0:
+371,63,35255,6,0,L|108:63,2,260,6|6|6,0:0|0:0|0:0,0:0:0:0:
