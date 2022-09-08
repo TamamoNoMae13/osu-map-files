@@ -1,0 +1,101 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 22535
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 2.4
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Dialtone
+TitleUnicode:Dialtone
+Artist:Toby Fox
+ArtistUnicode:Toby Fox
+Creator:WhenYouSeeIt
+Version:[[Kantan]]
+Source:DELTARUNE
+Tags:ost vgm electronic original soundtrack instrumental video game music spamton "radiation" g. chapter 2 undertale deltarune cyber world two chiptune
+BeatmapID:3707680
+BeatmapSetID:1787972
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:4.5
+OverallDifficulty:1
+ApproachRate:8.8
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bgxd.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+382,923.076923076923,3,1,0,65,1,0
+382,-100,3,1,0,65,0,0
+25760,-100,3,1,0,45,0,0
+26914,-100,3,1,0,65,0,0
+31299,-100,3,1,0,45,0,0
+32452,-100,3,1,0,65,0,0
+36837,-100,3,1,0,45,0,0
+37991,-100,3,1,0,65,0,0
+43298,-100,3,1,0,50,0,0
+43991,-100,3,1,0,30,0,0
+
+
+[HitObjects]
+256,191,382,5,8,0:0:0:0:
+256,191,1766,1,8,0:0:0:0:
+255,192,3151,1,0,0:0:0:0:
+255,191,4766,1,8,0:0:0:0:
+256,191,5920,1,0,0:0:0:0:
+256,191,7305,1,0,0:0:0:0:
+255,192,8689,1,0,0:0:0:0:
+256,191,10305,1,8,0:0:0:0:
+256,191,11458,1,0,0:0:0:0:
+256,191,12843,1,0,0:0:0:0:
+255,192,14228,1,8,0:0:0:0:
+255,191,15843,1,0,0:0:0:0:
+255,191,16997,1,8,0:0:0:0:
+255,191,18381,1,0,0:0:0:0:
+255,191,19766,1,8,0:0:0:0:
+255,191,21151,1,8,0:0:0:0:
+255,191,21843,1,0,0:0:0:0:
+255,191,22535,1,8,0:0:0:0:
+255,191,23920,1,8,0:0:0:0:
+255,191,25305,1,0,0:0:0:0:
+275,92,25766,2,0,B|327:120|327:120|339:188,1,105
+255,191,26920,1,8,0:0:0:0:
+255,191,28074,1,0,0:0:0:0:
+255,192,29458,1,0,0:0:0:0:
+255,192,30843,1,8,0:0:0:0:
+227,92,31305,2,0,B|175:120|175:120|163:188,1,105
+255,191,32458,1,0,0:0:0:0:
+255,191,33612,1,8,0:0:0:0:
+255,191,34997,1,0,0:0:0:0:
+255,191,36381,1,8,0:0:0:0:
+228,286,36843,2,0,B|176:258|176:258|164:190,1,105
+256,192,37997,1,8,0:0:0:0:
+255,191,39151,1,0,0:0:0:0:
+255,191,40535,1,8,0:0:0:0:
+256,191,41920,1,0,0:0:0:0:
+255,191,43305,1,8,0:0:0:0:
+255,191,43997,1,0,0:0:0:0:
