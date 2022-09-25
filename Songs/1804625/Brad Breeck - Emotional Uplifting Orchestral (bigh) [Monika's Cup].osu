@@ -1,0 +1,103 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 12748
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 2
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 3.2
+BeatDivisor: 3
+GridSize: 32
+TimelineZoom: 0.9
+
+[Metadata]
+Title:Emotional Uplifting Orchestral
+TitleUnicode:Emotional Uplifting Orchestral
+Artist:Brad Breeck
+ArtistUnicode:Brad Breeck
+Creator:bigh
+Version:Monika's Cup
+Source:We Bare Bears
+Tags:cartoon network cn animation animated tv daniel chong wbb grizzly panda panpan ice bear bradbreeck episode 004 e004 Chloe other instrumental Monika DDD Monika_DDD bighzonda
+BeatmapID:3700612
+BeatmapSetID:1804625
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:2.5
+OverallDifficulty:5.7
+ApproachRate:5.7
+SliderMultiplier:2.50000000596047
+SliderTickRate:1.5
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+281,779.220779220779,4,2,1,50,1,0
+12748,-100,4,2,1,70,0,0
+31969,-100,4,2,1,60,0,0
+32293,-100,4,2,1,53,0,0
+32618,-100,4,2,1,45,0,0
+32943,-100,4,2,1,38,0,0
+33268,-100,4,2,1,30,0,0
+33592,-100,4,2,1,23,0,0
+33917,-100,4,2,1,16,0,0
+34242,-100,4,2,1,9,0,0
+34566,-100,4,2,1,5,0,0
+
+
+[Colours]
+Combo1 : 185,176,151
+Combo2 : 131,124,153
+Combo3 : 100,121,176
+Combo4 : 217,196,164
+
+[HitObjects]
+8,276,280,6,0,P|175:278|296:277,1,250.000000596047,2|0,0:0|0:0,0:0:0:0:
+508,221,1839,2,0,P|278:216|183:218,1,250.000000596047
+7,137,3397,5,0,0:0:0:0:
+252,265,4177,1,2,0:0:0:0:
+500,181,4956,1,2,0:0:0:0:
+263,141,5735,1,2,0:0:0:0:
+496,92,6514,6,0,P|421:237|260:45,1,500.000001192094,2|2,0:0|0:0,0:0:0:0:
+502,120,8852,1,2,0:0:0:0:
+253,115,9631,5,2,0:0:0:0:
+5,125,10410,1,2,0:0:0:0:
+256,39,11190,2,0,B|58:39|58:39|19:376,1,500.000001192094,2|2,0:0|0:0,0:0:0:0:
+188,120,13268,5,0,0:0:0:0:
+272,108,13527,1,2,0:0:0:0:
+104,103,14047,1,0,0:0:0:0:
+22,126,14306,1,2,0:0:0:0:
+272,126,15086,1,2,0:0:0:0:
+503,155,15865,5,2,0:0:0:0:
+336,132,16384,1,0,0:0:0:0:
+253,122,16644,1,2,0:0:0:0:
+420,210,17164,1,0,0:0:0:0:
+502,290,17423,2,0,B|245:283|245:283,2,250.000000596047,2|2|2,0:0|0:0|0:0,0:0:0:0:
+335,145,19501,5,0,0:0:0:0:
+252,140,19761,1,2,0:0:0:0:
+85,168,20280,1,0,0:0:0:0:
+169,161,20540,1,2,0:0:0:0:
+419,252,21319,1,2,0:0:0:0:
+179,262,22099,6,0,P|9:181|202:11,1,500.000001192094,2|2,0:0|0:0,0:0:0:0:
+414,277,24436,1,2,0:0:0:0:
+112,228,25216,6,0,P|122:156|411:253,1,500.000001192094,2|2,0:0|0:0,0:0:0:0:
+66,249,28332,6,0,B|329:188|329:188|418:-47,1,500.000001192094,2|2,0:0|0:0,0:0:0:0:
+161,28,30670,1,2,0:0:0:0:
+256,192,32006,12,0,34566,0:0:0:0:
