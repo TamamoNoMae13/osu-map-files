@@ -1,0 +1,1019 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 77205
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 2
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 6321,8901,10030,11482,14063,15192,16643,19224,20353,34708,39869,42450,43740,45030,50192,52772,55353,57934,59224,60514,63095,64385,65676,69547,70837,73418,74547,78579,80514,81159,83740,86321,87450,89224,91482,92772,94063,96643,97772,99224,100353,101805,102772,104385,105514,109547,112127,114708,115837,117289,119869,122450,123740,125030,126159
+DistanceSpacing: 1
+BeatDivisor: 2
+GridSize: 16
+TimelineZoom: 1.1
+
+[Metadata]
+Title:Euphorium (Game Ver.)
+TitleUnicode:ユーフォリアム (Game Ver.)
+Artist:Suzuyu
+ArtistUnicode:鈴湯
+Creator:-Joakh
+Version:muya-'s Salad
+Source:アストラエアの白き永遠 Finale -白き星の夢-
+Tags:creamy candy muya- hac aiexander -Hex- -Rustyy Galgame White Eternity of Astral Air no Shiroki Towa Finale Hoshi no Yume Video Game Videogame FAVORITE 山本美禰子 Yamamoto Mineko 小高光太郎 Odaka Kotaro UiNA Eroge Japanese Visual Novel VN Opening OP short version ver. jpop j-pop pop
+BeatmapID:3673418
+BeatmapSetID:1781554
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:7
+ApproachRate:7
+SliderMultiplier:1.3
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG5.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,1480,0,"Keysound/Grand Piano/Grand Piano_C#4_1130",100
+Sample,1480,0,"Keysound/Grand Piano/Grand Piano_C#5_1130",100
+Sample,2770,0,"Keysound/Grand Piano/Grand Piano_D4_1130",100
+Sample,2770,0,"Keysound/Grand Piano/Grand Piano_D5_1130",100
+Sample,4060,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,4060,0,"Keysound/Grand Piano/Grand Piano_E5_1130",100
+Sample,6318,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,6399,0,"Keysound/Strings/Short Strings/Short String_C#6_81",100
+Sample,6479,0,"Keysound/Strings/Short Strings/Short String_D6_81",100
+Sample,6560,0,"Keysound/Strings/Short Strings/Short String_C#6_81",100
+Sample,6641,0,"Keysound/Strings/Long Strings/Long String_E6_1775",100
+Sample,6641,0,"Keysound/Grand Piano/Grand Piano_A4_807",100
+Sample,6641,0,"Keysound/Grand Piano/Grand Piano_E4_807",100
+Sample,6641,0,"Keysound/Grand Piano/Grand Piano_E5_807",100
+Sample,7770,0,"Keysound/Grand Piano/Grand Piano_B4_1130",100
+Sample,7770,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,7770,0,"Keysound/Grand Piano/Grand Piano_E5_1130",100
+Sample,8576,0,"Keysound/Strings/Long Strings/Long String_B6_646",100
+Sample,9221,0,"Keysound/Grand Piano/Grand Piano_A5_807",100
+Sample,9221,0,"Keysound/Grand Piano/Grand Piano_E5_807",100
+Sample,9221,0,"Keysound/Strings/Long Strings/Long String_A6_968",100
+Sample,9221,0,"Keysound/Grand Piano/Grand Piano_A4_807",100
+Sample,10189,0,"Keysound/Strings/Long Strings/Long String_B6_162",100
+Sample,10350,0,"Keysound/Grand Piano/Grand Piano_C#5_646",100
+Sample,10350,0,"Keysound/Strings/Long Strings/Long String_C#7_968",100
+Sample,10350,0,"Keysound/Grand Piano/Grand Piano_C#6_646",100
+Sample,11802,0,"Keysound/Strings/Long Strings/Long String_A6_646",100
+Sample,11802,0,"Keysound/Grand Piano/Grand Piano_A4_484",100
+Sample,11802,0,"Keysound/Grand Piano/Grand Piano_A5_484",100
+Sample,12608,0,"Keysound/Grand Piano/Grand Piano_E5_323",100
+Sample,12608,0,"Keysound/Grand Piano/Grand Piano_E4_323",100
+Sample,12608,0,"Keysound/Strings/Long Strings/Long String_G#6_162",100
+Sample,12770,0,"Keysound/Strings/Long Strings/Long String_E6_162",100
+Sample,12931,0,"Keysound/Strings/Long Strings/Long String_B5_484",100
+Sample,13092,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,13092,0,"Keysound/Grand Piano/Grand Piano_B4_162",100
+Sample,13451,0,"Keysound/Grand Piano/Grand Piano_B4_162",100
+Sample,13451,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,13576,0,"Keysound/Strings/Long Strings/Long String_E6_484",100
+Sample,13737,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,13737,0,"Keysound/Grand Piano/Grand Piano_B4_162",100
+Sample,14060,0,"Keysound/Grand Piano/Grand Piano_A3_162",100
+Sample,14060,0,"Keysound/Strings/Long Strings/Long String_G#6_323",100
+Sample,14383,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,14383,0,"Keysound/Strings/Long Strings/Long String_B6_323",100
+Sample,14383,0,"Keysound/Grand Piano/Grand Piano_B4_162",100
+Sample,14866,0,"Keysound/Strings/Long Strings/Long String_E7_242",100
+Sample,14866,0,"Keysound/Grand Piano/Grand Piano_E4_323",100
+Sample,14866,0,"Keysound/Grand Piano/Grand Piano_E5_323",100
+Sample,15189,0,"Keysound/Strings/Long Strings/Long String_D7_242",100
+Sample,15512,0,"Keysound/Grand Piano/Grand Piano_C#5_162",100
+Sample,15512,0,"Keysound/Strings/Long Strings/Long String_C#7_323",100
+Sample,15512,0,"Keysound/Grand Piano/Grand Piano_C#4_162",100
+Sample,15834,0,"Keysound/Grand Piano/Grand Piano_C#4_162",100
+Sample,15834,0,"Keysound/Strings/Short Strings/Short String_C#7_41",100
+Sample,15834,0,"Keysound/Grand Piano/Grand Piano_C#5_162",100
+Sample,15915,0,"Keysound/Strings/Short Strings/Short String_B6_41",100
+Sample,15995,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,15995,0,"Keysound/Strings/Short Strings/Short String_C#7_41",100
+Sample,16076,0,"Keysound/Strings/Short Strings/Short String_A6_41",100
+Sample,16157,0,"Keysound/Grand Piano/Grand Piano_G#4_162",100
+Sample,16157,0,"Keysound/Strings/Long Strings/Long String_G#6_162",100
+Sample,16157,0,"Keysound/Grand Piano/Grand Piano_G#3_162",100
+Sample,16479,0,"Keysound/Grand Piano/Grand Piano_C#4_323",100
+Sample,16479,0,"Keysound/Strings/Long Strings/Long String_C#7_162",100
+Sample,16479,0,"Keysound/Grand Piano/Grand Piano_C#5_323",100
+Sample,16963,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,16963,0,"Keysound/Grand Piano/Grand Piano_F#3_162",100
+Sample,16963,0,"Keysound/Grand Piano/Grand Piano_F#4_162",100
+Sample,17125,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,17286,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,17477,0,"Keysound/Grand Piano/Grand Piano_G#3_162",100
+Sample,17477,0,"Keysound/Strings/Long Strings/Long String_G#6_162",100
+Sample,17477,0,"Keysound/Grand Piano/Grand Piano_G#4_162",100
+Sample,17770,0,"Keysound/Grand Piano/Grand Piano_A4_162",100
+Sample,17770,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,17770,0,"Keysound/Grand Piano/Grand Piano_A3_162",100
+Sample,18092,0,"Keysound/Strings/Long Strings/Long String_B6_162",100
+Sample,18254,0,"Keysound/Grand Piano/Grand Piano_B4_162",100
+Sample,18254,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,18737,0,"Keysound/Grand Piano/Grand Piano_B4_162",100
+Sample,18737,0,"Keysound/Grand Piano/Grand Piano_B3_162",100
+Sample,18899,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,18979,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,19060,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,19141,0,"Keysound/Strings/Short Strings/Short String_E6_81",100
+Sample,19221,0,"Keysound/Strings/Short Strings/Short String_D#6_81",100
+Sample,19221,0,"Keysound/Grand Piano/Grand Piano_C#3_162",100
+Sample,19221,0,"Keysound/Grand Piano/Grand Piano_C#4_162",100
+Sample,19302,0,"Keysound/Strings/Short Strings/Short String_C#6_81",100
+Sample,19383,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,19463,0,"Keysound/Strings/Short Strings/Short String_A#5_81",100
+Sample,19544,0,"Keysound/Strings/Long Strings/Long String_A5_323",100
+Sample,19544,0,"Keysound/Grand Piano/Grand Piano_A2_323",100
+Sample,19544,0,"Keysound/Grand Piano/Grand Piano_A3_323",100
+Sample,20028,0,"Keysound/Grand Piano/Grand Piano_A3_162",100
+Sample,20028,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,20028,0,"Keysound/Grand Piano/Grand Piano_A4_162",100
+Sample,20350,0,"Keysound/Strings/Long Strings/Long String_G#6_162",100
+Sample,20350,0,"Keysound/Grand Piano/Grand Piano_G#4_162",100
+Sample,20512,0,"Keysound/Grand Piano/Grand Piano_F#3_162",100
+Sample,20512,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,20673,0,"Keysound/Strings/Long Strings/Long String_E6_1130",100
+Sample,20673,0,"Keysound/Grand Piano/Grand Piano_B3_3710",100
+Sample,20673,0,"Keysound/Grand Piano/Grand Piano_E4_3710",100
+Sample,20673,0,"Keysound/Grand Piano/Grand Piano_G#4_3710",100
+Sample,33092,0,"Keysound/Strings/Long Strings/Long String_B4_646",100
+Sample,33737,0,"Keysound/Strings/Long Strings/Long String_E5_646",100
+Sample,34383,0,"Keysound/Strings/Long Strings/Long String_G#5_646",100
+Sample,35028,0,"Keysound/Strings/Long Strings/Long String_A5_968",100
+Sample,36318,0,"Keysound/Strings/Long Strings/Long String_A5_1936",100
+Sample,38899,0,"Keysound/Strings/Long Strings/Long String_A5_1291",100
+Sample,40189,0,"Keysound/Strings/Long Strings/Long String_F#5_1291",100
+Sample,41479,0,"Keysound/Strings/Long Strings/Long String_G#5_1291",100
+Sample,42770,0,"Keysound/Strings/Long Strings/Long String_B5_1613",100
+Sample,45673,0,"Keysound/Strings/Long Strings/Long String_C#5_968",100
+Sample,46641,0,"Keysound/Strings/Long Strings/Long String_A5_646",100
+Sample,47286,0,"Keysound/Strings/Long Strings/Long String_G#5_646",100
+Sample,47931,0,"Keysound/Strings/Long Strings/Long String_E5_1291",100
+Sample,49221,0,"Keysound/Strings/Long Strings/Long String_A5_1291",100
+Sample,50512,0,"Keysound/Strings/Long Strings/Long String_F#5_1291",100
+Sample,51802,0,"Keysound/Strings/Long Strings/Long String_A5_1291",100
+Sample,53092,0,"Keysound/Strings/Long Strings/Long String_E5_1291",100
+Sample,54383,0,"Keysound/Strings/Long Strings/Long String_E5_1291",100
+Sample,55673,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,55996,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,56318,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,56641,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,56963,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,57286,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,57608,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,57931,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,58254,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,58576,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,58899,0,"Keysound/Strings/Short Strings/Short String_C#6_162",100
+Sample,59060,0,"Keysound/Strings/Short Strings/Short String_A5_162",100
+Sample,59221,0,"Keysound/Strings/Short Strings/Short String_E5_162",100
+Sample,59383,0,"Keysound/Strings/Short Strings/Short String_A6_162",100
+Sample,59544,0,"Keysound/Strings/Long Strings/Long String_B6_646",100
+Sample,60189,0,"Keysound/Strings/Long Strings/Long String_F#6_646",100
+Sample,61479,0,"Keysound/Strings/Long Strings/Long String_B5_646",100
+Sample,62125,0,"Keysound/Strings/Long Strings/Long String_E6_646",100
+Sample,62770,0,"Keysound/Strings/Long Strings/Long String_D6_646",100
+Sample,63415,0,"Keysound/Strings/Long Strings/Long String_B5_646",100
+Sample,64705,0,"Keysound/Strings/Long Strings/Long String_F#6_646",100
+Sample,65350,0,"Keysound/Strings/Long Strings/Long String_G#6_646",100
+Sample,66641,0,"Keysound/Strings/Long Strings/Long String_A6_646",100
+Sample,67931,0,"Keysound/Strings/Long Strings/Long String_G#6_646",100
+Sample,68576,0,"Keysound/Strings/Long Strings/Long String_F#6_1291",100
+Sample,69866,0,"Keysound/Strings/Long Strings/Long String_E6_1291",100
+Sample,73496,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,73576,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,73657,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,73737,0,"Keysound/Strings/Short Strings/Short String_B6_162",100
+Sample,74221,0,"Keysound/Strings/Long Strings/Long String_B6_162",100
+Sample,74544,0,"Keysound/Strings/Long Strings/Long String_C#7_162",100
+Sample,74867,0,"Keysound/Strings/Long Strings/Long String_A#6_1452",100
+Sample,78899,0,"Keysound/Strings/Long Strings/Long String_A6_2581",100
+Sample,81479,0,"Keysound/Strings/Long Strings/Long String_E6_1291",100
+Sample,83092,0,"Keysound/Strings/Long Strings/Long String_F#6_484",100
+Sample,83576,0,"Keysound/Strings/Long Strings/Long String_B6_484",100
+Sample,84060,0,"Keysound/Strings/Long Strings/Long String_A6_968",100
+Sample,85350,0,"Keysound/Strings/Long Strings/Long String_E7_323",100
+Sample,85353,0,"Keysound/Strings/Long Strings/Long String_D7_323",100
+Sample,85996,0,"Keysound/Strings/Long Strings/Long String_C#7_323",100
+Sample,86318,0,"Keysound/Strings/Long Strings/Long String_B6_323",100
+Sample,86641,0,"Keysound/Strings/Long Strings/Long String_A6_323",100
+Sample,86963,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,87125,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,87447,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,87770,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,89544,0,"Keysound/Strings/Long Strings/Long String_A6_646",100
+Sample,90189,0,"Keysound/Strings/Long Strings/Long String_E6_646",100
+Sample,90834,0,"Keysound/Strings/Long Strings/Long String_C#6_968",100
+Sample,91802,0,"Keysound/Strings/Long Strings/Long String_C#6_484",100
+Sample,92286,0,"Keysound/Strings/Long Strings/Long String_E6_807",100
+Sample,93092,0,"Keysound/Strings/Long Strings/Long String_F#6_1291",100
+Sample,94383,0,"Keysound/Strings/Long Strings/Long String_D6_1291",100
+Sample,95673,0,"Keysound/Strings/Long Strings/Long String_B5_484",100
+Sample,96157,0,"Keysound/Strings/Long Strings/Long String_A5_807",100
+Sample,96963,0,"Keysound/Strings/Long Strings/Long String_E6_1130",100
+Sample,98092,0,"Keysound/Strings/Long Strings/Long String_A6_807",100
+Sample,99060,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,99221,0,"Keysound/Strings/Long Strings/Long String_G#6_162",100
+Sample,99383,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,99544,0,"Keysound/Strings/Long Strings/Long String_B5_323",100
+Sample,100028,0,"Keysound/Strings/Long Strings/Long String_B5_323",100
+Sample,100350,0,"Keysound/Strings/Long Strings/Long String_C#6_323",100
+Sample,100673,0,"Keysound/Strings/Long Strings/Long String_D6_162",100
+Sample,102447,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,102608,0,"Keysound/Strings/Long Strings/Long String_E6_162",100
+Sample,102931,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,103092,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,103415,0,"Keysound/Strings/Long Strings/Long String_C#6_162",100
+Sample,103576,0,"Keysound/Strings/Long Strings/Long String_F#6_162",100
+Sample,103738,0,"Keysound/Strings/Long Strings/Long String_G#6_162",100
+Sample,103899,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,104060,0,"Keysound/Strings/Long Strings/Long String_B6_162",100
+Sample,104221,0,"Keysound/Strings/Long Strings/Long String_C#7_162",100
+Sample,104383,0,"Keysound/Strings/Long Strings/Long String_D7_162",100
+Sample,104544,0,"Keysound/Strings/Long Strings/Long String_D7_162",100
+Sample,104705,0,"Keysound/Strings/Long Strings/Long String_C#7_162",100
+Sample,105189,0,"Keysound/Strings/Long Strings/Long String_D7_484",100
+Sample,105996,0,"Keysound/Strings/Long Strings/Long String_A6_1130",100
+Sample,107286,0,"Keysound/Strings/Long Strings/Long String_A6_1936",100
+Sample,107286,0,"Keysound/Grand Piano/Grand Piano_A3_1130",100
+Sample,107286,0,"Keysound/Grand Piano/Grand Piano_A4_1130",100
+Sample,107286,0,"Keysound/Grand Piano/Grand Piano_C#4_1130",100
+Sample,107286,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,108576,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,108576,0,"Keysound/Grand Piano/Grand Piano_B4_1130",100
+Sample,108576,0,"Keysound/Grand Piano/Grand Piano_G#4_1130",100
+Sample,109221,0,"Keysound/Strings/Long Strings/Long String_F#6_646",100
+Sample,109867,0,"Keysound/Strings/Long Strings/Long String_E6_1291",100
+Sample,109867,0,"Keysound/Grand Piano/Grand Piano_B3_1130",100
+Sample,109867,0,"Keysound/Grand Piano/Grand Piano_E3_1130",100
+Sample,109867,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,111157,0,"Keysound/Grand Piano/Grand Piano_B3_1130",100
+Sample,111157,0,"Keysound/Strings/Long Strings/Long String_B6_646",100
+Sample,111157,0,"Keysound/Grand Piano/Grand Piano_B4_1130",100
+Sample,111802,0,"Keysound/Strings/Long Strings/Long String_C#7_646",100
+Sample,112447,0,"Keysound/Grand Piano/Grand Piano_A3_807",100
+Sample,112447,0,"Keysound/Strings/Long Strings/Long String_A6_484",100
+Sample,112447,0,"Keysound/Grand Piano/Grand Piano_C#4_807",100
+Sample,112447,0,"Keysound/Grand Piano/Grand Piano_E4_807",100
+Sample,112447,0,"Keysound/Grand Piano/Grand Piano_A4_807",100
+Sample,113092,0,"Keysound/Strings/Long Strings/Long String_A6_323",100
+Sample,113415,0,"Keysound/Strings/Long Strings/Long String_E7_323",100
+Sample,113738,0,"Keysound/Strings/Long Strings/Long String_E7_323",100
+Sample,113738,0,"Keysound/Grand Piano/Grand Piano_B4_1130",100
+Sample,113738,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,113738,0,"Keysound/Grand Piano/Grand Piano_E5_1130",100
+Sample,114060,0,"Keysound/Strings/Long Strings/Long String_D7_323",100
+Sample,114383,0,"Keysound/Strings/Long Strings/Long String_C#7_323",100
+Sample,114705,0,"Keysound/Strings/Long Strings/Long String_B6_323",100
+Sample,115028,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,115028,0,"Keysound/Grand Piano/Grand Piano_A3_1130",100
+Sample,115028,0,"Keysound/Grand Piano/Grand Piano_A4_1130",100
+Sample,115028,0,"Keysound/Grand Piano/Grand Piano_C#4_1130",100
+Sample,115028,0,"Keysound/Grand Piano/Grand Piano_E4_1130",100
+Sample,115189,0,"Keysound/Strings/Long Strings/Long String_A6_162",100
+Sample,115512,0,"Keysound/Strings/Long Strings/Long String_E6_323",100
+Sample,115834,0,"Keysound/Strings/Long Strings/Long String_C#6_323",100
+Sample,116154,0,"Keysound/Strings/Long Strings/Long String_B5_162",100
+Sample,116479,0,"Keysound/Strings/Short Strings/Short String_E6_81",100
+Sample,116479,0,"Keysound/Grand Piano/Grand Piano_B3_646",100
+Sample,116479,0,"Keysound/Grand Piano/Grand Piano_E3_646",100
+Sample,116560,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,116641,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,116802,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,116883,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,116963,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,117125,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,117205,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,117286,0,"Keysound/Strings/Short Strings/Short String_B6_81",100
+Sample,117447,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,117528,0,"Keysound/Strings/Short Strings/Short String_B6_81",100
+Sample,117608,0,"Keysound/Strings/Short Strings/Short String_C#7_81",100
+Sample,117608,0,"Keysound/Grand Piano/Grand Piano_A3_968",100
+Sample,117608,0,"Keysound/Grand Piano/Grand Piano_A4_968",100
+Sample,117608,0,"Keysound/Grand Piano/Grand Piano_C#4_968",100
+Sample,117608,0,"Keysound/Grand Piano/Grand Piano_E4_968",100
+Sample,117689,0,"Keysound/Strings/Short Strings/Short String_B6_81",100
+Sample,117770,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,117850,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,117931,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,118012,0,"Keysound/Strings/Short Strings/Short String_E6_81",100
+Sample,118092,0,"Keysound/Strings/Short Strings/Short String_D6_81",100
+Sample,118173,0,"Keysound/Strings/Short Strings/Short String_C#6_81",100
+Sample,118254,0,"Keysound/Strings/Short Strings/Short String_B6_81",100
+Sample,118334,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,118415,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,118496,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,118576,0,"Keysound/Strings/Short Strings/Short String_E6_81",100
+Sample,118657,0,"Keysound/Strings/Short Strings/Short String_D6_81",100
+Sample,118738,0,"Keysound/Strings/Short Strings/Short String_C#6_81",100
+Sample,118818,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,118899,0,"Keysound/Strings/Short Strings/Short String_A6_81",100
+Sample,118899,0,"Keysound/Grand Piano/Grand Piano_B4_968",100
+Sample,118899,0,"Keysound/Grand Piano/Grand Piano_E4_968",100
+Sample,118899,0,"Keysound/Grand Piano/Grand Piano_G#4_968",100
+Sample,118979,0,"Keysound/Strings/Short Strings/Short String_G#6_81",100
+Sample,119060,0,"Keysound/Strings/Short Strings/Short String_F#6_81",100
+Sample,119141,0,"Keysound/Strings/Short Strings/Short String_E6_81",100
+Sample,119221,0,"Keysound/Strings/Short Strings/Short String_D6_81",100
+Sample,119302,0,"Keysound/Strings/Short Strings/Short String_C#6_81",100
+Sample,119383,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,119463,0,"Keysound/Strings/Short Strings/Short String_A5_81",100
+Sample,119544,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,119625,0,"Keysound/Strings/Short Strings/Short String_A5_81",100
+Sample,119705,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,119786,0,"Keysound/Strings/Short Strings/Short String_A5_81",100
+Sample,119867,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,119947,0,"Keysound/Strings/Short Strings/Short String_A5_81",100
+Sample,120028,0,"Keysound/Strings/Short Strings/Short String_B5_81",100
+Sample,120108,0,"Keysound/Strings/Short Strings/Short String_D6_81",100
+Sample,120189,0,"Keysound/Strings/Long Strings/Long String_E6_646",100
+Sample,120189,0,"Keysound/Grand Piano/Grand Piano_B4_968",100
+Sample,120189,0,"Keysound/Grand Piano/Grand Piano_E4_968",100
+Sample,120189,0,"Keysound/Grand Piano/Grand Piano_E5_968",100
+Sample,120834,0,"Keysound/Strings/Long Strings/Long String_A6_646",100
+Sample,121479,0,"Keysound/Grand Piano/Grand Piano_B4_968",100
+Sample,121479,0,"Keysound/Strings/Long Strings/Long String_B6_646",100
+Sample,121479,0,"Keysound/Grand Piano/Grand Piano_B3_968",100
+Sample,122125,0,"Keysound/Strings/Long Strings/Long String_C#7_646",100
+Sample,122770,0,"Keysound/Strings/Long Strings/Long String_A6_968",100
+Sample,122770,0,"Keysound/Grand Piano/Grand Piano_A4_968",100
+Sample,122770,0,"Keysound/Grand Piano/Grand Piano_C#4_968",100
+Sample,122770,0,"Keysound/Grand Piano/Grand Piano_E4_968",100
+Sample,123899,0,"Keysound/Grand Piano/Grand Piano_B4_968",100
+Sample,123899,0,"Keysound/Strings/Long Strings/Long String_E7_8549",100
+Sample,123899,0,"Keysound/Grand Piano/Grand Piano_E5_968",100
+Sample,123899,0,"Keysound/Grand Piano/Grand Piano_E4_968",100
+Sample,125350,0,"Keysound/Grand Piano/Grand Piano_E4_323",100
+Sample,125350,0,"Keysound/Grand Piano/Grand Piano_A4_323",100
+Sample,125834,0,"Keysound/Grand Piano/Grand Piano_E4_323",100
+Sample,125834,0,"Keysound/Grand Piano/Grand Piano_A4_323",100
+Sample,125834,0,"Keysound/Grand Piano/Grand Piano_E5_323",100
+Sample,126479,0,"Keysound/Grand Piano/Grand Piano_E4_1936",100
+Sample,126479,0,"Keysound/Grand Piano/Grand Piano_A3_1936",100
+Sample,126479,0,"Keysound/Grand Piano/Grand Piano_C#4_1936",100
+Sample,126479,0,"Keysound/Strings/Long Strings/Long String_A6_5968",100
+Sample,126479,0,"Keysound/Grand Piano/Grand Piano_A4_1936",100
+
+[TimingPoints]
+1480,322.58064516129,4,2,1,50,1,0
+1641,-100,4,2,2,50,0,0
+1802,-100,4,2,3,50,0,0
+1963,-100,4,2,4,50,0,0
+2125,-100,4,2,5,50,0,0
+2286,-100,4,2,6,50,0,0
+2447,-100,4,2,2,50,0,0
+2770,-100,4,2,7,50,0,0
+2931,-100,4,2,6,50,0,0
+3092,-100,4,2,2,50,0,0
+3254,-100,4,2,3,50,0,0
+3415,-100,4,2,5,50,0,0
+3576,-100,4,2,6,50,0,0
+3737,-100,4,2,2,50,0,0
+4060,-100,4,2,7,50,0,0
+4221,-100,4,2,6,50,0,0
+4383,-100,4,2,2,50,0,0
+4544,-100,4,2,3,50,0,0
+4705,-100,4,2,5,50,0,0
+4867,-100,4,2,6,50,0,0
+5027,-100,4,2,3,50,0,0
+5350,-100,4,2,7,50,0,0
+5512,-100,4,2,8,50,0,0
+5673,-100,4,2,7,50,0,0
+5834,-100,4,2,9,50,0,0
+6318,-100,4,2,11,50,0,0
+6641,-100,4,2,12,50,0,0
+7125,-100,4,2,13,50,0,0
+7286,-100,4,2,15,50,0,0
+7447,-100,4,2,16,50,0,0
+8092,-100,4,2,15,50,0,0
+8254,-100,4,2,18,60,0,0
+8576,-100,4,2,19,60,0,0
+8738,-100,4,2,17,60,0,0
+8898,-100,4,2,20,60,0,0
+9221,-100,4,2,22,60,0,0
+9543,-100,4,2,23,60,0,0
+9705,-100,4,2,14,60,0,0
+9867,-100,4,2,21,60,0,0
+10028,-100,4,2,24,60,0,0
+10350,-100,4,2,25,60,0,0
+10673,-100,4,2,26,60,0,0
+10754,-100,4,2,27,60,0,0
+10833,-100,4,2,28,60,0,0
+11157,-100,4,2,30,60,0,0
+11318,-100,4,2,23,60,0,0
+11479,-100,4,2,30,60,0,0
+11802,-100,4,2,22,70,0,0
+22285,-100,4,2,31,50,0,0
+24705,-100,4,2,35,40,0,0
+25672,-100,4,2,36,40,0,0
+25834,-100,4,2,37,40,0,0
+25996,-100,4,2,38,40,0,0
+26963,-100,4,2,39,40,0,0
+27125,-100,4,2,40,40,0,0
+27286,-100,4,2,38,40,0,0
+27931,-100,4,2,41,40,0,0
+28576,-100,4,2,42,40,0,0
+29221,-100,4,2,43,40,0,0
+29383,-100,4,2,44,40,0,0
+29544,-100,4,2,43,40,0,0
+29705,-100,4,2,45,40,0,0
+29867,-100,4,2,46,40,0,0
+31157,-100,4,2,47,40,0,0
+31318,-100,4,2,12,40,0,0
+31479,-100,4,2,48,40,0,0
+31641,-100,4,2,39,40,0,0
+31963,-100,4,2,41,40,0,0
+32447,-100,4,2,42,40,0,0
+32769,-100,4,2,37,40,0,0
+32931,-100,4,2,49,40,0,0
+33738,-100,4,2,50,40,0,0
+33899,-100,4,2,12,40,0,0
+34383,-100,4,2,51,40,0,0
+35028,-100,4,2,52,50,0,0
+35995,-100,4,2,53,50,0,0
+36318,-100,4,2,52,50,0,0
+36479,-100,4,2,12,50,0,0
+36802,-100,4,2,1,50,0,0
+37286,-100,4,2,54,50,0,0
+37609,-100,4,2,55,50,0,0
+37931,-100,4,2,36,50,0,0
+38092,-100,4,2,41,50,0,0
+38576,-100,4,2,56,50,0,0
+38899,-100,4,2,57,50,0,0
+39060,-100,4,2,12,50,0,0
+39382,-100,4,2,58,50,0,0
+39866,-100,4,2,59,50,0,0
+40189,-100,4,2,60,50,0,0
+41156,-100,4,2,46,50,0,0
+41479,-100,4,2,61,50,0,0
+41641,-100,4,2,22,50,0,0
+41963,-100,4,2,62,50,0,0
+42285,-100,4,2,63,50,0,0
+42770,-100,4,2,64,50,0,0
+43254,-100,4,2,22,50,0,0
+44221,-100,4,2,1,50,0,0
+44543,-100,4,2,43,50,0,0
+44705,-100,4,2,54,50,0,0
+45028,-100,4,2,44,50,0,0
+45189,-100,4,2,43,50,0,0
+45350,-100,4,2,35,60,0,0
+46318,-100,4,2,65,60,0,0
+46641,-100,4,2,35,60,0,0
+47609,-100,4,2,66,60,0,0
+47770,-100,4,2,40,60,0,0
+47931,-100,4,2,35,60,0,0
+48576,-100,4,2,67,60,0,0
+48738,-100,4,2,22,60,0,0
+49221,-100,4,2,63,60,0,0
+49543,-100,4,2,22,60,0,0
+49867,-100,4,2,43,60,0,0
+50028,-100,4,2,44,60,0,0
+50189,-100,4,2,68,60,0,0
+50350,-100,4,2,69,60,0,0
+50834,-100,4,2,22,60,0,0
+51479,-100,4,2,70,60,0,0
+51802,-100,4,2,71,60,0,0
+52124,-100,4,2,72,60,0,0
+52286,-100,4,2,56,60,0,0
+52608,-100,4,2,41,60,0,0
+52770,-100,4,2,13,60,0,0
+53092,-100,4,2,63,60,0,0
+53414,-100,4,2,73,60,0,0
+53576,-100,4,2,56,60,0,0
+53898,-100,4,2,40,60,0,0
+54060,-100,4,2,35,60,0,0
+54705,-100,4,2,1,60,0,0
+55028,-100,4,2,51,60,0,0
+55189,-100,4,2,22,60,0,0
+55673,-100,4,2,74,60,0,0
+55995,-100,4,2,22,60,0,0
+56640,-100,4,2,75,60,0,0
+56802,-100,4,2,44,60,0,0
+56963,-100,4,2,74,60,0,0
+57285,-100,4,2,22,60,0,0
+57931,-100,4,2,76,60,0,0
+58092,-100,4,2,36,60,0,0
+58254,-100,4,2,77,60,0,0
+58576,-100,4,2,78,60,0,0
+58738,-100,4,2,79,60,0,0
+58899,-100,4,2,22,60,0,0
+59221,-100,4,2,80,60,0,0
+59544,-100,4,2,81,60,0,0
+59866,-100,4,2,13,60,0,0
+60028,-100,4,2,58,60,0,0
+60512,-100,4,2,59,60,0,0
+60834,-100,4,2,35,60,0,0
+61157,-100,4,2,22,60,0,0
+61802,-100,4,2,82,60,0,0
+62125,-100,4,2,22,60,0,0
+63092,-100,4,2,82,60,0,0
+63415,-100,4,2,77,60,0,0
+63737,-100,4,2,65,60,0,0
+63899,-100,4,2,41,60,0,0
+64383,-100,4,2,84,60,0,0
+64705,-100,4,2,69,60,0,0
+64947,-100,4,2,1,60,0,0
+65350,-100,4,2,85,60,0,0
+65512,-100,4,2,1,60,0,0
+65996,-100,4,2,1,50,0,0
+66641,-100,4,2,86,50,0,0
+67286,-100,4,2,85,50,0,0
+67931,-100,4,2,87,50,0,0
+68576,-100,4,2,88,50,0,0
+69221,-100,4,2,22,50,0,0
+69544,-100,4,2,89,50,0,0
+69705,-100,4,2,37,50,0,0
+69867,-100,4,2,90,50,0,0
+70028,-100,4,2,22,50,0,0
+70512,-100,4,2,69,50,0,0
+70673,-100,4,2,13,50,0,0
+71157,-100,4,2,46,70,0,0
+72447,-100,4,2,91,50,0,0
+72609,-100,4,2,50,50,0,0
+72769,-100,4,2,54,50,0,0
+72931,-100,4,2,36,50,0,0
+73254,-100,4,2,92,50,0,0
+73738,-100,4,2,35,70,0,0
+74544,-100,4,2,36,70,0,0
+74705,-100,4,2,66,70,0,0
+74867,-100,4,2,93,70,0,0
+76318,-100,4,2,94,50,0,0
+77286,-100,4,2,95,60,0,0
+77609,-100,4,2,96,60,0,0
+78092,-100,4,2,97,60,0,0
+78576,-100,4,2,98,60,0,0
+78899,-100,4,2,99,80,0,1
+79060,-100,4,2,22,80,0,1
+79867,-100,4,2,100,80,0,1
+80028,-100,4,2,101,80,0,1
+80189,-100,4,2,102,80,0,1
+80350,-100,4,2,22,80,0,1
+80511,-100,4,2,59,80,0,1
+80673,-100,4,2,22,80,0,1
+80834,-100,4,2,103,80,0,1
+80996,-100,4,2,22,80,0,1
+81318,-100,4,2,104,80,0,1
+81479,-100,4,2,105,80,0,1
+81641,-100,4,2,22,80,0,1
+82447,-100,4,2,106,80,0,1
+82609,-100,4,2,107,80,0,1
+82770,-100,4,2,108,80,0,1
+82931,-100,4,2,109,80,0,1
+83092,-100,4,2,108,80,0,1
+83254,-100,4,2,110,80,0,1
+83576,-100,4,2,111,80,0,1
+83738,-100,4,2,22,80,0,1
+84060,-100,4,2,112,80,0,1
+84221,-100,4,2,22,80,0,1
+84705,-100,4,2,59,80,0,1
+85028,-100,4,2,113,80,0,1
+85350,-100,4,2,114,80,0,1
+85512,-100,4,2,22,80,0,1
+85672,-100,4,2,103,80,0,1
+85834,-100,4,2,22,80,0,1
+85996,-100,4,2,115,80,0,1
+86318,-100,4,2,102,80,0,1
+86641,-100,4,2,112,80,0,1
+86802,-100,4,2,22,80,0,1
+86963,-100,4,2,100,80,0,1
+87125,-100,4,2,116,80,0,1
+87447,-100,4,2,117,80,0,1
+87770,-100,4,2,118,80,0,1
+88092,-100,4,2,22,80,0,1
+88254,-100,4,2,56,80,0,1
+88576,-100,4,2,117,80,0,1
+88899,-100,4,2,119,80,0,1
+89060,-100,4,2,13,80,0,1
+89221,-100,4,2,99,80,0,0
+89544,-100,4,2,99,80,0,1
+90189,-100,4,2,100,80,0,1
+90350,-100,4,2,120,80,0,1
+90512,-100,4,2,102,80,0,1
+90834,-100,4,2,59,80,0,1
+91157,-100,4,2,121,80,0,1
+91318,-100,4,2,22,80,0,1
+91641,-100,4,2,122,80,0,1
+91802,-100,4,2,123,80,0,1
+92124,-100,4,2,22,80,0,1
+92770,-100,4,2,124,80,0,1
+92931,-100,4,2,109,80,0,1
+93092,-100,4,2,125,80,0,1
+93254,-100,4,2,22,80,0,1
+94383,-100,4,2,127,80,0,1
+94705,-100,4,2,22,80,0,1
+95350,-100,4,2,128,80,0,1
+95673,-100,4,2,129,80,0,1
+95834,-100,4,2,1,80,0,1
+95995,-100,4,2,130,80,0,1
+96157,-100,4,2,1,80,0,1
+96318,-100,4,2,131,80,0,1
+96479,-100,4,2,77,80,0,1
+96963,-100,4,2,132,80,0,1
+97285,-100,4,2,37,80,0,1
+97447,-100,4,2,133,80,0,1
+97609,-100,4,2,22,80,0,1
+97931,-100,4,2,134,80,0,1
+98092,-100,4,2,135,80,0,1
+98738,-100,4,2,1,80,0,1
+99060,-100,4,2,136,80,0,1
+99221,-100,4,2,108,80,0,1
+99383,-100,4,2,109,80,0,1
+99544,-100,4,2,105,80,0,1
+100350,-100,4,2,22,80,0,1
+100673,-100,4,2,137,80,0,1
+100834,-100,4,2,138,80,0,1
+101318,-100,4,2,139,80,0,1
+101802,-100,4,2,120,80,0,1
+102125,-100,4,2,22,70,0,0
+103576,-100,4,2,1,70,0,0
+103899,-100,4,2,106,70,0,0
+104221,-100,4,2,141,70,0,0
+104383,-100,4,2,142,70,0,0
+104544,-100,4,2,143,70,0,0
+104705,-100,4,2,144,70,0,0
+105189,-100,4,2,22,70,0,0
+105996,-100,4,2,146,70,0,0
+106640,-100,4,2,147,70,0,0
+107286,-100,4,2,148,60,0,0
+107447,-100,4,2,22,60,0,0
+115834,-100,4,2,78,60,0,0
+115996,-100,4,2,39,60,0,0
+116157,-100,4,2,1,60,0,0
+116318,-100,4,2,136,60,0,0
+116479,-100,4,2,22,60,0,0
+116802,-100,4,2,149,60,0,0
+117125,-100,4,2,13,60,0,0
+117285,-100,4,2,150,60,0,0
+117609,-100,4,2,2,60,0,0
+117770,-100,4,2,22,60,0,0
+123254,-100,4,2,151,60,0,0
+123415,-100,4,2,23,60,0,0
+123738,-100,4,2,5,60,0,0
+123899,-100,4,2,153,60,0,0
+124060,-100,4,2,1,60,0,0
+124221,-100,4,2,141,60,0,0
+124382,-100,4,2,122,60,0,0
+124544,-100,4,2,154,60,0,0
+124705,-100,4,2,155,60,0,0
+125028,-100,4,2,157,60,0,0
+125189,-100,4,2,158,60,0,0
+125350,-100,4,2,22,80,0,0
+125996,-100,4,2,1,80,0,0
+126318,-100,4,2,22,80,0,0
+133092,-100,4,2,160,80,0,0
+133415,-100,4,2,100,5,0,0
+
+
+[Colours]
+Combo1 : 226,226,226
+Combo2 : 216,143,243
+Combo3 : 82,206,220
+Combo4 : 248,216,194
+Combo5 : 241,41,101
+
+[HitObjects]
+370,305,1480,6,0,P|366:203|221:314,1,390,2|2,2:0|2:0,2:0:0:0:
+345,309,2770,2,0,P|452:222|334:25,1,390,2|2,2:0|2:0,2:0:0:0:
+216,298,4060,2,0,P|85:233|224:108,1,390,2|2,2:0|2:0,2:0:0:0:
+381,91,5350,5,2,2:0:0:0:
+428,136,5512,1,2,2:0:0:0:
+429,200,5673,1,2,2:0:0:0:
+386,249,5834,1,2,2:0:0:0:
+191,243,6318,1,2,2:0:0:0:
+435,257,6641,6,0,P|469:199|435:151,1,130,6|0,3:2|2:0,2:0:0:0:
+373,139,7125,1,2,3:2:0:0:
+308,136,7286,1,2,3:2:0:0:
+373,139,7447,1,10,3:2:0:0:
+224,142,7770,6,0,L|87:141,1,130,6|2,2:0|2:0,2:0:0:0:
+159,142,8254,1,8,2:0:0:0:
+224,142,8415,1,10,2:0:0:0:
+159,142,8576,2,0,L|29:140,1,130,2|10,2:0|3:2,2:0:0:0:
+276,127,9221,6,0,P|321:191|299:238,1,130,6|2,3:2|3:2,2:0:0:0:
+239,231,9705,1,10,2:0:0:0:
+173,231,9867,1,2,2:0:0:0:
+239,231,10028,1,10,2:0:0:0:
+478,237,10350,6,0,P|469:123|392:94,1,195,6|2,3:2|3:2,2:0:0:0:
+267,104,11157,1,10,3:2:0:0:
+337,104,11318,1,10,3:2:0:0:
+406,106,11479,1,10,3:2:0:0:
+146,158,11802,6,0,L|17:158,1,130,4|8,3:2|2:0,2:0:0:0:
+146,158,12447,1,0,3:0:0:0:
+147,222,12609,1,2,2:0:0:0:
+82,225,12770,1,8,2:0:0:0:
+82,290,12931,1,2,2:0:0:0:
+147,222,13092,6,0,L|276:221,1,130,0|8,3:0|2:0,2:0:0:0:
+406,222,13738,2,0,L|404:92,1,130,0|8,3:0|2:0,2:0:0:0:
+334,96,14221,1,2,2:0:0:0:
+180,94,14383,6,0,L|183:231,1,130,4|0,3:2|3:0,2:0:0:0:
+248,223,14867,1,10,3:2:0:0:
+118,225,15189,1,10,3:2:0:0:
+118,160,15350,1,0,3:0:0:0:
+274,191,15512,6,0,L|405:192,1,130,4|0,3:2|2:0,2:0:0:0:
+336,188,15996,1,0,3:0:0:0:
+268,188,16157,1,10,3:2:0:0:
+430,194,16479,2,0,P|473:258|438:302,1,130,10|2,3:2|3:2,2:0:0:0:
+293,316,16963,6,0,L|136:313,1,130,6|8,3:2|2:0,2:0:0:0:
+163,313,17447,1,2,3:2:0:0:
+293,316,17770,1,2,3:2:0:0:
+357,317,17931,1,8,2:0:0:0:
+293,316,18092,1,2,3:2:0:0:
+227,314,18254,6,0,L|82:315,2,130,8|8|8,2:0|2:0|2:0,2:0:0:0:
+291,308,19060,1,2,3:2:0:0:
+355,312,19221,1,8,2:0:0:0:
+111,237,19544,6,0,L|111:88,1,130,4|0,3:2|3:0,2:0:0:0:
+181,90,20028,2,0,L|310:91,1,130,4|8,3:2|2:0,2:0:0:0:
+310,91,20512,1,0,3:0:0:0:
+154,80,20673,6,0,B|152:339|152:339|281:339|446:336|446:336|409:233,1,650,4|2,3:2|2:0,2:0:0:0:
+159,292,24705,6,0,P|46:217|178:46,1,390,2|2,3:2|2:0,2:0:0:0:
+227,43,25834,1,2,2:0:0:0:
+161,44,25996,1,2,2:0:0:0:
+387,147,26963,1,2,2:0:0:0:
+387,147,27125,1,2,2:0:0:0:
+307,149,27286,6,0,L|60:228,2,260,2|2|2,2:0|2:0|2:0,2:0:0:0:
+440,108,29221,1,2,2:0:0:0:
+487,149,29383,1,2,2:0:0:0:
+489,210,29544,1,2,2:0:0:0:
+440,108,29705,1,2,2:0:0:0:
+360,115,29867,6,0,P|221:157|251:213,1,260,0|0,3:0|2:0,2:0:0:0:
+376,220,30834,1,2,2:0:0:0:
+247,210,31157,2,0,L|116:210,1,130,2|2,2:0|2:0,2:0:0:0:
+117,210,31641,1,2,2:0:0:0:
+247,210,31963,1,2,2:0:0:0:
+51,213,32447,6,0,L|50:82,1,130,2|2,2:0|2:0,2:0:0:0:
+115,82,32931,2,0,L|327:83,1,195,2|0,2:0|2:0,2:0:0:0:
+174,274,33738,2,0,P|72:195|150:98,1,260,2|2,2:0|2:0,2:0:0:0:
+192,104,34544,1,0,2:0:0:0:
+128,103,34705,1,0,2:0:0:0:
+375,181,35028,6,0,P|458:156|473:45,2,195,2|0|2,3:2|3:0|2:0,2:0:0:0:
+215,184,36318,1,10,3:2:0:0:
+214,119,36479,1,2,2:0:0:0:
+344,118,36802,2,0,L|343:265,1,130,8|8,3:0|3:0,2:0:0:0:
+278,243,37286,1,2,3:2:0:0:
+131,141,37609,6,0,P|48:152|20:251,2,195,2|2|2,3:2|3:2|3:2,2:0:0:0:
+270,154,38899,2,0,L|468:161,2,195,2|2|2,2:0|3:2|3:2,2:0:0:0:
+495,319,40189,6,0,L|496:172,1,130,2|0,3:2|3:0,2:0:0:0:
+365,183,40834,2,0,L|213:182,1,130,0|2,3:0|3:2,2:0:0:0:
+391,185,41479,1,2,3:2:0:0:
+391,120,41641,1,10,2:0:0:0:
+261,111,41963,2,0,L|101:110,1,130,10|0,2:0|3:0,2:0:0:0:
+131,110,42447,1,2,2:0:0:0:
+376,95,42770,5,2,3:2:0:0:
+412,148,42931,1,0,3:0:0:0:
+400,211,43092,1,0,3:0:0:0:
+348,247,43254,2,0,L|194:246,1,130,10|0,2:0|3:0,2:0:0:0:
+152,247,43738,1,10,2:0:0:0:
+388,288,44060,5,4,3:2:0:0:
+452,282,44221,2,0,P|445:219|372:198,1,130,8|2,3:0|3:2,2:0:0:0:
+324,194,44705,1,2,2:0:0:0:
+193,196,45028,1,2,3:2:0:0:
+193,196,45189,1,10,3:2:0:0:
+350,144,45350,6,0,L|350:282,1,130,6|8,3:2|2:0,2:0:0:0:
+222,272,45996,1,0,2:0:0:0:
+286,273,46157,1,0,3:0:0:0:
+350,274,46318,1,10,2:0:0:0:
+196,278,46641,6,0,L|53:279,1,130,2|8,3:2|2:0,2:0:0:0:
+66,278,47125,1,0,3:0:0:0:
+208,275,47447,1,0,3:0:0:0:
+273,275,47609,1,10,2:0:0:0:
+337,274,47770,1,2,2:0:0:0:
+273,275,47931,6,0,L|126:275,1,130,2|8,3:2|2:0,2:0:0:0:
+278,268,48576,1,2,2:0:0:0:
+343,268,48738,1,0,3:0:0:0:
+408,268,48899,1,8,2:0:0:0:
+266,268,49221,6,0,L|264:128,1,130,2|8,3:2|2:0,2:0:0:0:
+394,131,49867,1,2,2:0:0:0:
+444,90,50028,1,2,3:2:0:0:
+441,25,50189,1,10,2:0:0:0:
+381,5,50350,1,2,2:0:0:0:
+225,65,50512,6,0,L|87:65,2,130,0|8|0,3:0|2:0|2:0,2:0:0:0:
+289,66,51318,1,0,3:0:0:0:
+225,65,51479,1,10,2:0:0:0:
+81,98,51802,6,0,L|81:228,1,130,2|10,3:2|2:0,2:0:0:0:
+146,224,52286,2,0,L|294:223,1,130,2|2,3:2|3:2,2:0:0:0:
+275,223,52770,1,8,2:0:0:0:
+49,233,53092,6,0,P|31:170|85:129,1,130,2|10,3:2|2:0,2:0:0:0:
+138,127,53576,2,0,L|267:126,1,130,2|2,2:0|3:2,2:0:0:0:
+333,124,54060,1,10,2:0:0:0:
+195,134,54383,5,0,3:0:0:0:
+130,138,54544,1,8,2:0:0:0:
+195,134,54705,1,8,3:0:0:0:
+260,134,54867,1,8,3:0:0:0:
+195,134,55028,2,0,L|65:134,1,130,2|0,2:0|3:0,2:0:0:0:
+312,130,55673,6,0,L|315:267,1,130,2|10,3:2|2:0,2:0:0:0:
+185,259,56318,2,0,L|185:113,1,130,2|10,2:0|2:0,2:0:0:0:
+251,130,56802,1,2,3:2:0:0:
+315,128,56963,6,0,L|160:129,1,130,2|10,3:2|2:0,2:0:0:0:
+315,128,57609,2,0,L|456:125,1,130,2|10,2:0|2:0,2:0:0:0:
+381,126,58092,1,2,3:2:0:0:
+222,126,58254,6,0,L|222:266,1,130,2|10,3:2|2:0,2:0:0:0:
+289,252,58738,2,0,L|434:252,1,130,2|0,3:2|3:0,2:0:0:0:
+419,252,59221,1,10,2:0:0:0:
+178,321,59544,6,0,P|131:281|142:210,1,130,6|8,3:2|2:0,2:0:0:0:
+203,255,60028,2,0,L|358:255,1,130,2|0,3:2|3:0,2:0:0:0:
+333,255,60512,1,10,2:0:0:0:
+89,254,60834,5,10,3:2:0:0:
+34,213,60996,1,0,3:0:0:0:
+37,141,61157,1,10,2:0:0:0:
+90,106,61318,2,0,L|248:108,1,130,2|0,3:2|3:0,2:0:0:0:
+286,107,61802,1,10,2:0:0:0:
+148,106,62125,5,8,3:2:0:0:
+82,111,62286,1,0,3:0:0:0:
+148,106,62447,1,10,2:0:0:0:
+214,108,62609,2,0,L|211:256,1,130,2|0,3:2|3:0,2:0:0:0:
+151,236,63092,1,10,2:0:0:0:
+398,352,63415,6,0,P|417:292|349:258,1,130,2|10,3:2|2:0,2:0:0:0:
+304,255,63899,2,0,L|171:254,1,130,2|0,3:2|3:0,2:0:0:0:
+108,253,64383,1,10,2:0:0:0:
+355,224,64705,6,0,L|493:226,1,130,10|0,3:2|2:0,2:0:0:0:
+325,222,65350,1,2,2:0:0:0:
+319,156,65512,1,8,3:0:0:0:
+383,153,65673,1,8,3:0:0:0:
+390,217,65834,1,8,3:0:0:0:
+233,223,65996,6,0,L|92:223,1,130,4|0,3:2|3:0,2:0:0:0:
+233,223,66641,2,0,L|231:84,1,130,2|0,3:2|3:0,2:0:0:0:
+100,90,67286,5,2,3:2:0:0:
+164,91,67447,1,0,2:0:0:0:
+231,93,67609,1,0,3:0:0:0:
+93,85,67931,2,0,L|91:221,1,130,2|0,3:2|3:0,2:0:0:0:
+256,216,68576,6,0,L|404:216,2,130,2|0|2,3:2|3:0|3:2,2:0:0:0:
+125,218,69544,1,2,3:2:0:0:
+123,153,69705,1,2,2:0:0:0:
+279,138,69867,5,2,3:2:0:0:
+343,140,70028,1,8,2:0:0:0:
+279,138,70189,1,0,3:0:0:0:
+130,140,70512,1,2,3:2:0:0:
+74,173,70673,1,8,2:0:0:0:
+61,236,70834,1,8,2:0:0:0:
+63,268,70915,1,8,2:0:0:0:
+79,296,70996,1,8,2:0:0:0:
+235,297,71157,5,6,3:2:0:0:
+361,296,72447,2,0,P|390:241|362:181,1,130,2|2,2:0|2:0,2:0:0:0:
+299,179,72931,1,2,2:0:0:0:
+168,180,73254,2,0,P|135:143|174:72,1,130,2|0,2:0|2:0,2:0:0:0:
+320,67,73738,5,14,3:2:0:0:
+321,131,73899,1,0,3:0:0:0:
+256,132,74060,1,0,3:0:0:0:
+253,67,74221,1,12,3:2:0:0:
+383,67,74544,1,2,3:2:0:0:
+383,132,74705,1,10,2:0:0:0:
+226,17,74867,6,0,P|156:61|406:222,1,585,6|2,3:2|2:0,2:0:0:0:
+254,329,77286,5,2,2:0:0:0:
+122,323,77609,2,0,P|40:287|36:179,2,195,2|2|2,2:0|2:0|2:0,2:0:0:0:
+382,313,78899,6,0,L|381:162,1,130,6|8,3:2|2:0,2:0:0:0:
+253,313,79544,1,0,3:0:0:0:
+123,308,79867,1,10,2:0:0:0:
+123,243,80028,1,2,2:0:0:0:
+189,238,80189,2,0,L|326:238,1,130,2|10,3:2|2:0,2:0:0:0:
+319,238,80673,1,2,2:0:0:0:
+163,236,80834,6,0,L|164:99,1,130,2|8,3:2|2:0,2:0:0:0:
+164,106,81318,1,2,2:0:0:0:
+321,106,81479,2,0,L|464:106,2,130,2|8|0,3:2|2:0|3:0,2:0:0:0:
+164,106,82447,5,10,2:0:0:0:
+99,106,82609,1,2,2:0:0:0:
+164,106,82770,1,6,3:2:0:0:
+229,104,82931,1,10,2:0:0:0:
+294,105,83092,1,2,3:2:0:0:
+229,104,83254,2,0,L|95:104,2,130,2|2|8,3:2|3:2|2:0,2:0:0:0:
+393,105,84060,6,0,L|394:246,1,130,6|8,3:2|2:0,2:0:0:0:
+264,235,84705,1,2,3:2:0:0:
+394,234,85028,1,10,2:0:0:0:
+243,234,85350,6,0,L|107:233,1,130,2|10,3:2|2:0,2:0:0:0:
+178,234,85834,1,2,2:0:0:0:
+243,234,85996,1,2,3:2:0:0:
+114,233,86318,1,10,2:0:0:0:
+362,228,86641,6,0,L|503:227,1,130,6|10,3:2|2:0,2:0:0:0:
+428,226,87125,1,2,2:0:0:0:
+301,228,87447,1,10,2:0:0:0:
+269,228,87528,1,8,2:0:0:0:
+237,227,87609,1,0,3:0:0:0:
+393,231,87770,6,0,L|394:99,1,130,6|10,3:2|2:0,2:0:0:0:
+329,97,88254,1,2,3:2:0:0:
+200,99,88576,1,2,3:2:0:0:
+145,133,88738,1,8,2:0:0:0:
+131,161,88818,1,8,2:0:0:0:
+124,192,88899,1,2,3:2:0:0:
+139,255,89060,1,8,2:0:0:0:
+190,295,89221,1,2,2:0:0:0:
+437,299,89544,6,0,L|292:297,1,130,4|0,3:2|3:0,2:0:0:0:
+160,295,90189,1,10,2:0:0:0:
+95,294,90350,1,2,2:0:0:0:
+160,295,90512,1,2,3:2:0:0:
+289,258,90834,1,10,2:0:0:0:
+159,262,91157,2,0,L|158:117,1,130,2|8,2:0|2:0,2:0:0:0:
+219,130,91641,1,2,2:0:0:0:
+371,128,91802,6,0,L|500:129,2,130,2|8|0,3:2|2:0|3:0,2:0:0:0:
+230,129,92770,1,10,2:0:0:0:
+230,194,92931,1,2,3:2:0:0:
+383,201,93092,5,6,3:2:0:0:
+438,236,93254,1,8,2:0:0:0:
+453,264,93334,1,8,2:0:0:0:
+451,296,93415,1,8,2:0:0:0:
+413,348,93576,1,8,3:2:0:0:
+254,349,93899,2,0,L|395:348,1,130,2|2,3:2|3:2,2:0:0:0:
+223,346,94383,6,0,L|64:346,1,130,6|10,3:2|2:0,2:0:0:0:
+223,346,95028,1,10,2:0:0:0:
+93,346,95350,1,10,2:0:0:0:
+256,348,95673,2,0,L|256:206,1,130,10|10,2:0|2:0,2:0:0:0:
+190,216,96157,1,0,3:0:0:0:
+125,215,96318,2,0,L|125:74,1,130,10|10,2:0|2:0,2:0:0:0:
+368,86,96963,6,0,L|497:88,1,130,2|2,3:2|2:0,2:0:0:0:
+432,86,97447,1,2,3:2:0:0:
+368,86,97609,2,0,L|221:85,1,130,8|2,2:0|2:0,2:0:0:0:
+395,139,98092,6,0,L|397:286,1,130,6|0,3:2|3:0,2:0:0:0:
+266,261,98738,1,8,3:0:0:0:
+396,268,99060,1,2,3:2:0:0:
+460,268,99221,1,10,2:0:0:0:
+396,268,99383,1,2,3:2:0:0:
+238,270,99544,6,0,L|94:270,1,130,6|0,3:2|3:0,2:0:0:0:
+263,266,100189,1,0,3:0:0:0:
+327,266,100350,1,2,3:2:0:0:
+80,277,100673,6,0,L|68:13,1,260,2|2,3:2|2:0,2:0:0:0:
+68,17,101802,1,2,2:0:0:0:
+334,281,102125,6,0,L|334:144,1,130,4|8,3:2|2:0,2:0:0:0:
+267,152,102609,2,0,L|122:149,1,130,4|8,3:2|2:0,2:0:0:0:
+292,172,103092,6,0,L|444:172,1,130,4|8,3:2|2:0,2:0:0:0:
+422,172,103576,1,8,3:0:0:0:
+263,173,103899,1,2,3:2:0:0:
+199,173,104060,1,10,2:0:0:0:
+263,173,104221,1,2,3:2:0:0:
+329,175,104383,1,2,3:2:0:0:
+263,173,104544,1,2,3:2:0:0:
+111,181,104705,6,0,P|105:116|165:83,1,130,6|0,3:2|3:0,2:0:0:0:
+218,84,105189,1,2,3:2:0:0:
+348,80,105512,1,4,3:2:0:0:
+111,80,105834,6,0,P|19:206|113:326,1,325,2|2,3:2|2:0,2:0:0:0:
+379,319,107286,6,0,L|238:320,1,130,6|8,3:2|2:0,2:0:0:0:
+314,320,107770,1,2,2:0:0:0:
+379,319,107931,2,0,L|234:318,1,130,0|8,3:0|2:0,2:0:0:0:
+118,317,108576,5,0,3:0:0:0:
+249,318,108899,1,8,2:0:0:0:
+313,318,109060,1,2,2:0:0:0:
+378,317,109221,2,0,L|373:179,1,130,0|8,3:0|2:0,2:0:0:0:
+122,186,109867,6,0,L|121:41,1,130,0|8,3:0|2:0,2:0:0:0:
+185,55,110350,1,2,2:0:0:0:
+251,56,110512,2,0,L|97:56,1,130,0|8,3:0|2:0,2:0:0:0:
+303,60,111157,6,0,L|442:59,1,130,0|8,3:0|2:0,2:0:0:0:
+369,57,111641,1,2,2:0:0:0:
+303,60,111802,2,0,L|449:59,1,130,0|8,3:0|2:0,2:0:0:0:
+188,57,112447,6,0,L|191:196,1,130,0|8,3:0|2:0,2:0:0:0:
+256,184,112931,1,2,2:0:0:0:
+320,184,113092,1,0,3:0:0:0:
+182,188,113415,1,8,2:0:0:0:
+343,301,113738,6,0,L|474:302,1,130,0|8,3:0|2:0,2:0:0:0:
+411,303,114221,1,2,2:0:0:0:
+343,301,114383,2,0,L|189:300,1,130,0|8,3:0|2:0,2:0:0:0:
+457,294,115028,5,0,3:0:0:0:
+457,294,115189,1,2,2:0:0:0:
+314,288,115512,1,2,2:0:0:0:
+262,249,115673,1,0,3:0:0:0:
+248,185,115834,1,10,2:0:0:0:
+259,154,115915,1,8,2:0:0:0:
+283,132,115996,1,2,3:2:0:0:
+436,150,116157,6,0,L|440:19,1,130,4|2,3:2|3:2,2:0:0:0:
+309,14,116802,1,2,3:2:0:0:
+244,16,116963,2,0,L|93:16,1,130,0|2,3:0|3:2,2:0:0:0:
+383,189,117609,6,0,L|383:56,1,130,6|8,3:2|2:0,2:0:0:0:
+319,61,118092,1,2,2:0:0:0:
+254,63,118254,2,0,L|125:65,1,130,0|8,3:0|2:0,2:0:0:0:
+270,77,118899,6,0,L|272:217,1,130,0|8,3:0|2:0,2:0:0:0:
+206,206,119383,1,2,2:0:0:0:
+142,210,119544,2,0,L|141:356,1,130,0|8,3:0|2:0,2:0:0:0:
+384,329,120189,6,0,L|233:329,1,130,0|8,3:0|2:0,2:0:0:0:
+397,333,120834,2,0,L|398:191,1,130,0|8,3:0|2:0,2:0:0:0:
+244,198,121479,6,0,L|94:198,1,130,0|8,3:0|2:0,2:0:0:0:
+180,199,121963,1,2,2:0:0:0:
+244,198,122125,2,0,L|94:198,1,130,0|8,3:0|2:0,2:0:0:0:
+362,200,122770,6,0,L|362:60,1,130,4|0,3:2|2:0,2:0:0:0:
+297,70,123254,1,2,3:2:0:0:
+233,69,123415,1,2,3:2:0:0:
+378,73,123738,1,10,3:2:0:0:
+378,73,123899,1,2,3:2:0:0:
+223,155,124060,6,0,L|94:156,1,130,4|2,3:2|3:2,2:0:0:0:
+159,155,124544,1,10,3:2:0:0:
+223,155,124705,1,2,3:2:0:0:
+371,160,125028,1,10,3:2:0:0:
+406,160,125109,1,8,3:2:0:0:
+440,160,125189,1,10,3:2:0:0:
+270,331,125350,6,0,P|233:279|289:226,1,130,4|0,3:2|3:0,2:0:0:0:
+331,222,125834,2,0,L|474:223,1,130,8|8,2:0|3:0,2:0:0:0:
+461,222,126318,1,2,3:2:0:0:
+305,241,126479,5,4,3:2:0:0:
+256,192,126802,12,0,133415,2:0:0:0:

@@ -1,0 +1,581 @@
+﻿osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 66406
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 11779,23868,27450,48943,59689,66406,77152
+DistanceSpacing: 1.7
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1.9
+
+[Metadata]
+Title:A Glorious Awakening
+TitleUnicode:眠龙醒心
+Artist:HOYO-MiX
+ArtistUnicode:HOYO-MiX
+Creator:Stelar
+Version:Sya's Easy
+Source:Genshin Impact
+Tags:the stellar moments vol. 2 vol.2 volume video game games electronic instrumental 原神 キャラクターテーマ ost original soundtrack 睡竜の目覚め suiryuu no mezame mihoyo hoyoverse sangonomiya kokomi 珊瑚宫心海 theme divine priestess inazuma 稻妻 輝く星々 闪耀的群星2 Yu-Peng Chen 陈宇鹏 陈致逸 Dimeng Yuan 苑迪萌 @HOYO-MiX International Master Philharmonic Orchestra Lita- Syadow- by-ad SuzumeAyase ML-ysg Yuiazu-
+BeatmapID:3695784
+BeatmapSetID:1800866
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"kokomek.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,1256,0,"C6R.wav",40
+Sample,1480,0,"D6R.wav",40
+Sample,1704,0,"C6R.wav",40
+Sample,1928,0,"D6R.wav",40
+Sample,2152,0,"D#6R_Eb6R.wav",40
+Sample,2600,0,"D6R.wav",40
+Sample,2824,0,"D#6R_Eb6R.wav",40
+Sample,3047,0,"C6R.wav",40
+Sample,3271,0,"D6R.wav",40
+Sample,3495,0,"D#6R_Eb6R.wav",40
+Sample,3943,0,"C6R.wav",40
+Sample,4167,0,"D6R.wav",40
+Sample,4391,0,"C6R.wav",40
+Sample,4615,0,"D6R.wav",40
+Sample,4838,0,"D#6R_Eb6R.wav",40
+Sample,5286,0,"D6R.wav",40
+Sample,5510,0,"D#6R_Eb6R.wav",40
+Sample,5734,0,"C6R.wav",40
+Sample,5958,0,"D6R.wav",40
+Sample,6182,0,"D#6R_Eb6R.wav",40
+Sample,6630,0,"D6R.wav",40
+Sample,6853,0,"D#6R_Eb6R.wav",40
+Sample,7077,0,"C6R.wav",40
+Sample,7301,0,"D6R.wav",40
+Sample,7525,0,"D#6R_Eb6R.wav",40
+Sample,7973,0,"D6R.wav",40
+Sample,8197,0,"D#6R_Eb6R.wav",40
+Sample,8421,0,"C6R.wav",40
+Sample,8644,0,"D6R.wav",40
+Sample,8868,0,"D#6R_Eb6R.wav",40
+Sample,9316,0,"D6R.wav",40
+Sample,9540,0,"D#6R_Eb6R.wav",40
+Sample,9764,0,"C6R.wav",40
+Sample,9988,0,"D6R.wav",40
+Sample,10212,0,"D#6R_Eb6R.wav",40
+Sample,10659,0,"D6R.wav",40
+Sample,10883,0,"D#6R_Eb6R.wav",40
+Sample,11107,0,"C6R.wav",40
+Sample,11331,0,"D6R.wav",40
+Sample,11555,0,"D#6R_Eb6R.wav",40
+Sample,12003,0,"C6R.wav",40
+Sample,12227,0,"D6R.wav",40
+Sample,12674,0,"D6R.wav",40
+Sample,12898,0,"D#6R_Eb6R.wav",40
+Sample,13346,0,"D6R.wav",40
+Sample,13570,0,"D#6R_Eb6R.wav",40
+Sample,14018,0,"D6R.wav",40
+Sample,14241,0,"D#6R_Eb6R.wav",40
+Sample,14689,0,"C6R.wav",40
+Sample,14913,0,"D6R.wav",40
+Sample,15361,0,"D6R.wav",40
+Sample,15585,0,"D#6R_Eb6R.wav",40
+Sample,16033,0,"D6R.wav",40
+Sample,16256,0,"D#6R_Eb6R.wav",40
+Sample,16704,0,"D6R.wav",40
+Sample,16928,0,"D#6R_Eb6R.wav",40
+Sample,17376,0,"D6R.wav",40
+Sample,17600,0,"D#6R_Eb6R.wav",40
+Sample,18047,0,"D6R.wav",40
+Sample,18271,0,"D#6R_Eb6R.wav",40
+Sample,18719,0,"D6R.wav",40
+Sample,18943,0,"D#6R_Eb6R.wav",40
+Sample,19391,0,"D6R.wav",40
+Sample,19615,0,"D#6R_Eb6R.wav",40
+Sample,20062,0,"C6R.wav",40
+Sample,20286,0,"F6R.wav",40
+Sample,20734,0,"D#6R_Eb6R.wav",40
+Sample,20958,0,"F6R.wav",40
+Sample,21406,0,"D#6R_Eb6R.wav",40
+Sample,21853,0,"D#6R_Eb6R.wav",40
+Sample,22301,0,"D6R.wav",40
+Sample,22413,0,"D#6R_Eb6R.wav",40
+Sample,23868,0,"D#5R_Eb5R.wav",40
+Sample,24092,0,"Hat Close.wav",10
+Sample,24204,0,"Hat Close.wav",10
+Sample,24316,0,"Hat Close.wav",10
+Sample,24540,0,"F5R.wav",40
+Sample,24764,0,"Hat Close.wav",10
+Sample,24988,0,"Hat Close.wav",10
+Sample,25212,0,"F#5R_Gb5R.wav",40
+Sample,25435,0,"Hat Close.wav",10
+Sample,25659,0,"Hat Close.wav",10
+Sample,25883,0,"C#6R_Db6R.wav",40
+Sample,27450,0,"A#6R_Bb6R.wav",40
+Sample,27450,0,"Hat Open.wav",15
+Sample,27673,0,"F6R.wav",40
+Sample,27673,0,"Hat Close.wav",10
+Sample,27785,0,"Hat Close.wav",10
+Sample,27897,0,"F#6R_Gb6R.wav",40
+Sample,28121,0,"G#6R_Ab6R.wav",40
+Sample,28121,0,"Hat Open.wav",15
+Sample,28345,0,"C#6R_Db6R.wav",25
+Sample,28345,0,"Hat Close.wav",10
+Sample,28569,0,"F6R.wav",25
+Sample,28569,0,"Hat Close.wav",10
+Sample,28793,0,"F#6R_Gb6R.wav",25
+Sample,29017,0,"G#6R_Ab6R.wav",25
+Sample,29241,0,"C#6R_Db6R.wav",25
+Sample,29241,0,"Hat Close.wav",10
+Sample,29464,0,"F6R.wav",25
+Sample,29464,0,"Hat Open.wav",15
+Sample,29688,0,"F#6R_Gb6R.wav",25
+Sample,29688,0,"Hat Close.wav",10
+Sample,29912,0,"G#6R_Ab6R.wav",25
+Sample,29912,0,"Hat Close.wav",10
+Sample,30136,0,"C#6R_Db6R.wav",25
+Sample,30136,0,"Hat Open.wav",15
+Sample,30360,0,"F6R.wav",25
+Sample,30360,0,"Hat Close.wav",10
+Sample,30472,0,"Hat Close.wav",10
+Sample,30584,0,"F#6R_Gb6R.wav",25
+Sample,30808,0,"G#6R_Ab6R.wav",25
+Sample,30808,0,"Hat Open.wav",15
+Sample,31032,0,"C#6R_Db6R.wav",25
+Sample,31032,0,"Hat Close.wav",10
+Sample,31255,0,"F6R.wav",25
+Sample,31255,0,"Hat Close.wav",10
+Sample,31479,0,"F#6R_Gb6R.wav",25
+Sample,31703,0,"G#6R_Ab6R.wav",25
+Sample,31927,0,"C#6R_Db6R.wav",25
+Sample,31927,0,"Hat Close.wav",10
+Sample,32151,0,"F6R.wav",25
+Sample,32151,0,"Hat Open.wav",15
+Sample,32375,0,"F#6R_Gb6R.wav",25
+Sample,32375,0,"Hat Close.wav",10
+Sample,32599,0,"G#6R_Ab6R.wav",25
+Sample,32599,0,"Hat Close.wav",10
+Sample,32711,0,"Hat Close.wav",10
+Sample,32823,0,"Hat Open.wav",15
+Sample,32823,0,"A#6R_Bb6R.wav",25
+Sample,33047,0,"Hat Close.wav",10
+Sample,33047,0,"F6R.wav",25
+Sample,33158,0,"Hat Close.wav",10
+Sample,33270,0,"F#6R_Gb6R.wav",25
+Sample,33494,0,"Hat Open.wav",15
+Sample,33494,0,"G#6R_Ab6R.wav",25
+Sample,33718,0,"Hat Close.wav",10
+Sample,33718,0,"C#6R_Db6R.wav",25
+Sample,33942,0,"Hat Close.wav",10
+Sample,33942,0,"F6R.wav",25
+Sample,34166,0,"F#6R_Gb6R.wav",25
+Sample,34390,0,"G#6R_Ab6R.wav",25
+Sample,34614,0,"Hat Close.wav",10
+Sample,34614,0,"C#6R_Db6R.wav",25
+Sample,34838,0,"Hat Open.wav",15
+Sample,34838,0,"F6R.wav",25
+Sample,35061,0,"Hat Close.wav",10
+Sample,35061,0,"F#6R_Gb6R.wav",25
+Sample,35285,0,"Hat Close.wav",10
+Sample,35285,0,"G#6R_Ab6R.wav",25
+Sample,35509,0,"Hat Open.wav",15
+Sample,35509,0,"A#6R_Bb6R.wav",25
+Sample,35733,0,"Hat Close.wav",10
+Sample,35733,0,"F6R.wav",25
+Sample,35957,0,"F#6R_Gb6R.wav",25
+Sample,36181,0,"G#6R_Ab6R.wav",25
+Sample,36181,0,"Hat Open.wav",15
+Sample,36405,0,"C#6R_Db6R.wav",25
+Sample,36405,0,"Hat Close.wav",10
+Sample,36629,0,"F6R.wav",25
+Sample,36629,0,"Hat Close.wav",10
+Sample,36852,0,"F#6R_Gb6R.wav",25
+Sample,37076,0,"G#6R_Ab6R.wav",25
+Sample,37300,0,"Hat Close.wav",10
+Sample,37300,0,"C#6R_Db6R.wav",25
+Sample,37524,0,"Hat Open.wav",15
+Sample,37524,0,"F6R.wav",25
+Sample,37748,0,"Hat Close.wav",10
+Sample,37748,0,"F#6R_Gb6R.wav",25
+Sample,37972,0,"Hat Close.wav",10
+Sample,37972,0,"C#7R_Db7R.wav",40
+Sample,38196,0,"Hat Open.wav",15
+Sample,38196,0,"D#7R_Eb7R.wav",40
+Sample,38420,0,"Hat Close.wav",10
+Sample,38420,0,"A#5R_Bb5R.wav",40
+Sample,38532,0,"Hat Close.wav",10
+Sample,38644,0,"D#6R_Eb6R.wav",40
+Sample,38867,0,"Hat Open.wav",15
+Sample,38867,0,"A#6R_Bb6R.wav",40
+Sample,39091,0,"Hat Close.wav",10
+Sample,39091,0,"D#7R_Eb7R.wav",40
+Sample,39315,0,"Hat Close.wav",10
+Sample,39315,0,"A#5R_Bb5R.wav",25
+Sample,39539,0,"D#6R_Eb6R.wav",25
+Sample,39763,0,"G6R.wav",25
+Sample,39987,0,"Hat Close.wav",10
+Sample,40211,0,"A#5R_Bb5R.wav",25
+Sample,40211,0,"Hat Open.wav",15
+Sample,40435,0,"D#6R_Eb6R.wav",25
+Sample,40435,0,"Hat Close.wav",10
+Sample,40658,0,"G6R.wav",25
+Sample,40658,0,"Hat Close.wav",10
+Sample,40882,0,"D#7R_Eb7R.wav",25
+Sample,40882,0,"Hat Open.wav",15
+Sample,41106,0,"G#5R_Ab5R.wav",40
+Sample,41106,0,"Hat Close.wav",10
+Sample,41218,0,"Hat Close.wav",10
+Sample,41330,0,"D#6R_Eb6R.wav",40
+Sample,41554,0,"G#6R_Ab6R.wav",40
+Sample,41554,0,"Hat Open.wav",15
+Sample,41778,0,"D#7R_Eb7R.wav",40
+Sample,41778,0,"Hat Close.wav",10
+Sample,42002,0,"D#6R_Eb6R.wav",40
+Sample,42002,0,"Hat Close.wav",10
+Sample,42226,0,"A#6R_Bb6R.wav",40
+Sample,42450,0,"A#5R_Bb5R.wav",40
+Sample,42673,0,"D#6R_Eb6R.wav",40
+Sample,42897,0,"Hat Open.wav",15
+Sample,42897,0,"A#5R_Bb5R.wav",40
+Sample,43121,0,"Hat Close.wav",10
+Sample,43121,0,"A#5R_Bb5R.wav",40
+Sample,43345,0,"Hat Close.wav",10
+Sample,43345,0,"D#6R_Eb6R.wav",40
+Sample,43569,0,"Hat Open.wav",15
+Sample,43569,0,"A#6R_Bb6R.wav",40
+Sample,43793,0,"Hat Close.wav",10
+Sample,43793,0,"A#5R_Bb5R.wav",40
+Sample,43905,0,"Hat Close.wav",10
+Sample,44017,0,"D#6R_Eb6R.wav",40
+Sample,44241,0,"Hat Open.wav",15
+Sample,44241,0,"A#6R_Bb6R.wav",40
+Sample,44464,0,"Hat Close.wav",10
+Sample,44464,0,"A#5R_Bb5R.wav",40
+Sample,44688,0,"D#6R_Eb6R.wav",40
+Sample,44912,0,"G#6R_Ab6R.wav",40
+Sample,45136,0,"Hat Close.wav",10
+Sample,45136,0,"A#5R_Bb5R.wav",40
+Sample,45360,0,"D#6R_Eb6R.wav",40
+Sample,45584,0,"G#6R_Ab6R.wav",40
+Sample,45584,0,"Hat Open.wav",15
+Sample,45808,0,"A#5R_Bb5R.wav",40
+Sample,45808,0,"Hat Close.wav",10
+Sample,46032,0,"Hat Close.wav",10
+Sample,46032,0,"D#6R_Eb6R.wav",40
+Sample,46255,0,"Hat Open.wav",15
+Sample,46255,0,"A#6R_Bb6R.wav",40
+Sample,46479,0,"Hat Close.wav",10
+Sample,46479,0,"A#5R_Bb5R.wav",40
+Sample,46703,0,"D#6R_Eb6R.wav",40
+Sample,46927,0,"A#6R_Bb6R.wav",40
+Sample,46927,0,"Hat Open.wav",15
+Sample,47151,0,"D#6R_Eb6R.wav",25
+Sample,47151,0,"Hat Close.wav",10
+Sample,47375,0,"D#6R_Eb6R.wav",25
+Sample,47375,0,"Hat Close.wav",10
+Sample,47599,0,"F6R.wav",40
+Sample,47823,0,"Hat Close.wav",10
+Sample,47823,0,"A#5R_Bb5R.wav",25
+Sample,48047,0,"D6R.wav",25
+Sample,48270,0,"F6R.wav",25
+Sample,48270,0,"Hat Open.wav",15
+Sample,48494,0,"A#5R_Bb5R.wav",25
+Sample,48494,0,"Hat Close.wav",10
+Sample,48718,0,"D6R.wav",25
+Sample,51629,0,"G#5R_Ab5R.wav",40
+Sample,51629,0,"C#5R_Db5R.wav",40
+Sample,51629,0,"F5R.wav",40
+Sample,54315,0,"C#5R_Db5R.wav",40
+Sample,54315,0,"G#4R_Ab4R.wav",40
+Sample,54315,0,"A#5R_Bb5R.wav",40
+Sample,56927,0,"G#5R_Ab5R.wav",40
+Sample,56927,0,"C#5R_Db5R.wav",40
+Sample,56927,0,"F5R.wav",40
+Sample,59912,0,"F6R.wav",40
+Sample,60808,0,"F6R.wav",40
+Sample,61703,0,"F6R.wav",40
+Sample,62599,0,"F6R.wav",40
+Sample,63494,0,"F6R.wav",40
+Sample,64315,0,"F#6R_Gb6R.wav",40
+Sample,64464,0,"G#6R_Ab6R.wav",40
+Sample,66629,0,"Hat Close.wav",15
+Sample,67076,0,"Hat Close.wav",15
+Sample,67524,0,"Hat Close.wav",15
+Sample,67972,0,"Hat Close.wav",15
+Sample,68420,0,"Hat Close.wav",15
+Sample,68867,0,"Hat Close.wav",15
+Sample,69315,0,"Hat Close.wav",15
+Sample,70211,0,"Hat Close.wav",15
+Sample,70658,0,"Hat Close.wav",15
+Sample,71554,0,"Hat Close.wav",15
+Sample,72002,0,"Hat Close.wav",15
+Sample,72450,0,"Hat Close.wav",15
+Sample,72673,0,"Hat Open.wav",15
+Sample,72897,0,"Hat Close.wav",15
+Sample,73345,0,"Hat Close.wav",15
+Sample,74688,0,"Hat Close.wav",15
+Sample,75136,0,"Hat Close.wav",15
+Sample,75584,0,"Hat Close.wav",15
+Sample,76032,0,"Hat Close.wav",15
+Sample,76255,0,"Hat Open.wav",15
+Sample,77375,0,"Hat Close.wav",15
+Sample,77823,0,"Hat Close.wav",15
+Sample,78270,0,"Hat Close.wav",15
+Sample,78718,0,"Hat Close.wav",15
+Sample,79166,0,"Hat Close.wav",15
+Sample,79614,0,"Hat Close.wav",15
+Sample,79838,0,"Hat Open.wav",15
+Sample,80061,0,"Hat Close.wav",15
+Sample,80957,0,"Hat Close.wav",15
+Sample,81405,0,"Hat Close.wav",15
+Sample,82300,0,"Hat Close.wav",15
+Sample,82748,0,"Hat Close.wav",15
+Sample,83196,0,"Hat Close.wav",15
+Sample,83420,0,"Hat Open.wav",15
+Sample,83644,0,"Hat Close.wav",15
+Sample,84091,0,"Hat Close.wav",15
+Sample,85435,0,"Hat Close.wav",15
+Sample,86778,0,"Hat Close.wav",15
+Sample,87002,0,"Hat Open.wav",15
+
+[TimingPoints]
+1033,447.761194029851,3,2,1,50,1,0
+23868,447.761194029851,4,2,1,50,1,0
+27450,447.761194029851,3,2,1,50,1,0
+66405,-100,3,2,1,50,0,1
+87897,-100,3,2,1,50,0,0
+
+
+[HitObjects]
+64,192,1033,128,0,2376:0:0:0:40:F6R.wav
+320,192,2376,128,0,3719:0:0:0:40:F6R.wav
+192,192,3719,128,0,5062:0:0:0:40:F6R.wav
+448,192,5062,128,0,6406:0:0:0:40:F6R.wav
+64,192,6406,128,0,7749:0:0:0:40:F6R.wav
+192,192,7749,128,0,9092:0:0:0:40:G6R.wav
+320,192,9092,128,0,10435:0:0:0:40:F6R.wav
+448,192,10435,128,0,11779:0:0:0:40:G6R.wav
+64,192,11779,1,0,0:0:0:40:F6R.wav
+320,192,11779,1,0,0:0:0:0:
+192,192,12450,1,0,0:0:0:40:C6R.wav
+320,192,13122,1,0,0:0:0:40:F6R.wav
+64,192,13794,1,0,0:0:0:40:C6R.wav
+192,192,14465,1,0,0:0:0:40:F6R.wav
+448,192,14465,1,0,0:0:0:0:
+320,192,15137,1,0,0:0:0:40:C6R.wav
+192,192,15809,1,0,0:0:0:50:F6R.wav
+64,192,16480,1,0,0:0:0:40:C6R.wav
+320,192,17152,1,0,0:0:0:40:G6R.wav
+448,192,17152,1,0,0:0:0:0:
+192,192,17824,1,0,0:0:0:40:C6R.wav
+64,192,18495,1,0,0:0:0:40:G6R.wav
+320,192,18495,1,0,0:0:0:0:
+448,192,19167,1,0,0:0:0:40:C6R.wav
+64,192,19838,1,0,0:0:0:50:F6R.wav
+192,192,19838,1,0,0:0:0:0:
+320,192,20510,1,0,0:0:0:40:C6R.wav
+64,192,21182,128,0,21630:0:0:0:40:F6R.wav
+448,192,21182,1,0,0:0:0:0:
+192,192,21630,128,0,22077:0:0:0:40:D6R.wav
+320,192,22077,128,0,22525:0:0:0:40:D#6R_Eb6R.wav
+448,192,22525,128,0,23868:0:0:0:40:A#6R_Bb6R.wav
+64,192,23868,1,0,0:0:0:15:Hat Open.wav
+192,192,23868,1,0,0:0:0:20:C4R.wav
+320,192,24539,1,0,0:0:0:15:Hat Open.wav
+448,192,24539,1,0,0:0:0:20:A#3R_Bb3R.wav
+192,192,25211,1,0,0:0:0:15:Hat Open.wav
+448,192,25211,1,0,0:0:0:20:F#3R_Gb3R.wav
+64,192,25882,128,0,27450:0:0:0:15:Hat Open.wav
+192,192,25882,1,0,0:0:0:20:G#3R_Ab3R.wav
+448,192,27450,1,2,0:0:0:0:
+320,192,27673,1,2,0:0:0:0:
+192,192,27897,1,0,0:0:0:10:Hat Close.wav
+320,192,28121,1,2,0:0:0:0:
+64,192,28793,1,8,0:0:0:0:
+192,192,28793,1,0,0:0:0:15:Hat Open.wav
+448,192,29017,1,0,0:0:0:10:Hat Close.wav
+64,192,29688,1,2,0:0:0:0:
+320,192,29912,1,2,0:0:0:0:
+192,192,30584,1,0,0:0:0:10:Hat Close.wav
+448,192,30808,1,2,0:0:0:0:
+64,192,31479,1,8,0:0:0:0:
+192,192,31479,1,0,0:0:0:15:Hat Open.wav
+320,192,31703,1,0,0:0:0:10:Hat Close.wav
+64,192,32375,1,2,0:0:0:0:
+448,192,32599,1,2,0:0:0:0:
+192,192,32823,1,2,0:0:0:0:
+320,192,33047,1,2,0:0:0:0:
+448,192,33270,1,0,0:0:0:10:Hat Close.wav
+64,192,33494,1,2,0:0:0:0:
+320,192,34166,1,8,0:0:0:0:
+448,192,34166,1,0,0:0:0:15:Hat Open.wav
+192,192,34390,1,0,0:0:0:10:Hat Close.wav
+448,192,35061,1,2,0:0:0:0:
+64,192,35285,1,2,0:0:0:0:
+320,192,35509,1,2,0:0:0:0:
+192,192,35733,1,2,0:0:0:0:
+64,192,35957,1,0,0:0:0:10:Hat Close.wav
+448,192,36181,1,2,0:0:0:0:
+64,192,36852,1,8,0:0:0:0:
+192,192,36852,1,0,0:0:0:15:Hat Open.wav
+320,192,37076,1,0,0:0:0:10:Hat Close.wav
+64,192,37748,1,2,0:0:0:0:
+448,192,37972,1,2,0:0:0:0:
+320,192,38196,1,2,0:0:0:0:
+192,192,38420,1,2,0:0:0:0:
+320,192,38644,1,0,0:0:0:10:Hat Close.wav
+64,192,38867,1,2,0:0:0:0:
+448,192,39091,1,2,0:0:0:0:
+64,192,39539,1,8,0:0:0:0:
+192,192,39539,1,0,0:0:0:15:Hat Open.wav
+320,192,39763,1,0,0:0:0:10:Hat Close.wav
+192,192,40211,1,2,0:0:0:0:
+320,192,40435,1,2,0:0:0:0:
+64,192,40658,1,2,0:0:0:0:
+448,192,40882,1,2,0:0:0:0:
+320,192,41106,1,2,0:0:0:0:
+192,192,41330,1,0,0:0:0:10:Hat Close.wav
+448,192,41554,1,2,0:0:0:0:
+64,192,41778,1,2,0:0:0:0:
+320,192,42226,1,8,0:0:0:0:
+448,192,42226,1,0,0:0:0:15:Hat Open.wav
+192,192,42450,1,0,0:0:0:10:Hat Close.wav
+320,192,42673,1,0,0:0:0:10:Hat Close.wav
+64,192,42897,1,2,0:0:0:0:
+448,192,43569,1,2,0:0:0:0:
+64,192,43793,1,2,0:0:0:0:
+192,192,44017,1,0,0:0:0:10:Hat Close.wav
+320,192,44241,1,2,0:0:0:0:
+64,192,44688,1,0,0:0:0:10:Hat Close.wav
+320,192,44912,1,8,0:0:0:0:
+448,192,44912,1,0,0:0:0:15:Hat Open.wav
+192,192,45360,1,0,0:0:0:10:Hat Close.wav
+320,192,45584,1,2,0:0:0:0:
+64,192,46032,1,2,0:0:0:0:
+448,192,46255,1,2,0:0:0:0:
+192,192,46703,1,0,0:0:0:10:Hat Close.wav
+320,192,46927,1,2,0:0:0:0:
+64,192,47375,1,2,0:0:0:0:
+320,192,47599,1,8,0:0:0:0:
+448,192,47599,1,0,0:0:0:15:Hat Open.wav
+192,192,48047,1,0,0:0:0:10:Hat Close.wav
+448,192,48270,1,2,0:0:0:0:
+320,192,48494,1,2,0:0:0:0:
+192,192,48718,1,0,0:0:0:10:Hat Close.wav
+64,192,48942,1,0,0:0:0:40:A#6R_Bb6R.wav
+448,192,50285,1,0,0:0:0:40:A#7R_Bb7R.wav
+320,192,51629,1,0,0:0:0:40:D#4R_Eb4R.wav
+192,192,52972,1,0,0:0:0:40:F7R.wav
+448,192,54315,1,0,0:0:0:40:G#3R_Ab3R.wav
+64,192,55658,1,0,0:0:0:40:A#7R_Bb7R.wav
+320,192,56927,1,0,0:0:0:40:D#4R_Eb4R.wav
+192,192,58345,1,0,0:0:0:40:F7R.wav
+320,192,59017,1,0,0:0:0:25:C#7R_Db7R.wav
+448,192,59688,128,0,60136:0:0:0:40:D#6R_Eb6R.wav
+320,192,60136,1,0,0:0:0:40:F#6R_Gb6R.wav
+192,192,60360,1,0,0:0:0:40:G#6R_Ab6R.wav
+64,192,60584,128,0,61032:0:0:0:40:D#6R_Eb6R.wav
+448,192,61032,1,0,0:0:0:40:F#6R_Gb6R.wav
+192,192,61255,1,0,0:0:0:40:G#6R_Ab6R.wav
+320,192,61479,128,0,61927:0:0:0:40:D#6R_Eb6R.wav
+64,192,61927,1,0,0:0:0:40:F#6R_Gb6R.wav
+448,192,62151,1,0,0:0:0:40:G#6R_Ab6R.wav
+192,192,62375,128,0,62823:0:0:0:40:D#6R_Eb6R.wav
+320,192,62823,1,0,0:0:0:40:F#6R_Gb6R.wav
+64,192,63047,1,0,0:0:0:40:G#6R_Ab6R.wav
+448,192,63270,128,0,63718:0:0:0:40:D#6R_Eb6R.wav
+64,192,63718,1,0,0:0:0:40:F#6R_Gb6R.wav
+192,192,63867,1,0,0:0:0:40:G#6R_Ab6R.wav
+320,192,64017,1,0,0:0:0:40:A#6R_Bb6R.wav
+64,192,64166,128,0,64614:0:0:0:40:F6R.wav
+448,192,64614,1,0,0:0:0:40:C#7R_Db7R.wav
+320,192,64763,1,0,0:0:0:40:F7R.wav
+192,192,64912,1,0,0:0:0:40:F#7R_Gb7R.wav
+320,192,65509,128,0,66405:0:0:0:70:ascension.ogg
+64,192,66405,1,2,0:0:0:0:
+448,192,66405,128,4,67748:0:0:0:0:
+192,192,66852,1,2,0:0:0:0:
+320,192,67300,1,2,0:0:0:0:
+64,192,67748,128,2,69091:0:0:0:0:
+192,192,67748,1,8,0:0:0:0:
+320,192,68196,1,2,0:0:0:0:
+448,192,68644,1,2,0:0:0:0:
+192,192,69091,128,2,69763:0:0:0:0:
+320,192,69763,128,0,70435:0:0:0:15:Hat Close.wav
+64,192,70435,1,8,0:0:0:0:
+448,192,70435,128,2,71106:0:0:0:0:
+64,192,71106,128,0,71778:0:0:0:15:Hat Close.wav
+320,192,71778,128,2,73121:0:0:0:0:
+192,192,72226,1,2,0:0:0:0:
+448,192,72673,1,2,0:0:0:0:
+64,192,73121,1,2,0:0:0:0:
+192,192,73121,1,8,0:0:0:0:
+64,192,73569,1,2,0:0:0:0:
+448,192,73793,1,0,0:0:0:15:Hat Close.wav
+320,192,74017,1,2,0:0:0:0:
+192,192,74241,1,0,0:0:0:15:Hat Close.wav
+448,192,74464,128,2,75808:0:0:0:0:
+64,192,74912,1,2,0:0:0:0:
+320,192,75360,1,2,0:0:0:0:
+64,192,75808,1,8,0:0:0:0:
+192,192,75808,1,2,0:0:0:0:
+448,192,76255,1,2,0:0:0:0:
+64,192,76479,1,0,0:0:0:15:Hat Close.wav
+192,192,76703,1,2,0:0:0:0:
+320,192,76927,1,0,0:0:0:15:Hat Close.wav
+64,192,77151,128,2,78494:0:0:0:0:
+448,192,77599,1,2,0:0:0:0:
+192,192,78047,1,2,0:0:0:0:
+320,192,78494,128,2,79838:0:0:0:0:
+448,192,78494,1,8,0:0:0:0:
+64,192,78942,1,2,0:0:0:0:
+448,192,79390,1,2,0:0:0:0:
+192,192,79838,128,2,80509:0:0:0:0:
+448,192,80509,128,0,81181:0:0:0:15:Hat Close.wav
+64,192,81181,128,8,81852:0:0:0:0:
+192,192,81181,1,2,0:0:0:0:
+320,192,81852,128,0,82524:0:0:0:15:Hat Close.wav
+192,192,82524,128,2,83867:0:0:0:0:
+448,192,82972,1,2,0:0:0:0:
+64,192,83420,1,2,0:0:0:0:
+320,192,83867,1,2,0:0:0:0:
+448,192,83867,1,8,0:0:0:0:
+64,192,84315,1,2,0:0:0:0:
+448,192,84539,1,0,0:0:0:15:Hat Close.wav
+320,192,84763,1,2,0:0:0:0:
+192,192,84987,1,0,0:0:0:15:Hat Close.wav
+448,192,85211,128,2,85882:0:0:0:0:
+64,192,85882,1,0,0:0:0:15:Hat Close.wav
+192,192,86106,1,2,0:0:0:0:
+320,192,86330,1,0,0:0:0:15:Hat Close.wav
+64,192,86554,128,8,87226:0:0:0:0:
+448,192,86554,1,2,0:0:0:0:
+448,192,87226,1,0,0:0:0:15:Hat Close.wav
+192,192,87450,1,2,0:0:0:0:
+320,192,87673,1,0,0:0:0:15:Hat Close.wav
+64,192,87897,1,0,0:0:0:50:E7S.wav
+448,192,87897,128,0,90584:0:0:0:0:
+192,192,90584,128,0,93270:0:0:0:50:D7S.wav
+320,192,93270,128,0,95957:0:0:0:50:C#7R_Db7R.wav
+64,192,95957,128,0,99987:0:0:0:50:B6S.wav
