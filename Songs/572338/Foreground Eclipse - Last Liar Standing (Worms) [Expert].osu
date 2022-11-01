@@ -1,0 +1,2616 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 126835
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 3.199999
+
+[Metadata]
+Title:Last Liar Standing
+TitleUnicode:Last Liar Standing
+Artist:Foreground Eclipse
+ArtistUnicode:Foreground Eclipse
+Creator:Worms
+Version:Expert
+Source:東方地霊殿　～ Subterranean Animism.
+Tags:Metal Japanese Teto merami FGE-0005 Touhou Project 東方Project ZUN Shanghai Alice 上海アリス幻樂団 doujin 同人エモ/スクリーモ・バンドサークル Stories That Last Through The Sleepless Nights 少女さとり ～ 3rd eye Satori Maiden chireiden th11 4面ボス曲 古明地さとり 1164530434
+BeatmapID:1233432
+BeatmapSetID:572338
+
+[Difficulty]
+HPDrainRate:8.3
+CircleSize:4
+OverallDifficulty:8.3
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"lls v2.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,22025,0,"soft-hitfinish.wav",70
+Sample,23544,0,"LR2_HatSF.wav",45
+Sample,24303,0,"LR2_HatSF.wav",45
+Sample,25063,0,"LR2_HatSF.wav",45
+Sample,25443,0,"LR2_HatSF.wav",45
+Sample,25822,0,"LR2_HatSF.wav",45
+Sample,26582,0,"LR2_HatSF.wav",45
+Sample,28860,0,"Cymbol2.wav",50
+Sample,29620,0,"soft-hitclap.wav",70
+Sample,30379,0,"LR_Kick Hard Fast.wav",70
+Sample,31139,0,"soft-hitclap.wav",70
+Sample,31518,0,"LR_Kick Hard Fast.wav",70
+Sample,31898,0,"LR_Kick Hard Fast.wav",70
+Sample,32658,0,"soft-hitclap.wav",70
+Sample,33417,0,"LR_Kick Hard Fast.wav",70
+Sample,33797,0,"LR_Kick Hard Fast.wav",70
+Sample,34556,0,"LR_Kick Hard Fast.wav",70
+Sample,34556,0,"soft-hitclap.wav",50
+Sample,34936,0,"LR_Kick Hard Fast.wav",70
+Sample,35696,0,"LR2_HatSF.wav",45
+Sample,35696,0,"LR_Kick Hard Fast.wav",70
+Sample,36455,0,"LR2_HatSF.wav",45
+Sample,37215,0,"soft-hitclap.wav",70
+Sample,37215,0,"LR2_HatSF.wav",45
+Sample,37784,0,"LR_Kick Hard Fast.wav",70
+Sample,37974,0,"LR2_HatSF.wav",45
+Sample,38734,0,"LR2_HatSF.wav",45
+Sample,38734,0,"soft-hitclap.wav",70
+Sample,39493,0,"LR2_HatSF.wav",45
+Sample,40253,0,"LR2_HatSF.wav",45
+Sample,41012,0,"LR2_HatSF.wav",45
+Sample,41772,0,"soft-hitclap.wav",70
+Sample,41772,0,"LR2_HatSF.wav",45
+Sample,42531,0,"LR2_HatSF.wav",45
+Sample,43291,0,"LR_Kick Hard Fast.wav",70
+Sample,43291,0,"LR2_HatSF.wav",45
+Sample,44050,0,"LR2_HatSF.wav",45
+Sample,44810,0,"LR_Kick Hard Fast.wav",70
+Sample,44810,0,"LR2_HatSF.wav",45
+Sample,45569,0,"LR2_HatSF.wav",45
+Sample,46329,0,"LR2_HatSF.wav",45
+Sample,47088,0,"ehco2.wav",40
+Sample,53164,0,"Cymbol.wav",50
+Sample,60000,0,"Cymbol2.wav",25
+Sample,60379,0,"Cymbol2.wav",25
+Sample,60759,0,"LR_Kick Hard Fast.wav",70
+Sample,61518,0,"Cymbol2.wav",25
+Sample,61898,0,"LR2_HatSF.wav",45
+Sample,62278,0,"LR_Kick Hard Fast.wav",70
+Sample,63037,0,"LR2_HatSF.wav",45
+Sample,63417,0,"LR2_HatSF.wav",45
+Sample,63797,0,"Cymbol2.wav",25
+Sample,64556,0,"Cymbol2.wav",25
+Sample,64936,0,"LR2_HatSF.wav",45
+Sample,66075,0,"LR2_HatSF.wav",45
+Sample,66455,0,"soft-hitclap.wav",50
+Sample,66835,0,"LR2_HatSF.wav",45
+Sample,67594,0,"LR2_HatSF.wav",45
+Sample,67974,0,"soft-hitclap.wav",50
+Sample,68354,0,"LR2_HatSF.wav",45
+Sample,69113,0,"LR2_HatSF.wav",45
+Sample,69493,0,"soft-hitclap.wav",50
+Sample,69873,0,"Cymbol2.wav",25
+Sample,70632,0,"Cymbol2.wav",25
+Sample,71012,0,"soft-hitclap.wav",50
+Sample,71392,0,"Cymbol2.wav",50
+Sample,71772,0,"LR2_HatSF.wav",45
+Sample,72531,0,"LR2_HatSF.wav",45
+Sample,72911,0,"Cymbol.wav",50
+Sample,73291,0,"LR2_HatSF.wav",45
+Sample,74050,0,"LR2_HatSF.wav",45
+Sample,74430,0,"Cymbol2.wav",50
+Sample,74810,0,"LR2_HatSF.wav",45
+Sample,75569,0,"LR2_HatSF.wav",45
+Sample,75949,0,"Cymbol.wav",70
+Sample,76329,0,"LR_Kick Hard Fast.wav",70
+Sample,76708,0,"LR_Kick Hard Fast.wav",70
+Sample,77088,0,"LR_Kick Hard Fast.wav",70
+Sample,78227,0,"LR_Kick Hard Fast.wav",70
+Sample,79367,0,"LR2_HatSF.wav",45
+Sample,79746,0,"LR2_HatSF.wav",45
+Sample,80126,0,"Cymbol2.wav",25
+Sample,80506,0,"LR2_HatSF.wav",45
+Sample,80886,0,"Cymbol2.wav",25
+Sample,81265,0,"LR2_HatSF.wav",45
+Sample,81645,0,"Cymbol2.wav",25
+Sample,82025,0,"LR2_HatSF.wav",45
+Sample,82405,0,"Cymbol2.wav",25
+Sample,82784,0,"LR2_HatSF.wav",45
+Sample,83164,0,"Cymbol2.wav",25
+Sample,83544,0,"LR2_HatSF.wav",45
+Sample,83924,0,"Cymbol2.wav",25
+Sample,84303,0,"LR2_HatSF.wav",45
+Sample,85063,0,"Cymbol.wav",50
+Sample,85443,0,"LR2_HatSF.wav",45
+Sample,85822,0,"Cymbol2.wav",25
+Sample,86202,0,"LR2_HatSF.wav",45
+Sample,86582,0,"Cymbol2.wav",25
+Sample,86962,0,"LR2_HatSF.wav",45
+Sample,87341,0,"Cymbol2.wav",25
+Sample,87721,0,"LR2_HatSF.wav",45
+Sample,88101,0,"Cymbol2.wav",25
+Sample,88481,0,"LR2_HatSF.wav",45
+Sample,88860,0,"Cymbol2.wav",25
+Sample,89240,0,"LR2_HatSF.wav",45
+Sample,89620,0,"Cymbol2.wav",25
+Sample,90000,0,"LR2_HatSF.wav",45
+Sample,90379,0,"Cymbol2.wav",25
+Sample,90759,0,"LR2_HatSF.wav",45
+Sample,91898,0,"LR2_HatSF.wav",45
+Sample,92658,0,"LR_Kick Hard Fast.wav",70
+Sample,93417,0,"Cymbol2.wav",25
+Sample,93797,0,"Cymbol2.wav",25
+Sample,94177,0,"LR_Kick Hard Fast.wav",70
+Sample,94936,0,"Cymbol2.wav",25
+Sample,95696,0,"LR_Kick Hard Fast.wav",70
+Sample,96075,0,"LR_Kick Hard Fast.wav",70
+Sample,96835,0,"Cymbol2.wav",25
+Sample,97215,0,"Cymbol2.wav",50
+Sample,97974,0,"Cymbol2.wav",25
+Sample,98734,0,"Cymbol2.wav",25
+Sample,99493,0,"Cymbol2.wav",25
+Sample,99873,0,"Cymbol2.wav",25
+Sample,100253,0,"LR2_HatSF.wav",45
+Sample,101012,0,"Cymbol2.wav",25
+Sample,102151,0,"soft-hitfinish.wav",50
+Sample,102626,0,"Tom02.wav",60
+Sample,102721,0,"soft-hitfinish.wav",50
+Sample,103291,0,"Cymbol.wav",50
+Sample,109367,0,"Cymbol.wav",50
+Sample,116202,0,"LR2_HatSF.wav",45
+Sample,116582,0,"Cymbol2.wav",25
+Sample,116962,0,"LR2_HatSF.wav",45
+Sample,117721,0,"LR2_HatSF.wav",45
+Sample,118101,0,"LR2_HatSF.wav",45
+Sample,118481,0,"Cymbol2.wav",25
+Sample,119240,0,"Cymbol2.wav",25
+Sample,119620,0,"Cymbol2.wav",25
+Sample,120000,0,"LR2_HatSF.wav",45
+Sample,120759,0,"LR2_HatSF.wav",45
+Sample,121139,0,"Cymbol2.wav",25
+Sample,121518,0,"Cymbol2.wav",50
+Sample,122278,0,"Cymbol2.wav",25
+Sample,122658,0,"LR2_HatSF.wav",45
+Sample,123037,0,"Cymbol2.wav",25
+Sample,123797,0,"Cymbol2.wav",25
+Sample,124177,0,"LR2_HatSF.wav",45
+Sample,124651,0,"Tom01.wav",50
+Sample,124746,0,"Tom01.wav",50
+Sample,124841,0,"Tom02.wav",50
+Sample,125126,0,"Tom01.wav",50
+Sample,125221,0,"Tom01.wav",50
+Sample,125411,0,"Tom01.wav",50
+Sample,125506,0,"Tom02.wav",50
+Sample,125601,0,"Tom01.wav",50
+Sample,125696,0,"Tom02.wav",50
+Sample,125791,0,"Tom02.wav",50
+Sample,125886,0,"Tom02.wav",50
+Sample,125981,0,"Tom02.wav",50
+Sample,127215,0,"ehco.wav",40
+Sample,127974,0,"Cymbol2.wav",25
+Sample,128354,0,"Cymbol2.wav",25
+Sample,128734,0,"LR2_HatSF.wav",45
+Sample,129113,0,"Cymbol2.wav",25
+Sample,129493,0,"LR2_HatSF.wav",45
+Sample,129873,0,"Cymbol2.wav",25
+Sample,130253,0,"LR2_HatSF.wav",45
+Sample,130632,0,"LR2_HatSF.wav",45
+Sample,131012,0,"Cymbol2.wav",25
+Sample,131392,0,"LR2_HatSF.wav",45
+Sample,131772,0,"Cymbol2.wav",25
+Sample,132151,0,"LR2_HatSF.wav",45
+Sample,132531,0,"Cymbol2.wav",25
+Sample,132911,0,"LR2_HatSF.wav",45
+Sample,133670,0,"Cymbol.wav",50
+Sample,134050,0,"Cymbol2.wav",25
+Sample,134430,0,"LR2_HatSF.wav",45
+Sample,134810,0,"Cymbol2.wav",25
+Sample,135189,0,"LR2_HatSF.wav",45
+Sample,135569,0,"Cymbol2.wav",25
+Sample,135949,0,"LR2_HatSF.wav",45
+Sample,136329,0,"Cymbol2.wav",25
+Sample,136708,0,"LR2_HatSF.wav",45
+Sample,137088,0,"Cymbol2.wav",25
+Sample,137468,0,"LR2_HatSF.wav",45
+Sample,137848,0,"Cymbol2.wav",25
+Sample,138227,0,"LR2_HatSF.wav",45
+Sample,138607,0,"Cymbol2.wav",25
+Sample,138987,0,"LR2_HatSF.wav",45
+Sample,139746,0,"Cymbol.wav",50
+Sample,140126,0,"LR2_HatSF.wav",45
+Sample,140506,0,"Cymbol.wav",35
+Sample,140886,0,"LR2_HatSF.wav",45
+Sample,141265,0,"Cymbol.wav",35
+Sample,141645,0,"LR2_HatSF.wav",45
+Sample,142025,0,"Cymbol.wav",35
+Sample,142405,0,"LR2_HatSF.wav",45
+Sample,142784,0,"Cymbol.wav",35
+Sample,143164,0,"Cymbol.wav",35
+Sample,143544,0,"LR2_HatSF.wav",45
+Sample,143924,0,"Cymbol.wav",35
+Sample,144493,0,"Tom01.wav",50
+Sample,144683,0,"Cymbol.wav",70
+Sample,144683,0,"Tom02.wav",50
+Sample,145063,0,"LR_Kick Hard Fast.wav",70
+Sample,145253,0,"Tom02.wav",50
+Sample,145822,0,"LR_Kick Hard Fast.wav",70
+Sample,146202,0,"Cymbol.wav",35
+Sample,146582,0,"LR2_HatSF.wav",45
+Sample,146962,0,"Cymbol.wav",35
+Sample,147341,0,"LR2_HatSF.wav",45
+Sample,147721,0,"Cymbol.wav",35
+Sample,148101,0,"LR2_HatSF.wav",45
+Sample,148481,0,"Cymbol.wav",35
+Sample,148860,0,"LR2_HatSF.wav",45
+Sample,149240,0,"Cymbol.wav",35
+Sample,149620,0,"LR2_HatSF.wav",45
+Sample,150000,0,"Cymbol.wav",35
+Sample,151898,0,"Cymbol.wav",50
+Sample,152278,0,"LR2_HatSF.wav",45
+Sample,152658,0,"Cymbol2.wav",25
+Sample,153037,0,"LR2_HatSF.wav",45
+Sample,153417,0,"Cymbol2.wav",25
+Sample,153797,0,"LR2_HatSF.wav",45
+Sample,154556,0,"LR2_HatSF.wav",45
+Sample,154936,0,"Cymbol2.wav",50
+Sample,155316,0,"LR2_HatSF.wav",45
+Sample,155696,0,"Cymbol2.wav",25
+Sample,156075,0,"LR2_HatSF.wav",45
+Sample,156455,0,"LR2_HatSF.wav",45
+Sample,156835,0,"Cymbol2.wav",25
+Sample,157594,0,"Cymbol2.wav",25
+Sample,157974,0,"LR_Kick Hard Fast.wav",70
+Sample,158354,0,"LR2_HatSF.wav",45
+Sample,159493,0,"Cymbol.wav",50
+Sample,159873,0,"LR2_HatSF.wav",45
+Sample,159873,0,"Tom02.wav",50
+Sample,161012,0,"LR2_HatSF.wav",45
+Sample,161392,0,"LR2_HatSF.wav",45
+Sample,161392,0,"Tom01.wav",50
+Sample,161772,0,"LR2_HatSF.wav",45
+Sample,162151,0,"Tom02.wav",50
+Sample,162531,0,"LR2_HatSF.wav",45
+Sample,162531,0,"Cymbol.wav",50
+Sample,165569,0,"LR_RevCyLGLH.wav",50
+
+[TimingPoints]
+0,379.746835443038,4,2,1,20,1,0
+34936,-100,4,2,1,20,0,1
+47088,-100,4,2,1,20,0,0
+78987,-100,4,2,1,20,0,1
+91139,-100,4,2,1,20,0,0
+127594,-100,4,2,1,20,0,1
+151898,-100,4,2,1,20,0,0
+157974,-100,4,2,1,20,0,1
+167848,-100,4,2,1,20,0,0
+
+
+[HitObjects]
+448,192,8734,5,0,0:0:0:30:soft-hitclap.wav
+320,192,8734,1,0,0:0:0:0:
+64,192,8829,1,0,0:0:0:30:soft-hitclap.wav
+192,192,8829,1,0,0:0:0:0:
+320,192,8924,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,8987,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,9050,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,9113,1,0,0:0:0:40:Hihat.wav
+448,192,9113,1,0,0:0:0:30:soft-hitclap.wav
+192,192,9113,1,0,0:0:0:0:
+64,192,9398,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,9398,1,0,0:0:0:0:
+192,192,9683,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,9683,1,0,0:0:0:0:
+64,192,9873,1,0,0:0:0:30:soft-hitclap.wav
+320,192,9873,1,0,0:0:0:0:
+448,192,9873,1,0,0:0:0:0:
+64,192,10063,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,10063,1,0,0:0:0:0:
+192,192,10253,1,0,0:0:0:30:soft-hitclap.wav
+448,192,10253,1,0,0:0:0:50:soft-hitfinish.wav
+320,192,10253,1,0,0:0:0:0:
+448,192,10632,1,0,0:0:0:20:ehco2.wav
+320,192,10632,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,10632,1,0,0:0:0:50:Cymbol2.wav
+320,192,10822,1,0,0:0:0:0:
+320,192,11012,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,11202,1,0,0:0:0:0:
+320,192,11392,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,11582,1,0,0:0:0:0:
+320,192,11772,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,11962,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,11962,1,0,0:0:0:0:
+192,192,12151,1,0,0:0:0:50:LR2_HatSF.wav
+448,192,12151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,12341,1,0,0:0:0:0:
+192,192,12531,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,12721,1,0,0:0:0:0:
+192,192,12911,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,13101,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,13101,1,0,0:0:0:0:
+192,192,13291,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,13481,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,13481,1,0,0:0:0:0:
+448,192,13670,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,13670,1,0,0:0:0:50:LR2_HatSF.wav
+448,192,13860,1,0,0:0:0:0:
+448,192,14050,1,0,0:0:0:50:LR2_HatSF.wav
+448,192,14240,1,0,0:0:0:0:
+448,192,14430,1,0,0:0:0:50:LR2_HatSF.wav
+448,192,14620,1,0,0:0:0:0:
+448,192,14810,1,0,0:0:0:50:LR2_HatSF.wav
+448,192,15000,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,15000,1,0,0:0:0:0:
+64,192,15189,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,15189,1,0,0:0:0:50:LR2_HatSF.wav
+64,192,15379,1,0,0:0:0:0:
+64,192,15569,1,0,0:0:0:50:LR2_HatSF.wav
+64,192,15759,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,15759,1,0,0:0:0:0:
+320,192,15949,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,15949,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,16139,1,0,0:0:0:0:
+320,192,16329,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,16518,1,0,0:0:0:0:
+192,192,16708,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,16708,1,0,0:0:0:20:Cymbol2.wav
+64,192,16708,1,0,0:0:0:0:
+192,192,16898,1,0,0:0:0:0:
+192,192,17088,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,17278,1,0,0:0:0:0:
+192,192,17468,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,17658,1,0,0:0:0:0:
+192,192,17848,1,0,0:0:0:50:LR2_HatSF.wav
+192,192,18037,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,18037,1,0,0:0:0:0:
+320,192,18227,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,18227,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,18417,1,0,0:0:0:0:
+320,192,18607,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,18797,1,0,0:0:0:0:
+320,192,18987,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,19177,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,19177,1,0,0:0:0:0:
+320,192,19367,1,0,0:0:0:50:LR2_HatSF.wav
+320,192,19556,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,19556,1,0,0:0:0:90:LR_RevCyLGLH.wav
+64,192,19746,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,19746,1,0,0:0:0:70:LR2_HatSF.wav
+64,192,19936,1,0,0:0:0:0:
+64,192,20126,1,0,0:0:0:70:LR2_HatSF.wav
+64,192,20316,1,0,0:0:0:0:
+64,192,20506,1,0,0:0:0:70:LR2_HatSF.wav
+64,192,20696,1,0,0:0:0:0:
+64,192,20886,1,0,0:0:0:70:LR2_HatSF.wav
+64,192,21075,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,21075,1,0,0:0:0:0:
+64,192,21265,1,0,0:0:0:70:soft-hitfinish.wav
+320,192,21265,128,0,21645:0:0:0:0:
+64,192,21455,1,0,0:0:0:0:
+64,192,21645,1,0,0:0:0:70:soft-hitfinish.wav
+448,192,21645,128,0,22025:0:0:0:0:
+64,192,21835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,21835,1,0,0:0:0:0:
+192,192,22025,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,22088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,22151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,22215,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,22278,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,22341,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,22405,128,0,22784:0:0:0:50:ehco.wav
+192,192,22405,1,0,0:0:0:70:soft-hitclap.wav
+320,192,22784,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,22784,1,0,0:0:0:50:drum-hitfinish.wav
+448,192,22784,1,0,0:0:0:50:Cymbol2.wav
+192,192,22974,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,22974,1,0,0:0:0:0:
+192,192,23069,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,23069,1,0,0:0:0:0:
+448,192,23259,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,23259,1,0,0:0:0:0:
+320,192,23354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,23354,1,0,0:0:0:0:
+448,192,23544,1,0,0:0:0:70:soft-hitclap.wav
+64,192,23544,1,0,0:0:0:25:Cymbol2.wav
+320,192,23639,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,23639,1,0,0:0:0:0:
+64,192,23734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,23734,1,0,0:0:0:0:
+192,192,23829,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,23829,1,0,0:0:0:0:
+192,192,24018,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,24018,1,0,0:0:0:0:
+64,192,24113,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,24113,1,0,0:0:0:0:
+192,192,24303,1,0,0:0:0:25:Cymbol2.wav
+448,192,24303,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,24493,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,24493,1,0,0:0:0:0:
+320,192,24588,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,24588,1,0,0:0:0:0:
+192,192,24778,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,24778,1,0,0:0:0:0:
+192,192,24873,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,24873,1,0,0:0:0:0:
+192,192,25063,1,0,0:0:0:25:Cymbol2.wav
+320,192,25063,1,0,0:0:0:70:soft-hitclap.wav
+448,192,25158,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,25158,1,0,0:0:0:0:
+320,192,25253,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,25253,1,0,0:0:0:0:
+64,192,25348,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,25348,1,0,0:0:0:0:
+192,192,25443,128,0,25822:0:0:0:25:Cymbol2.wav
+320,192,25443,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,25537,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,25632,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,25727,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,25822,1,0,0:0:0:25:Cymbol2.wav
+64,192,25822,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,26012,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,26012,1,0,0:0:0:0:
+192,192,26107,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,26107,1,0,0:0:0:0:
+448,192,26297,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,26297,1,0,0:0:0:0:
+320,192,26392,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,26392,1,0,0:0:0:0:
+64,192,26582,1,0,0:0:0:25:Cymbol2.wav
+448,192,26582,1,0,0:0:0:70:soft-hitclap.wav
+192,192,26677,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,26677,1,0,0:0:0:0:
+64,192,26772,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,26772,1,0,0:0:0:0:
+192,192,26867,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,26867,1,0,0:0:0:0:
+448,192,27056,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,27056,1,0,0:0:0:0:
+448,192,27151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,27151,1,0,0:0:0:0:
+320,192,27341,1,0,0:0:0:70:soft-hitfinish.wav
+64,192,27341,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,27531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,27531,1,0,0:0:0:0:
+448,192,27721,1,0,0:0:0:70:soft-hitfinish.wav
+64,192,27721,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,27816,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,27816,1,0,0:0:0:0:
+320,192,28006,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,28006,1,0,0:0:0:0:
+64,192,28101,1,0,0:0:0:70:soft-hitfinish.wav
+448,192,28101,1,0,0:0:0:70:soft-hitclap.wav
+192,192,28101,1,0,0:0:0:0:
+64,192,28291,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,28291,1,0,0:0:0:0:
+192,192,28386,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,28481,1,0,0:0:0:70:soft-hitfinish.wav
+64,192,28481,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,28575,1,0,0:0:0:50:soft-hitclap.wav
+448,192,28575,1,0,0:0:0:0:
+64,192,28670,1,0,0:0:0:50:soft-hitclap.wav
+192,192,28670,1,0,0:0:0:0:
+448,192,28765,1,0,0:0:0:50:soft-hitclap.wav
+320,192,28765,1,0,0:0:0:0:
+192,192,28860,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,28860,1,0,0:0:0:50:drum-hitfinish.wav
+64,192,29050,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,29050,1,0,0:0:0:0:
+448,192,29145,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,29145,1,0,0:0:0:0:
+192,192,29335,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,29335,1,0,0:0:0:0:
+64,192,29430,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,29430,1,0,0:0:0:0:
+64,192,29620,1,0,0:0:0:25:Cymbol2.wav
+448,192,29620,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,29715,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,29715,1,0,0:0:0:0:
+448,192,29810,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,29810,1,0,0:0:0:0:
+320,192,29905,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,29905,1,0,0:0:0:0:
+192,192,30094,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,30094,1,0,0:0:0:0:
+448,192,30189,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,30189,1,0,0:0:0:0:
+64,192,30379,1,0,0:0:0:25:Cymbol2.wav
+320,192,30379,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,30569,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,30569,1,0,0:0:0:0:
+192,192,30664,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,30664,1,0,0:0:0:0:
+64,192,30854,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,30854,1,0,0:0:0:0:
+64,192,30949,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,30949,1,0,0:0:0:0:
+64,192,31139,1,0,0:0:0:25:Cymbol2.wav
+448,192,31139,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,31234,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,31234,1,0,0:0:0:0:
+64,192,31329,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,31329,1,0,0:0:0:0:
+192,192,31424,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,31424,1,0,0:0:0:0:
+448,192,31518,128,0,31898:0:0:0:25:Cymbol2.wav
+64,192,31518,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,31613,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,31708,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,31803,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,31898,1,0,0:0:0:25:Cymbol2.wav
+320,192,31898,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,32088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,32088,1,0,0:0:0:0:
+448,192,32183,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,32183,1,0,0:0:0:0:
+448,192,32373,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,32373,1,0,0:0:0:0:
+448,192,32468,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,32468,1,0,0:0:0:0:
+192,192,32658,1,0,0:0:0:25:Cymbol2.wav
+320,192,32658,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,32753,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,32753,1,0,0:0:0:0:
+192,192,32848,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,32848,1,0,0:0:0:0:
+64,192,32943,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,32943,1,0,0:0:0:0:
+320,192,33132,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,33132,1,0,0:0:0:0:
+192,192,33227,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,33227,1,0,0:0:0:0:
+448,192,33417,1,0,0:0:0:25:Cymbol2.wav
+192,192,33417,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,33607,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,33607,1,0,0:0:0:0:
+192,192,33797,1,0,0:0:0:25:Cymbol2.wav
+64,192,33797,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,33892,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,33892,1,0,0:0:0:0:
+320,192,34082,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,34082,1,0,0:0:0:0:
+64,192,34177,1,0,0:0:0:25:Cymbol2.wav
+192,192,34177,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,34177,1,0,0:0:0:70:soft-hitclap.wav
+320,192,34367,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,34367,1,0,0:0:0:0:
+192,192,34462,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,34556,1,0,0:0:0:25:Cymbol2.wav
+448,192,34556,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,34651,1,0,0:0:0:50:soft-hitclap.wav
+448,192,34651,1,0,0:0:0:0:
+320,192,34746,1,0,0:0:0:50:soft-hitclap.wav
+192,192,34746,1,0,0:0:0:0:
+64,192,34841,1,0,0:0:0:50:soft-hitclap.wav
+448,192,34841,1,0,0:0:0:0:
+320,192,34936,1,0,0:0:0:50:Cymbol2.wav
+192,192,34936,1,0,0:0:0:50:Cymbol.wav
+64,192,35031,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,35126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,35126,1,0,0:0:0:0:
+192,192,35221,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,35221,1,0,0:0:0:0:
+320,192,35316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,35411,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,35411,1,0,0:0:0:0:
+192,192,35506,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,35506,1,0,0:0:0:0:
+320,192,35601,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,35696,1,0,0:0:0:70:Cymbol.wav
+192,192,35696,1,0,0:0:0:70:soft-hitclap.wav
+64,192,35791,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,35791,1,0,0:0:0:0:
+192,192,35886,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,35886,1,0,0:0:0:0:
+320,192,35981,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,35981,1,0,0:0:0:0:
+448,192,36075,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,36170,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,36170,1,0,0:0:0:0:
+320,192,36265,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,36265,1,0,0:0:0:0:
+448,192,36360,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,36455,1,0,0:0:0:50:Cymbol.wav
+320,192,36455,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,36550,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,36645,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,36645,1,0,0:0:0:0:
+448,192,36740,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,36740,1,0,0:0:0:0:
+192,192,36835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,36930,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,36930,1,0,0:0:0:0:
+448,192,37025,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,37025,1,0,0:0:0:0:
+192,192,37120,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,37215,1,0,0:0:0:70:Cymbol.wav
+448,192,37215,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,37310,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,37310,1,0,0:0:0:0:
+64,192,37405,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,37405,1,0,0:0:0:0:
+320,192,37500,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,37500,1,0,0:0:0:0:
+448,192,37594,128,0,37974:0:0:0:70:LR_Kick Hard Fast.wav
+64,192,37594,1,0,0:0:0:0:
+320,192,37689,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,37784,1,0,0:0:0:40:drum-hitfinish.wav
+64,192,37879,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,37974,1,0,0:0:0:70:Cymbol.wav
+192,192,37974,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,38069,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,38164,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,38164,1,0,0:0:0:0:
+192,192,38259,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,38259,1,0,0:0:0:0:
+64,192,38354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,38449,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,38449,1,0,0:0:0:0:
+64,192,38544,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,38544,1,0,0:0:0:0:
+192,192,38639,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,38734,1,0,0:0:0:70:Cymbol.wav
+448,192,38734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,38829,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,38829,1,0,0:0:0:0:
+320,192,38924,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,38924,1,0,0:0:0:0:
+192,192,39018,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,39018,1,0,0:0:0:0:
+320,192,39113,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,39208,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,39208,1,0,0:0:0:0:
+64,192,39303,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,39303,1,0,0:0:0:0:
+192,192,39398,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,39493,1,0,0:0:0:70:Cymbol.wav
+448,192,39493,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,39588,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,39683,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,39683,1,0,0:0:0:0:
+64,192,39778,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,39873,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,39873,1,0,0:0:0:0:
+320,192,39968,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,39968,1,0,0:0:0:0:
+64,192,40063,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,40158,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,40158,1,0,0:0:0:0:
+192,192,40253,1,0,0:0:0:70:Cymbol.wav
+64,192,40253,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,40253,1,0,0:0:0:70:soft-hitclap.wav
+448,192,40348,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,40443,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,40443,1,0,0:0:0:0:
+192,192,40537,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,40632,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,40632,1,0,0:0:0:0:
+320,192,40727,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,40822,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,40822,1,0,0:0:0:0:
+64,192,40917,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,41012,1,0,0:0:0:70:Cymbol.wav
+320,192,41012,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,41107,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,41202,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,41202,1,0,0:0:0:0:
+192,192,41297,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,41297,1,0,0:0:0:0:
+448,192,41392,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,41487,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,41487,1,0,0:0:0:0:
+64,192,41582,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,41582,1,0,0:0:0:0:
+448,192,41677,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,41772,1,0,0:0:0:70:Cymbol.wav
+192,192,41772,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,41867,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,41867,1,0,0:0:0:0:
+192,192,41962,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,41962,1,0,0:0:0:0:
+320,192,42056,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,42056,1,0,0:0:0:0:
+192,192,42151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,42246,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,42246,1,0,0:0:0:0:
+448,192,42341,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,42341,1,0,0:0:0:0:
+192,192,42436,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,42531,1,0,0:0:0:70:Cymbol.wav
+448,192,42531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,42626,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,42721,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,42721,1,0,0:0:0:0:
+64,192,42816,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,42816,1,0,0:0:0:0:
+320,192,42911,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,43006,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,43006,1,0,0:0:0:0:
+320,192,43101,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,43101,1,0,0:0:0:0:
+64,192,43196,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,43291,1,0,0:0:0:70:Cymbol.wav
+320,192,43291,1,0,0:0:0:70:soft-hitclap.wav
+64,192,43386,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,43386,1,0,0:0:0:0:
+192,192,43481,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,43481,1,0,0:0:0:0:
+64,192,43575,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,43575,1,0,0:0:0:0:
+320,192,43670,128,0,44050:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,43670,1,0,0:0:0:0:
+448,192,43765,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,43860,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,43955,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,44050,1,0,0:0:0:70:Cymbol.wav
+64,192,44050,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,44145,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,44240,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,44240,1,0,0:0:0:0:
+192,192,44335,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,44335,1,0,0:0:0:0:
+64,192,44430,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,44525,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,44525,1,0,0:0:0:0:
+320,192,44620,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,44620,1,0,0:0:0:0:
+64,192,44715,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,44810,1,0,0:0:0:70:Cymbol.wav
+320,192,44810,1,0,0:0:0:70:soft-hitclap.wav
+192,192,44905,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,44905,1,0,0:0:0:0:
+448,192,45000,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,45000,1,0,0:0:0:0:
+192,192,45094,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,45094,1,0,0:0:0:0:
+448,192,45189,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,45284,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,45284,1,0,0:0:0:0:
+448,192,45379,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,45379,1,0,0:0:0:0:
+64,192,45474,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,45569,1,0,0:0:0:70:Cymbol.wav
+320,192,45569,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,45664,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,45759,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,45759,1,0,0:0:0:0:
+192,192,45854,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,45949,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,45949,1,0,0:0:0:0:
+448,192,46044,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,46044,1,0,0:0:0:0:
+192,192,46139,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,46234,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,46234,1,0,0:0:0:0:
+192,192,46329,1,0,0:0:0:70:soft-hitclap.wav
+64,192,46329,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,46424,1,0,0:0:0:70:soft-hitclap.wav
+320,192,46424,1,0,0:0:0:0:
+192,192,46518,1,0,0:0:0:70:soft-hitclap.wav
+64,192,46518,1,0,0:0:0:0:
+320,192,46613,1,0,0:0:0:70:soft-hitclap.wav
+448,192,46613,1,0,0:0:0:0:
+64,192,46708,1,0,0:0:0:70:soft-hitclap.wav
+192,192,46708,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,46803,1,0,0:0:0:70:soft-hitclap.wav
+320,192,46803,1,0,0:0:0:0:
+64,192,46898,1,0,0:0:0:70:soft-hitclap.wav
+192,192,46898,1,0,0:0:0:0:
+320,192,46993,1,0,0:0:0:70:soft-hitclap.wav
+448,192,46993,1,0,0:0:0:0:
+192,192,47088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,47088,1,0,0:0:0:50:Cymbol2.wav
+64,192,47088,1,0,0:0:0:50:Cymbol.wav
+320,192,47183,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,47278,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,47278,1,0,0:0:0:0:
+448,192,47468,1,0,0:0:0:50:Hihat.wav
+320,192,47468,1,0,0:0:0:50:soft-hitclap.wav
+192,192,47468,1,0,0:0:0:0:
+64,192,47658,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,47658,1,0,0:0:0:0:
+448,192,47848,1,0,0:0:0:50:Hihat.wav
+320,192,48037,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,48037,1,0,0:0:0:0:
+64,192,48132,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,48227,1,0,0:0:0:50:Hihat.wav
+192,192,48227,1,0,0:0:0:50:soft-hitclap.wav
+448,192,48227,1,0,0:0:0:0:
+448,192,48417,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,48417,1,0,0:0:0:0:
+320,192,48607,1,0,0:0:0:50:Hihat.wav
+192,192,48607,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,48702,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,48702,1,0,0:0:0:0:
+320,192,48797,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,48797,1,0,0:0:0:0:
+64,192,48987,1,0,0:0:0:50:Hihat.wav
+192,192,48987,1,0,0:0:0:50:soft-hitclap.wav
+448,192,48987,1,0,0:0:0:0:
+320,192,49177,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,49177,1,0,0:0:0:0:
+192,192,49367,1,0,0:0:0:50:Hihat.wav
+64,192,49556,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,49556,1,0,0:0:0:0:
+192,192,49651,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,49746,1,0,0:0:0:50:Hihat.wav
+64,192,49746,1,0,0:0:0:50:soft-hitclap.wav
+448,192,49746,1,0,0:0:0:0:
+320,192,49936,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,49936,1,0,0:0:0:0:
+192,192,50126,1,0,0:0:0:50:Hihat.wav
+448,192,50126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,50221,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,50221,1,0,0:0:0:0:
+192,192,50316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,50316,1,0,0:0:0:0:
+320,192,50506,1,0,0:0:0:50:Hihat.wav
+64,192,50506,1,0,0:0:0:50:soft-hitclap.wav
+448,192,50506,1,0,0:0:0:0:
+192,192,50696,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,50696,1,0,0:0:0:0:
+64,192,50886,1,0,0:0:0:50:Hihat.wav
+192,192,51075,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,51075,1,0,0:0:0:0:
+320,192,51170,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,51265,1,0,0:0:0:50:Hihat.wav
+448,192,51265,1,0,0:0:0:50:soft-hitclap.wav
+64,192,51265,1,0,0:0:0:0:
+320,192,51455,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,51455,1,0,0:0:0:0:
+192,192,51645,1,0,0:0:0:50:Hihat.wav
+320,192,51645,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,51740,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,51740,1,0,0:0:0:0:
+192,192,51835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,51835,1,0,0:0:0:0:
+192,192,52025,1,0,0:0:0:50:soft-hitclap.wav
+448,192,52025,1,0,0:0:0:50:Hihat.wav
+64,192,52025,1,0,0:0:0:0:
+448,192,52215,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,52215,1,0,0:0:0:0:
+192,192,52405,1,0,0:0:0:50:Hihat.wav
+320,192,52594,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,52594,1,0,0:0:0:0:
+192,192,52689,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,52784,1,0,0:0:0:50:soft-hitclap.wav
+64,192,52784,1,0,0:0:0:50:Hihat.wav
+448,192,52784,1,0,0:0:0:0:
+192,192,52974,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,52974,1,0,0:0:0:0:
+64,192,53164,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,53164,1,0,0:0:0:50:Cymbol2.wav
+192,192,53259,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,53259,1,0,0:0:0:0:
+64,192,53354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,53354,1,0,0:0:0:0:
+64,192,53544,1,0,0:0:0:50:soft-hitclap.wav
+192,192,53544,1,0,0:0:0:50:Hihat.wav
+448,192,53544,1,0,0:0:0:0:
+320,192,53734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,53734,1,0,0:0:0:0:
+64,192,53924,1,0,0:0:0:50:Hihat.wav
+320,192,54113,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,54113,1,0,0:0:0:0:
+448,192,54208,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,54303,1,0,0:0:0:50:soft-hitclap.wav
+320,192,54303,1,0,0:0:0:50:Hihat.wav
+64,192,54303,1,0,0:0:0:0:
+64,192,54493,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,54493,1,0,0:0:0:0:
+448,192,54683,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,54683,1,0,0:0:0:50:Hihat.wav
+64,192,54778,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,54778,1,0,0:0:0:0:
+448,192,54873,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,54873,1,0,0:0:0:0:
+192,192,55063,1,0,0:0:0:50:soft-hitclap.wav
+64,192,55063,1,0,0:0:0:50:Hihat.wav
+320,192,55063,1,0,0:0:0:0:
+192,192,55253,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,55253,1,0,0:0:0:0:
+64,192,55443,1,0,0:0:0:50:Hihat.wav
+448,192,55632,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,55632,1,0,0:0:0:0:
+320,192,55727,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,55822,1,0,0:0:0:50:soft-hitclap.wav
+192,192,55822,1,0,0:0:0:50:Hihat.wav
+448,192,55822,1,0,0:0:0:0:
+64,192,56012,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,56012,1,0,0:0:0:0:
+192,192,56202,1,0,0:0:0:50:Hihat.wav
+320,192,56202,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,56297,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,56297,1,0,0:0:0:0:
+192,192,56392,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,56392,1,0,0:0:0:0:
+448,192,56582,1,0,0:0:0:50:soft-hitclap.wav
+64,192,56582,1,0,0:0:0:50:Hihat.wav
+192,192,56582,1,0,0:0:0:0:
+448,192,56772,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,56772,1,0,0:0:0:0:
+192,192,56867,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,56867,1,0,0:0:0:0:
+448,192,56962,1,0,0:0:0:50:Hihat.wav
+320,192,56962,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,57151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,57151,1,0,0:0:0:0:
+448,192,57341,1,0,0:0:0:50:soft-hitclap.wav
+64,192,57341,1,0,0:0:0:50:Hihat.wav
+192,192,57341,1,0,0:0:0:0:
+320,192,57531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,57531,1,0,0:0:0:0:
+192,192,57626,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,57721,1,0,0:0:0:40:soft-hitclap.wav
+320,192,57721,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,57721,1,0,0:0:0:70:Cymbol.wav
+192,192,57816,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,57911,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,57911,1,0,0:0:0:0:
+64,192,58006,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,58101,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,58101,1,0,0:0:0:30:Hihat.wav
+320,192,58196,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,58291,1,0,0:0:0:40:soft-hitfinish.wav
+192,192,58291,1,0,0:0:0:40:soft-hitclap.wav
+64,192,58291,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,58386,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,58481,1,0,0:0:0:40:soft-hitfinish.wav
+448,192,58481,1,0,0:0:0:40:soft-hitclap.wav
+64,192,58481,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,58575,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,58670,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,58670,1,0,0:0:0:0:
+448,192,58765,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,58860,1,0,0:0:0:40:soft-hitclap.wav
+64,192,58860,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,58860,1,0,0:0:0:30:Hihat.wav
+448,192,58955,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,59050,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,59050,1,0,0:0:0:0:
+192,192,59145,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,59240,1,0,0:0:0:70:Cymbol2.wav
+320,192,59240,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,59240,1,0,0:0:0:50:ehco.wav
+192,192,59335,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,59430,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,59430,1,0,0:0:0:0:
+320,192,59620,128,0,59810:0:0:0:50:soft-hitclap.wav
+448,192,59620,1,0,0:0:0:25:Cymbol2.wav
+64,192,59620,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,59810,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,59810,1,0,0:0:0:0:
+320,192,60000,128,0,60189:0:0:0:45:LR2_HatSF.wav
+192,192,60189,128,0,60379:0:0:0:70:LR_Kick Hard Fast.wav
+448,192,60189,1,0,0:0:0:0:
+320,192,60284,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,60379,1,0,0:0:0:50:soft-hitclap.wav
+64,192,60379,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,60569,128,0,60759:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,60569,1,0,0:0:0:0:
+448,192,60759,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,60759,1,0,0:0:0:25:Cymbol2.wav
+192,192,60854,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,60854,1,0,0:0:0:0:
+448,192,60949,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,60949,1,0,0:0:0:0:
+320,192,61139,1,0,0:0:0:50:soft-hitclap.wav
+64,192,61139,128,0,61329:0:0:0:45:LR2_HatSF.wav
+192,192,61139,1,0,0:0:0:25:Cymbol2.wav
+448,192,61329,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,61329,1,0,0:0:0:0:
+320,192,61518,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,61708,128,0,61898:0:0:0:70:LR_Kick Hard Fast.wav
+64,192,61708,1,0,0:0:0:0:
+320,192,61803,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,61898,1,0,0:0:0:50:soft-hitclap.wav
+448,192,61898,1,0,0:0:0:25:Cymbol2.wav
+192,192,62088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,62088,1,0,0:0:0:0:
+448,192,62278,1,0,0:0:0:25:Cymbol2.wav
+320,192,62278,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,62373,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,62373,1,0,0:0:0:0:
+448,192,62468,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,62468,1,0,0:0:0:0:
+64,192,62658,1,0,0:0:0:50:soft-hitclap.wav
+448,192,62658,1,0,0:0:0:25:Cymbol2.wav
+192,192,62658,128,0,62848:0:0:0:45:LR2_HatSF.wav
+64,192,62848,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,62848,1,0,0:0:0:0:
+192,192,63037,128,0,63227:0:0:0:25:Cymbol2.wav
+64,192,63227,128,0,63417:0:0:0:70:LR_Kick Hard Fast.wav
+320,192,63227,1,0,0:0:0:0:
+448,192,63322,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,63417,1,0,0:0:0:50:soft-hitclap.wav
+192,192,63417,1,0,0:0:0:25:Cymbol2.wav
+448,192,63607,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,63607,128,0,63797:0:0:0:0:
+320,192,63797,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,63797,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,63892,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,63892,1,0,0:0:0:0:
+320,192,63987,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,63987,1,0,0:0:0:0:
+320,192,64177,1,0,0:0:0:50:soft-hitclap.wav
+192,192,64177,128,0,64367:0:0:0:25:Cymbol2.wav
+448,192,64177,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,64367,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,64367,1,0,0:0:0:0:
+192,192,64556,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,64746,128,0,64936:0:0:0:70:LR_Kick Hard Fast.wav
+320,192,64746,1,0,0:0:0:0:
+192,192,64841,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,64936,1,0,0:0:0:50:soft-hitclap.wav
+64,192,64936,1,0,0:0:0:25:Cymbol2.wav
+448,192,65126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,65126,1,0,0:0:0:0:
+320,192,65316,1,0,0:0:0:70:Cymbol.wav
+192,192,65316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,65411,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,65411,1,0,0:0:0:0:
+320,192,65506,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,65506,1,0,0:0:0:0:
+320,192,65696,1,0,0:0:0:50:soft-hitclap.wav
+448,192,65696,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,65696,128,0,65886:0:0:0:25:Cymbol2.wav
+192,192,65886,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,65886,1,0,0:0:0:0:
+64,192,66075,128,0,66265:0:0:0:25:Cymbol2.wav
+192,192,66265,128,0,66455:0:0:0:70:LR_Kick Hard Fast.wav
+448,192,66265,1,0,0:0:0:0:
+320,192,66360,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,66455,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,66455,1,0,0:0:0:25:Cymbol2.wav
+320,192,66645,1,0,0:0:0:0:
+64,192,66645,128,0,66835:0:0:0:70:LR_Kick Hard Fast.wav
+448,192,66835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,66835,1,0,0:0:0:25:Cymbol2.wav
+320,192,66930,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,66930,1,0,0:0:0:0:
+192,192,67025,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,67025,1,0,0:0:0:0:
+448,192,67215,128,0,67405:0:0:0:45:LR2_HatSF.wav
+320,192,67215,1,0,0:0:0:25:Cymbol2.wav
+64,192,67215,1,0,0:0:0:50:soft-hitclap.wav
+192,192,67405,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,67405,1,0,0:0:0:0:
+448,192,67594,1,0,0:0:0:25:Cymbol2.wav
+64,192,67784,128,0,67974:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,67784,1,0,0:0:0:0:
+448,192,67879,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,67974,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,67974,1,0,0:0:0:25:Cymbol2.wav
+64,192,68164,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,68164,1,0,0:0:0:0:
+320,192,68354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,68354,1,0,0:0:0:25:Cymbol2.wav
+192,192,68449,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,68449,1,0,0:0:0:0:
+320,192,68544,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,68544,1,0,0:0:0:0:
+64,192,68734,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,68734,128,0,68924:0:0:0:25:Cymbol2.wav
+320,192,68734,1,0,0:0:0:50:soft-hitclap.wav
+64,192,68924,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,68924,1,0,0:0:0:0:
+192,192,69113,128,0,69303:0:0:0:25:Cymbol2.wav
+448,192,69303,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,69303,128,0,69493:0:0:0:0:
+64,192,69398,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,69493,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,69493,1,0,0:0:0:25:Cymbol2.wav
+320,192,69683,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,69683,128,0,69873:0:0:0:0:
+448,192,69873,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,69873,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,69968,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,69968,1,0,0:0:0:0:
+448,192,70063,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,70063,1,0,0:0:0:0:
+64,192,70253,1,0,0:0:0:25:Cymbol2.wav
+320,192,70253,128,0,70443:0:0:0:45:LR2_HatSF.wav
+448,192,70253,1,0,0:0:0:50:soft-hitclap.wav
+192,192,70443,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,70443,1,0,0:0:0:0:
+448,192,70632,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,70822,128,0,71012:0:0:0:70:LR_Kick Hard Fast.wav
+320,192,70822,1,0,0:0:0:0:
+192,192,70917,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,71012,1,0,0:0:0:25:Cymbol2.wav
+320,192,71012,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,71202,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,71202,1,0,0:0:0:0:
+320,192,71392,1,0,0:0:0:40:ehco2.wav
+448,192,71392,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,71392,1,0,0:0:0:50:soft-hitfinish.wav
+320,192,71677,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,71677,1,0,0:0:0:0:
+192,192,71772,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,71772,1,0,0:0:0:50:Cymbol.wav
+64,192,71962,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,71962,1,0,0:0:0:0:
+448,192,72151,1,0,0:0:0:70:soft-hitclap.wav
+192,192,72151,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,72151,1,0,0:0:0:50:Cymbol.wav
+192,192,72341,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,72341,1,0,0:0:0:0:
+448,192,72436,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,72436,1,0,0:0:0:0:
+64,192,72531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,72531,1,0,0:0:0:50:Cymbol.wav
+448,192,72911,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,72911,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,72974,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,73037,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,73101,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,73101,1,0,0:0:0:0:
+448,192,73291,1,0,0:0:0:50:Cymbol.wav
+64,192,73291,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,73354,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,73417,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,73481,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,73481,1,0,0:0:0:0:
+192,192,73670,1,0,0:0:0:70:soft-hitclap.wav
+320,192,73670,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,73670,1,0,0:0:0:50:Cymbol.wav
+192,192,73860,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,73860,1,0,0:0:0:0:
+448,192,73924,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,73987,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,74050,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,74050,1,0,0:0:0:50:Cymbol.wav
+64,192,74240,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,74240,1,0,0:0:0:0:
+320,192,74430,1,0,0:0:0:90:ehco3.wav
+192,192,74430,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,74430,1,0,0:0:0:50:soft-hitfinish.wav
+448,192,74715,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,74715,1,0,0:0:0:0:
+64,192,74810,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,74810,1,0,0:0:0:50:Cymbol.wav
+320,192,75000,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,75000,1,0,0:0:0:0:
+448,192,75189,1,0,0:0:0:70:soft-hitclap.wav
+320,192,75189,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,75189,1,0,0:0:0:50:Cymbol.wav
+192,192,75379,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,75379,1,0,0:0:0:0:
+320,192,75474,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,75474,1,0,0:0:0:0:
+192,192,75569,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,75569,1,0,0:0:0:50:Cymbol.wav
+192,192,75949,128,0,77468:0:0:0:70:LR_Kick Hard Fast.wav
+320,192,75949,1,0,0:0:0:50:Cymbol2.wav
+64,192,75949,1,0,0:0:0:60:LR_RevCyLGLH.wav
+448,192,76329,1,0,0:0:0:50:soft-hitclap.wav
+64,192,76329,1,0,0:0:0:30:Tom02.wav
+320,192,76518,1,0,0:0:0:50:soft-hitclap.wav
+448,192,76518,1,0,0:0:0:30:Tom02.wav
+448,192,76708,1,0,0:0:0:50:soft-hitclap.wav
+64,192,76708,1,0,0:0:0:30:Tom02.wav
+448,192,76898,1,0,0:0:0:50:soft-hitclap.wav
+320,192,76898,1,0,0:0:0:30:Tom02.wav
+448,192,77088,1,0,0:0:0:50:soft-hitclap.wav
+64,192,77088,1,0,0:0:0:30:Tom02.wav
+448,192,77278,1,0,0:0:0:50:soft-hitclap.wav
+320,192,77278,1,0,0:0:0:30:Tom02.wav
+448,192,77468,1,0,0:0:0:50:soft-hitclap.wav
+64,192,77468,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,77563,1,0,0:0:0:50:soft-hitclap.wav
+192,192,77563,1,0,0:0:0:0:
+64,192,77658,1,0,0:0:0:50:soft-hitclap.wav
+448,192,77658,1,0,0:0:0:0:
+192,192,77753,1,0,0:0:0:50:soft-hitclap.wav
+320,192,77753,1,0,0:0:0:0:
+64,192,77848,1,0,0:0:0:50:soft-hitclap.wav
+448,192,77848,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,77943,1,0,0:0:0:50:soft-hitclap.wav
+192,192,77943,1,0,0:0:0:0:
+64,192,78037,1,0,0:0:0:50:soft-hitclap.wav
+448,192,78037,1,0,0:0:0:0:
+320,192,78132,1,0,0:0:0:50:soft-hitclap.wav
+192,192,78132,1,0,0:0:0:0:
+448,192,78227,1,0,0:0:0:50:soft-hitclap.wav
+64,192,78227,1,0,0:0:0:70:Cymbol.wav
+448,192,78987,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,78987,1,0,0:0:0:50:Cymbol2.wav
+320,192,78987,1,0,0:0:0:50:drum-hitfinish.wav
+64,192,79082,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,79177,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,79177,1,0,0:0:0:0:
+192,192,79272,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,79367,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,79367,1,0,0:0:0:70:soft-hitclap.wav
+64,192,79367,1,0,0:0:0:25:Cymbol2.wav
+192,192,79462,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,79556,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,79556,1,0,0:0:0:0:
+320,192,79651,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,79746,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,79746,1,0,0:0:0:25:Cymbol2.wav
+448,192,79841,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,79936,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,79936,1,0,0:0:0:0:
+64,192,80031,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,80126,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,80126,1,0,0:0:0:70:soft-hitclap.wav
+320,192,80126,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,80221,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,80316,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,80316,1,0,0:0:0:0:
+192,192,80411,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,80506,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,80506,1,0,0:0:0:25:Cymbol2.wav
+320,192,80601,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,80696,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,80696,1,0,0:0:0:0:
+448,192,80791,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,80886,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,80886,1,0,0:0:0:70:soft-hitclap.wav
+320,192,80886,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,80981,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,81075,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,81075,1,0,0:0:0:0:
+64,192,81170,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,81265,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,81265,1,0,0:0:0:25:Cymbol2.wav
+192,192,81360,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,81455,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,81455,1,0,0:0:0:0:
+320,192,81550,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,81645,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,81645,1,0,0:0:0:70:soft-hitclap.wav
+192,192,81645,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,81740,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,81835,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,81835,1,0,0:0:0:0:
+320,192,81930,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,82025,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,82025,1,0,0:0:0:25:Cymbol2.wav
+64,192,82120,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,82215,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,82215,1,0,0:0:0:0:
+192,192,82310,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,82405,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,82405,1,0,0:0:0:70:soft-hitclap.wav
+448,192,82405,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,82500,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,82594,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,82594,1,0,0:0:0:0:
+448,192,82689,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,82784,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,82784,1,0,0:0:0:25:Cymbol2.wav
+320,192,82879,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,82974,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,82974,1,0,0:0:0:0:
+64,192,83069,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,83164,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,83164,1,0,0:0:0:70:soft-hitclap.wav
+320,192,83164,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,83259,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,83354,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,83354,1,0,0:0:0:0:
+192,192,83449,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,83544,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,83544,1,0,0:0:0:25:Cymbol2.wav
+448,192,83639,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,83734,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,83734,1,0,0:0:0:0:
+448,192,83829,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,83924,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,83924,1,0,0:0:0:70:soft-hitclap.wav
+64,192,83924,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,84018,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,84113,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,84113,1,0,0:0:0:0:
+64,192,84208,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,84303,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,84303,1,0,0:0:0:25:Cymbol2.wav
+192,192,84398,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,84493,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,84493,1,0,0:0:0:0:
+448,192,84588,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,84683,1,0,0:0:0:70:soft-hitclap.wav
+192,192,84683,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,84778,1,0,0:0:0:70:soft-hitclap.wav
+64,192,84778,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,84873,1,0,0:0:0:70:soft-hitclap.wav
+320,192,84873,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,84968,1,0,0:0:0:70:soft-hitclap.wav
+448,192,84968,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,85063,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,85063,1,0,0:0:0:50:Cymbol2.wav
+448,192,85158,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,85253,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,85253,1,0,0:0:0:0:
+192,192,85348,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,85443,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,85443,1,0,0:0:0:70:soft-hitclap.wav
+448,192,85443,1,0,0:0:0:25:Cymbol2.wav
+192,192,85537,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,85632,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,85632,1,0,0:0:0:0:
+64,192,85727,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,85822,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,85822,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,85917,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,86012,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,86012,1,0,0:0:0:0:
+448,192,86107,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,86202,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,86202,1,0,0:0:0:70:soft-hitclap.wav
+192,192,86202,1,0,0:0:0:25:Cymbol2.wav
+448,192,86297,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,86392,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,86392,1,0,0:0:0:0:
+192,192,86487,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,86582,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,86582,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,86677,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,86772,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,86772,1,0,0:0:0:0:
+320,192,86867,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,86962,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,86962,1,0,0:0:0:70:soft-hitclap.wav
+64,192,86962,1,0,0:0:0:25:Cymbol2.wav
+320,192,87056,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,87151,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,87151,1,0,0:0:0:0:
+448,192,87246,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,87341,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,87341,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,87436,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,87531,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,87531,1,0,0:0:0:0:
+192,192,87626,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,87721,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,87721,1,0,0:0:0:70:soft-hitclap.wav
+320,192,87721,1,0,0:0:0:25:Cymbol2.wav
+192,192,87816,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,87911,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,87911,1,0,0:0:0:0:
+320,192,88006,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,88101,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,88101,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,88196,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,88291,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,88291,1,0,0:0:0:0:
+64,192,88386,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,88481,1,0,0:0:0:70:soft-hitclap.wav
+448,192,88481,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,88481,1,0,0:0:0:25:Cymbol2.wav
+64,192,88575,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,88670,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,88670,1,0,0:0:0:0:
+192,192,88765,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,88860,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,88860,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,88955,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,89050,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,89050,1,0,0:0:0:0:
+320,192,89145,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,89240,1,0,0:0:0:70:soft-hitclap.wav
+448,192,89240,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,89240,1,0,0:0:0:25:Cymbol2.wav
+320,192,89335,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,89430,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,89430,1,0,0:0:0:0:
+64,192,89525,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,89620,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,89620,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,89715,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,89810,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,89810,1,0,0:0:0:0:
+448,192,89905,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,90000,1,0,0:0:0:70:soft-hitclap.wav
+192,192,90000,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,90000,1,0,0:0:0:25:Cymbol2.wav
+448,192,90094,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,90189,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,90189,1,0,0:0:0:0:
+320,192,90284,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,90379,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,90379,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,90474,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,90569,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,90569,1,0,0:0:0:0:
+192,192,90664,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,90759,1,0,0:0:0:70:soft-hitclap.wav
+320,192,90759,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,90759,1,0,0:0:0:25:Cymbol2.wav
+192,192,90854,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,90949,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,90949,1,0,0:0:0:0:
+448,192,91044,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,91139,1,0,0:0:0:50:Cymbol2.wav
+192,192,91139,1,0,0:0:0:50:Cymbol.wav
+320,192,91139,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,91329,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,91329,1,0,0:0:0:0:
+448,192,91424,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,91424,1,0,0:0:0:0:
+192,192,91613,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,91613,1,0,0:0:0:0:
+64,192,91708,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,91708,1,0,0:0:0:0:
+448,192,91898,1,0,0:0:0:70:soft-hitclap.wav
+320,192,91898,1,0,0:0:0:25:Cymbol2.wav
+192,192,91993,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,91993,1,0,0:0:0:0:
+448,192,92088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,92088,1,0,0:0:0:0:
+192,192,92183,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,92183,1,0,0:0:0:0:
+448,192,92373,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,92373,1,0,0:0:0:0:
+448,192,92468,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,92468,1,0,0:0:0:0:
+192,192,92658,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,92658,1,0,0:0:0:25:Cymbol2.wav
+64,192,92848,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,92848,1,0,0:0:0:0:
+448,192,92943,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,92943,1,0,0:0:0:0:
+448,192,93132,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,93132,1,0,0:0:0:0:
+448,192,93227,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,93227,1,0,0:0:0:0:
+192,192,93417,1,0,0:0:0:70:soft-hitclap.wav
+64,192,93417,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,93512,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,93512,1,0,0:0:0:0:
+192,192,93607,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,93607,1,0,0:0:0:0:
+320,192,93702,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,93702,1,0,0:0:0:0:
+192,192,93797,128,0,94177:0:0:0:70:LR_Kick Hard Fast.wav
+64,192,93797,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,93892,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,93987,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,94082,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,94177,1,0,0:0:0:25:Cymbol2.wav
+448,192,94177,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,94367,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,94367,1,0,0:0:0:0:
+64,192,94462,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,94462,1,0,0:0:0:0:
+320,192,94651,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,94651,1,0,0:0:0:0:
+448,192,94746,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,94746,1,0,0:0:0:0:
+448,192,94936,1,0,0:0:0:70:soft-hitclap.wav
+64,192,94936,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,95031,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,95031,1,0,0:0:0:0:
+448,192,95126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,95126,1,0,0:0:0:0:
+192,192,95221,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,95221,1,0,0:0:0:0:
+64,192,95411,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,95411,1,0,0:0:0:0:
+192,192,95506,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,95506,1,0,0:0:0:0:
+320,192,95696,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,95696,1,0,0:0:0:25:Cymbol2.wav
+64,192,95886,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,95886,1,0,0:0:0:0:
+448,192,96075,1,0,0:0:0:25:Cymbol2.wav
+64,192,96075,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,96170,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,96170,1,0,0:0:0:0:
+320,192,96360,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,96360,1,0,0:0:0:0:
+448,192,96455,1,0,0:0:0:70:soft-hitclap.wav
+192,192,96455,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,96455,1,0,0:0:0:25:Cymbol2.wav
+192,192,96645,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,96645,1,0,0:0:0:0:
+448,192,96740,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,96835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,96835,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,96930,1,0,0:0:0:50:soft-hitclap.wav
+64,192,96930,1,0,0:0:0:0:
+320,192,97025,1,0,0:0:0:50:soft-hitclap.wav
+448,192,97025,1,0,0:0:0:0:
+192,192,97120,1,0,0:0:0:50:soft-hitclap.wav
+64,192,97120,1,0,0:0:0:0:
+320,192,97215,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,97215,1,0,0:0:0:50:Cymbol.wav
+448,192,97405,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,97405,1,0,0:0:0:0:
+192,192,97500,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,97500,1,0,0:0:0:0:
+320,192,97689,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,97689,1,0,0:0:0:0:
+320,192,97784,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,97784,1,0,0:0:0:0:
+192,192,97974,1,0,0:0:0:70:soft-hitclap.wav
+448,192,97974,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,98069,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,98069,1,0,0:0:0:0:
+192,192,98164,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,98164,1,0,0:0:0:0:
+64,192,98259,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,98259,1,0,0:0:0:0:
+64,192,98449,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,98449,1,0,0:0:0:0:
+448,192,98544,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,98544,1,0,0:0:0:0:
+448,192,98734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,98734,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,98924,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,98924,1,0,0:0:0:0:
+448,192,99018,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,99018,1,0,0:0:0:0:
+448,192,99208,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,99208,1,0,0:0:0:0:
+320,192,99303,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,99303,1,0,0:0:0:0:
+320,192,99493,1,0,0:0:0:70:soft-hitclap.wav
+192,192,99493,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,99588,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,99588,1,0,0:0:0:0:
+320,192,99683,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,99683,1,0,0:0:0:0:
+448,192,99778,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,99778,1,0,0:0:0:0:
+320,192,99873,128,0,100253:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,99873,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,99968,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,100063,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,100158,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,100253,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,100253,1,0,0:0:0:25:Cymbol2.wav
+64,192,100443,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,100443,1,0,0:0:0:0:
+192,192,100537,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,100537,1,0,0:0:0:0:
+320,192,100727,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,100727,1,0,0:0:0:0:
+320,192,100822,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,100822,1,0,0:0:0:0:
+448,192,101012,1,0,0:0:0:70:soft-hitclap.wav
+192,192,101012,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,101107,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,101107,1,0,0:0:0:0:
+448,192,101202,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,101202,1,0,0:0:0:0:
+320,192,101297,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,101297,1,0,0:0:0:0:
+64,192,101487,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,101487,1,0,0:0:0:0:
+448,192,101582,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,101582,1,0,0:0:0:0:
+192,192,101677,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,101677,1,0,0:0:0:0:
+448,192,101772,1,0,0:0:0:50:soft-hitclap.wav
+320,192,101772,1,0,0:0:0:0:
+448,192,101867,1,0,0:0:0:50:soft-hitclap.wav
+320,192,101867,1,0,0:0:0:0:
+192,192,101962,1,0,0:0:0:50:soft-hitclap.wav
+64,192,101962,1,0,0:0:0:0:
+320,192,102056,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,102104,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,102151,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,102151,1,0,0:0:0:50:soft-hitclap.wav
+320,192,102341,1,0,0:0:0:60:Tom01.wav
+64,192,102341,1,0,0:0:0:0:
+192,192,102436,1,0,0:0:0:60:Tom02.wav
+448,192,102531,1,0,0:0:0:60:Tom02.wav
+320,192,102531,1,0,0:0:0:0:
+64,192,102626,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,102674,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,102721,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,102721,1,0,0:0:0:50:soft-hitclap.wav
+192,192,102911,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,102911,1,0,0:0:0:60:Tom02.wav
+192,192,103006,1,0,0:0:0:50:soft-hitclap.wav
+320,192,103006,1,0,0:0:0:0:
+448,192,103101,1,0,0:0:0:50:soft-hitclap.wav
+64,192,103101,1,0,0:0:0:0:
+192,192,103196,1,0,0:0:0:50:soft-hitclap.wav
+320,192,103196,1,0,0:0:0:0:
+64,192,103291,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,103291,1,0,0:0:0:40:ehco2.wav
+448,192,103291,1,0,0:0:0:50:Cymbol2.wav
+192,192,103386,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,103481,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,103481,1,0,0:0:0:0:
+448,192,103670,1,0,0:0:0:50:soft-hitclap.wav
+320,192,103670,1,0,0:0:0:50:Hihat.wav
+192,192,103670,1,0,0:0:0:0:
+320,192,103860,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,103860,1,0,0:0:0:0:
+192,192,104050,1,0,0:0:0:50:Hihat.wav
+448,192,104240,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,104240,1,0,0:0:0:0:
+64,192,104335,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,104430,1,0,0:0:0:50:soft-hitclap.wav
+320,192,104430,1,0,0:0:0:50:Hihat.wav
+192,192,104430,1,0,0:0:0:0:
+64,192,104620,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,104620,1,0,0:0:0:0:
+192,192,104810,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,104810,1,0,0:0:0:50:Hihat.wav
+320,192,104905,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,104905,1,0,0:0:0:0:
+192,192,105000,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,105000,1,0,0:0:0:0:
+448,192,105189,1,0,0:0:0:50:soft-hitclap.wav
+192,192,105189,1,0,0:0:0:50:Hihat.wav
+320,192,105189,1,0,0:0:0:0:
+448,192,105379,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,105379,1,0,0:0:0:0:
+320,192,105569,1,0,0:0:0:50:Hihat.wav
+448,192,105759,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,105759,1,0,0:0:0:0:
+320,192,105854,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,105949,1,0,0:0:0:50:soft-hitclap.wav
+64,192,105949,1,0,0:0:0:50:Hihat.wav
+192,192,105949,1,0,0:0:0:0:
+448,192,106139,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,106139,1,0,0:0:0:0:
+320,192,106329,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,106329,1,0,0:0:0:50:Hihat.wav
+448,192,106424,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,106424,1,0,0:0:0:0:
+320,192,106518,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,106518,1,0,0:0:0:0:
+64,192,106708,1,0,0:0:0:50:soft-hitclap.wav
+448,192,106708,1,0,0:0:0:50:Hihat.wav
+192,192,106708,1,0,0:0:0:0:
+320,192,106898,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,106898,1,0,0:0:0:0:
+448,192,107088,1,0,0:0:0:50:Hihat.wav
+64,192,107278,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,107278,1,0,0:0:0:0:
+192,192,107373,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,107468,1,0,0:0:0:50:soft-hitclap.wav
+448,192,107468,1,0,0:0:0:50:Hihat.wav
+64,192,107468,1,0,0:0:0:0:
+448,192,107658,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,107658,1,0,0:0:0:0:
+320,192,107848,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,107848,1,0,0:0:0:50:Hihat.wav
+448,192,107943,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,107943,1,0,0:0:0:0:
+320,192,108037,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,108037,1,0,0:0:0:0:
+320,192,108227,1,0,0:0:0:50:soft-hitclap.wav
+64,192,108227,1,0,0:0:0:50:Hihat.wav
+448,192,108227,1,0,0:0:0:0:
+448,192,108417,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,108417,1,0,0:0:0:0:
+320,192,108607,1,0,0:0:0:50:Hihat.wav
+64,192,108797,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,108797,1,0,0:0:0:0:
+320,192,108892,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,108987,1,0,0:0:0:50:soft-hitclap.wav
+448,192,108987,1,0,0:0:0:50:Hihat.wav
+192,192,108987,1,0,0:0:0:0:
+320,192,109177,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,109177,1,0,0:0:0:0:
+64,192,109367,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,109367,1,0,0:0:0:50:Cymbol2.wav
+448,192,109462,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,109462,1,0,0:0:0:0:
+64,192,109556,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,109556,1,0,0:0:0:0:
+192,192,109746,1,0,0:0:0:50:soft-hitclap.wav
+448,192,109746,1,0,0:0:0:50:Hihat.wav
+320,192,109746,1,0,0:0:0:0:
+192,192,109936,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,109936,1,0,0:0:0:0:
+320,192,110126,1,0,0:0:0:50:Hihat.wav
+192,192,110316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,110316,1,0,0:0:0:0:
+64,192,110411,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,110506,1,0,0:0:0:50:soft-hitclap.wav
+320,192,110506,1,0,0:0:0:50:Hihat.wav
+448,192,110506,1,0,0:0:0:0:
+320,192,110696,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,110696,1,0,0:0:0:0:
+64,192,110886,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,110886,1,0,0:0:0:50:Hihat.wav
+192,192,110981,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,110981,1,0,0:0:0:0:
+448,192,111075,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,111075,1,0,0:0:0:0:
+192,192,111265,1,0,0:0:0:50:soft-hitclap.wav
+320,192,111265,1,0,0:0:0:50:Hihat.wav
+448,192,111265,1,0,0:0:0:0:
+64,192,111455,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,111455,1,0,0:0:0:0:
+192,192,111645,1,0,0:0:0:50:Hihat.wav
+64,192,111835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,111835,1,0,0:0:0:0:
+448,192,111930,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,112025,1,0,0:0:0:50:soft-hitclap.wav
+320,192,112025,1,0,0:0:0:50:Hihat.wav
+192,192,112025,1,0,0:0:0:0:
+192,192,112215,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,112215,1,0,0:0:0:0:
+448,192,112405,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,112405,1,0,0:0:0:50:Hihat.wav
+192,192,112500,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,112500,1,0,0:0:0:0:
+448,192,112594,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,112594,1,0,0:0:0:0:
+64,192,112784,1,0,0:0:0:50:soft-hitclap.wav
+320,192,112784,1,0,0:0:0:50:Hihat.wav
+192,192,112784,1,0,0:0:0:0:
+64,192,112974,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,112974,1,0,0:0:0:0:
+192,192,113069,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,113069,1,0,0:0:0:0:
+64,192,113164,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,113164,1,0,0:0:0:50:Hihat.wav
+448,192,113354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,113354,1,0,0:0:0:0:
+64,192,113544,1,0,0:0:0:50:soft-hitclap.wav
+320,192,113544,1,0,0:0:0:50:Hihat.wav
+192,192,113544,1,0,0:0:0:0:
+320,192,113734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,113734,1,0,0:0:0:0:
+192,192,113829,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,113924,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,113924,1,0,0:0:0:40:soft-hitclap.wav
+320,192,113924,1,0,0:0:0:70:Cymbol.wav
+192,192,114018,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,114113,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,114113,1,0,0:0:0:0:
+320,192,114208,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,114303,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,114303,1,0,0:0:0:30:Hihat.wav
+320,192,114398,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,114493,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,114493,1,0,0:0:0:40:soft-hitclap.wav
+64,192,114493,1,0,0:0:0:40:soft-hitfinish.wav
+320,192,114588,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,114683,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,114683,1,0,0:0:0:40:soft-hitclap.wav
+448,192,114683,1,0,0:0:0:40:soft-hitfinish.wav
+320,192,114778,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,114873,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,114873,1,0,0:0:0:0:
+64,192,114968,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,115063,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,115063,1,0,0:0:0:40:soft-hitclap.wav
+320,192,115063,1,0,0:0:0:30:Hihat.wav
+64,192,115158,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,115253,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,115253,1,0,0:0:0:0:
+192,192,115348,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,115443,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,115443,1,0,0:0:0:40:ehco.wav
+448,192,115443,1,0,0:0:0:70:Cymbol2.wav
+64,192,115632,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,115632,1,0,0:0:0:0:
+320,192,115822,128,0,116012:0:0:0:50:soft-hitclap.wav
+448,192,115822,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,115822,1,0,0:0:0:25:Cymbol2.wav
+64,192,116012,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,116012,1,0,0:0:0:0:
+320,192,116202,128,0,116392:0:0:0:25:Cymbol2.wav
+192,192,116392,128,0,116582:0:0:0:70:LR_Kick Hard Fast.wav
+64,192,116392,1,0,0:0:0:0:
+448,192,116487,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,116582,1,0,0:0:0:50:soft-hitclap.wav
+320,192,116582,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,116772,128,0,116962:0:0:0:70:LR_Kick Hard Fast.wav
+448,192,116772,1,0,0:0:0:0:
+64,192,116962,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,116962,1,0,0:0:0:25:Cymbol2.wav
+448,192,117056,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,117056,1,0,0:0:0:0:
+64,192,117151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,117151,1,0,0:0:0:0:
+64,192,117341,1,0,0:0:0:50:soft-hitclap.wav
+320,192,117341,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,117341,128,0,117531:0:0:0:25:Cymbol2.wav
+192,192,117531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,117531,1,0,0:0:0:0:
+64,192,117721,1,0,0:0:0:25:Cymbol2.wav
+320,192,117911,128,0,118101:0:0:0:70:LR_Kick Hard Fast.wav
+448,192,117911,1,0,0:0:0:0:
+192,192,118006,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,118101,1,0,0:0:0:50:soft-hitclap.wav
+448,192,118101,1,0,0:0:0:25:Cymbol2.wav
+192,192,118291,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,118291,1,0,0:0:0:0:
+64,192,118481,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,118481,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,118575,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,118575,1,0,0:0:0:0:
+64,192,118670,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,118670,1,0,0:0:0:0:
+192,192,118860,1,0,0:0:0:50:soft-hitclap.wav
+448,192,118860,1,0,0:0:0:25:Cymbol2.wav
+64,192,118860,128,0,119050:0:0:0:45:LR2_HatSF.wav
+448,192,119050,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,119050,1,0,0:0:0:0:
+64,192,119240,128,0,119430:0:0:0:45:LR2_HatSF.wav
+192,192,119430,128,0,119620:0:0:0:70:LR_Kick Hard Fast.wav
+320,192,119430,1,0,0:0:0:0:
+448,192,119525,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,119620,1,0,0:0:0:50:soft-hitclap.wav
+64,192,119620,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,119810,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,119810,128,0,120000:0:0:0:0:
+448,192,120000,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,120000,1,0,0:0:0:25:Cymbol2.wav
+192,192,120094,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,120094,1,0,0:0:0:0:
+448,192,120189,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,120189,1,0,0:0:0:0:
+448,192,120379,1,0,0:0:0:50:soft-hitclap.wav
+192,192,120379,128,0,120569:0:0:0:45:LR2_HatSF.wav
+64,192,120379,1,0,0:0:0:25:Cymbol2.wav
+320,192,120569,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,120569,1,0,0:0:0:0:
+192,192,120759,1,0,0:0:0:25:Cymbol2.wav
+448,192,120949,128,0,121139:0:0:0:70:LR_Kick Hard Fast.wav
+64,192,120949,1,0,0:0:0:0:
+192,192,121044,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,121139,1,0,0:0:0:50:soft-hitclap.wav
+64,192,121139,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,121329,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,121329,1,0,0:0:0:0:
+192,192,121518,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,121518,1,0,0:0:0:50:soft-hitfinish.wav
+448,192,121613,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,121613,1,0,0:0:0:0:
+192,192,121708,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,121708,1,0,0:0:0:0:
+448,192,121898,128,0,122088:0:0:0:50:soft-hitclap.wav
+320,192,121898,1,0,0:0:0:25:Cymbol2.wav
+64,192,121898,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,122088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,122088,1,0,0:0:0:0:
+448,192,122278,128,0,122468:0:0:0:45:LR2_HatSF.wav
+320,192,122468,128,0,122658:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,122468,1,0,0:0:0:0:
+448,192,122563,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,122658,1,0,0:0:0:50:soft-hitclap.wav
+64,192,122658,1,0,0:0:0:25:Cymbol2.wav
+448,192,122848,128,0,123037:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,122848,1,0,0:0:0:0:
+64,192,123037,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,123037,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,123132,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,123132,1,0,0:0:0:0:
+64,192,123227,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,123227,1,0,0:0:0:0:
+192,192,123417,128,0,123607:0:0:0:50:soft-hitclap.wav
+448,192,123417,1,0,0:0:0:25:Cymbol2.wav
+320,192,123417,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,123607,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,123607,1,0,0:0:0:0:
+320,192,123797,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,123987,128,0,124177:0:0:0:70:LR_Kick Hard Fast.wav
+192,192,123987,1,0,0:0:0:0:
+448,192,124082,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,124177,1,0,0:0:0:50:soft-hitclap.wav
+192,192,124177,1,0,0:0:0:25:Cymbol2.wav
+64,192,124367,1,0,0:0:0:30:LR_RevCyLGLH.wav
+448,192,124367,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,124556,1,0,0:0:0:50:soft-hitclap.wav
+64,192,124556,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,124556,1,0,0:0:0:70:ehco3.wav
+448,192,124651,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,124746,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,124841,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,124936,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,124936,1,0,0:0:0:70:soft-hitclap.wav
+64,192,125031,1,0,0:0:0:50:soft-hitclap.wav
+320,192,125031,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,125126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,125221,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,125316,1,0,0:0:0:50:soft-hitclap.wav
+192,192,125316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,125316,1,0,0:0:0:0:
+448,192,125411,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,125506,1,0,0:0:0:40:soft-hitfinish.wav
+64,192,125506,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,125601,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,125696,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,125791,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,125886,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,125981,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,126075,1,0,0:0:0:50:soft-hitclap.wav
+320,192,126075,1,0,0:0:0:0:
+320,192,126170,1,0,0:0:0:50:soft-hitclap.wav
+448,192,126170,1,0,0:0:0:0:
+64,192,126265,1,0,0:0:0:50:soft-hitclap.wav
+192,192,126265,1,0,0:0:0:0:
+192,192,126360,128,0,126550:0:0:0:50:soft-hitclap.wav
+64,192,126360,1,0,0:0:0:0:
+320,192,126550,1,0,0:0:0:50:soft-hitclap.wav
+448,192,126550,1,0,0:0:0:0:
+192,192,126645,1,0,0:0:0:50:soft-hitclap.wav
+64,192,126645,128,0,126835:0:0:0:0:
+320,192,126740,1,0,0:0:0:50:soft-hitclap.wav
+448,192,126835,1,0,0:0:0:50:soft-hitclap.wav
+192,192,126835,1,0,0:0:0:50:soft-hitfinish.wav
+64,192,127215,1,0,0:0:0:60:Tom02.wav
+192,192,127215,1,0,0:0:0:40:Tom01.wav
+448,192,127594,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,127594,1,0,0:0:0:50:Cymbol2.wav
+320,192,127594,1,0,0:0:0:50:drum-hitfinish.wav
+192,192,127689,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,127784,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,127784,1,0,0:0:0:0:
+64,192,127879,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,127974,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,127974,1,0,0:0:0:70:soft-hitclap.wav
+320,192,127974,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,128069,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,128164,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,128164,1,0,0:0:0:0:
+320,192,128259,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,128354,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,128354,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,128449,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,128544,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,128544,1,0,0:0:0:0:
+192,192,128639,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,128734,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,128734,1,0,0:0:0:70:soft-hitclap.wav
+64,192,128734,1,0,0:0:0:25:Cymbol2.wav
+192,192,128829,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,128924,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,128924,1,0,0:0:0:0:
+64,192,129018,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,129113,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,129113,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,129208,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,129303,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,129303,1,0,0:0:0:0:
+448,192,129398,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,129493,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,129493,1,0,0:0:0:70:soft-hitclap.wav
+320,192,129493,1,0,0:0:0:25:Cymbol2.wav
+448,192,129588,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,129683,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,129683,1,0,0:0:0:0:
+192,192,129778,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,129873,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,129873,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,129968,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,130063,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,130063,1,0,0:0:0:0:
+320,192,130158,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,130253,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,130253,1,0,0:0:0:70:soft-hitclap.wav
+192,192,130253,1,0,0:0:0:25:Cymbol2.wav
+320,192,130348,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,130443,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,130443,1,0,0:0:0:0:
+448,192,130537,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,130632,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,130632,1,0,0:0:0:25:Cymbol2.wav
+64,192,130727,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,130822,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,130822,1,0,0:0:0:0:
+192,192,130917,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,131012,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,131012,1,0,0:0:0:70:soft-hitclap.wav
+64,192,131012,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,131107,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,131202,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,131202,1,0,0:0:0:0:
+320,192,131297,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,131392,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,131392,1,0,0:0:0:25:Cymbol2.wav
+448,192,131487,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,131582,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,131582,1,0,0:0:0:0:
+64,192,131677,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,131772,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,131772,1,0,0:0:0:70:soft-hitclap.wav
+192,192,131772,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,131867,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,131962,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,131962,1,0,0:0:0:0:
+192,192,132056,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,132151,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,132151,1,0,0:0:0:25:Cymbol2.wav
+192,192,132246,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,132341,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,132341,1,0,0:0:0:0:
+448,192,132436,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,132531,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,132531,1,0,0:0:0:70:soft-hitclap.wav
+64,192,132531,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,132626,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,132721,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,132721,1,0,0:0:0:0:
+64,192,132816,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,132911,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,132911,1,0,0:0:0:25:Cymbol2.wav
+320,192,133006,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,133101,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,133101,1,0,0:0:0:0:
+192,192,133196,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,133291,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,133291,1,0,0:0:0:70:soft-hitclap.wav
+448,192,133386,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,133386,1,0,0:0:0:70:soft-hitclap.wav
+192,192,133481,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,133481,1,0,0:0:0:70:soft-hitclap.wav
+192,192,133575,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,133575,1,0,0:0:0:70:soft-hitclap.wav
+448,192,133670,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,133670,1,0,0:0:0:50:Cymbol2.wav
+192,192,133765,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,133860,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,133860,1,0,0:0:0:0:
+320,192,133955,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,134050,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,134050,1,0,0:0:0:70:soft-hitclap.wav
+64,192,134050,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,134145,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,134240,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,134240,1,0,0:0:0:0:
+448,192,134335,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,134430,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,134430,1,0,0:0:0:25:Cymbol2.wav
+64,192,134525,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,134620,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,134620,1,0,0:0:0:0:
+192,192,134715,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,134810,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,134810,1,0,0:0:0:70:soft-hitclap.wav
+448,192,134810,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,134905,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,135000,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,135000,1,0,0:0:0:0:
+320,192,135094,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,135189,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,135189,1,0,0:0:0:25:Cymbol2.wav
+320,192,135284,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,135379,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,135379,1,0,0:0:0:0:
+64,192,135474,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,135569,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,135569,1,0,0:0:0:70:soft-hitclap.wav
+320,192,135569,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,135664,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,135759,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,135759,1,0,0:0:0:0:
+192,192,135854,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,135949,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,135949,1,0,0:0:0:25:Cymbol2.wav
+448,192,136044,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,136139,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,136139,1,0,0:0:0:0:
+448,192,136234,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,136329,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,136329,1,0,0:0:0:70:soft-hitclap.wav
+64,192,136329,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,136424,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,136518,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,136518,1,0,0:0:0:0:
+64,192,136613,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,136708,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,136708,1,0,0:0:0:25:Cymbol2.wav
+192,192,136803,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,136898,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,136898,1,0,0:0:0:0:
+192,192,136993,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,137088,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,137088,1,0,0:0:0:70:soft-hitclap.wav
+320,192,137088,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,137183,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,137278,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,137278,1,0,0:0:0:0:
+448,192,137373,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,137468,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,137468,1,0,0:0:0:25:Cymbol2.wav
+64,192,137563,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,137658,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,137658,1,0,0:0:0:0:
+320,192,137753,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,137848,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,137848,1,0,0:0:0:70:soft-hitclap.wav
+64,192,137848,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,137943,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,138037,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,138037,1,0,0:0:0:0:
+192,192,138132,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,138227,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,138227,1,0,0:0:0:25:Cymbol2.wav
+192,192,138322,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,138417,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,138417,1,0,0:0:0:0:
+64,192,138512,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,138607,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,138607,1,0,0:0:0:70:soft-hitclap.wav
+192,192,138607,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,138702,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,138797,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,138797,1,0,0:0:0:0:
+320,192,138892,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,138987,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,138987,1,0,0:0:0:25:Cymbol2.wav
+448,192,139082,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,139177,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,139177,1,0,0:0:0:0:
+192,192,139272,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,139367,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,139367,1,0,0:0:0:70:soft-hitclap.wav
+320,192,139367,1,0,0:0:0:30:Tom02.wav
+192,192,139462,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,139556,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,139556,1,0,0:0:0:70:soft-hitclap.wav
+320,192,139556,1,0,0:0:0:30:Tom02.wav
+192,192,139651,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,139746,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,139746,1,0,0:0:0:50:Cymbol2.wav
+64,192,139841,1,0,0:0:0:0:
+192,192,139936,1,0,0:0:0:0:
+320,192,140031,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,140126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,140126,1,0,0:0:0:70:soft-hitclap.wav
+448,192,140126,1,0,0:0:0:35:Cymbol.wav
+320,192,140221,1,0,0:0:0:0:
+64,192,140316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,140316,1,0,0:0:0:0:
+192,192,140411,1,0,0:0:0:0:
+64,192,140506,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,140506,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,140601,1,0,0:0:0:0:
+320,192,140696,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,140696,1,0,0:0:0:0:
+64,192,140791,1,0,0:0:0:0:
+448,192,140886,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,140886,1,0,0:0:0:70:soft-hitclap.wav
+192,192,140886,1,0,0:0:0:35:Cymbol.wav
+64,192,140981,1,0,0:0:0:0:
+192,192,141075,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,141075,1,0,0:0:0:0:
+448,192,141170,1,0,0:0:0:0:
+64,192,141265,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,141265,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,141360,1,0,0:0:0:0:
+192,192,141455,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,141455,1,0,0:0:0:0:
+64,192,141550,1,0,0:0:0:0:
+320,192,141645,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,141645,1,0,0:0:0:70:soft-hitclap.wav
+192,192,141645,1,0,0:0:0:35:Cymbol.wav
+64,192,141740,1,0,0:0:0:0:
+448,192,141835,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,141835,1,0,0:0:0:0:
+192,192,141930,1,0,0:0:0:0:
+320,192,142025,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,142025,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,142120,1,0,0:0:0:0:
+64,192,142215,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,142215,1,0,0:0:0:0:
+448,192,142310,1,0,0:0:0:0:
+320,192,142405,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,142405,1,0,0:0:0:70:soft-hitclap.wav
+192,192,142405,1,0,0:0:0:35:Cymbol.wav
+448,192,142500,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,142594,1,0,0:0:0:0:
+64,192,142689,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,142689,1,0,0:0:0:0:
+192,192,142784,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,142784,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,142879,1,0,0:0:0:0:
+320,192,142974,1,0,0:0:0:0:
+192,192,143069,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,143164,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,143164,1,0,0:0:0:70:soft-hitclap.wav
+64,192,143164,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,143259,1,0,0:0:0:0:
+64,192,143354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,143354,1,0,0:0:0:0:
+320,192,143449,1,0,0:0:0:0:
+192,192,143544,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,143544,1,0,0:0:0:35:Cymbol.wav
+448,192,143639,1,0,0:0:0:0:
+320,192,143734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,143734,1,0,0:0:0:0:
+64,192,143829,1,0,0:0:0:0:
+320,192,143924,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,143924,1,0,0:0:0:70:soft-hitclap.wav
+192,192,143924,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,144018,1,0,0:0:0:0:
+448,192,144113,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,144113,1,0,0:0:0:0:
+192,192,144208,1,0,0:0:0:0:
+320,192,144303,1,0,0:0:0:40:soft-hitclap.wav
+64,192,144303,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,144303,1,0,0:0:0:0:
+448,192,144398,1,0,0:0:0:40:soft-hitclap.wav
+320,192,144398,1,0,0:0:0:0:
+192,192,144493,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,144588,1,0,0:0:0:50:Tom01.wav
+448,192,144683,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,144778,1,0,0:0:0:50:Tom02.wav
+192,192,144873,1,0,0:0:0:40:soft-hitclap.wav
+64,192,144873,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,144873,1,0,0:0:0:0:
+64,192,144968,1,0,0:0:0:40:soft-hitclap.wav
+192,192,144968,1,0,0:0:0:0:
+320,192,145063,1,0,0:0:0:50:Cymbol2.wav
+448,192,145158,1,0,0:0:0:0:
+192,192,145253,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,145348,1,0,0:0:0:0:
+448,192,145443,1,0,0:0:0:70:soft-hitclap.wav
+64,192,145443,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,145443,1,0,0:0:0:70:soft-hitfinish.wav
+320,192,145537,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,145632,1,0,0:0:0:0:
+448,192,145727,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,145727,1,0,0:0:0:0:
+64,192,145822,1,0,0:0:0:50:Cymbol.wav
+192,192,145822,1,0,0:0:0:50:Cymbol2.wav
+448,192,145917,1,0,0:0:0:0:
+320,192,146012,1,0,0:0:0:0:
+192,192,146107,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,146202,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,146202,1,0,0:0:0:70:soft-hitclap.wav
+448,192,146202,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,146297,1,0,0:0:0:0:
+320,192,146392,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,146392,1,0,0:0:0:0:
+448,192,146487,1,0,0:0:0:0:
+192,192,146582,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,146582,1,0,0:0:0:35:Cymbol.wav
+448,192,146677,1,0,0:0:0:0:
+192,192,146772,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,146772,1,0,0:0:0:0:
+64,192,146867,1,0,0:0:0:0:
+192,192,146962,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,146962,1,0,0:0:0:70:soft-hitclap.wav
+448,192,146962,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,147056,1,0,0:0:0:0:
+448,192,147151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,147151,1,0,0:0:0:0:
+320,192,147246,1,0,0:0:0:0:
+448,192,147341,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,147341,1,0,0:0:0:35:Cymbol.wav
+192,192,147436,1,0,0:0:0:0:
+320,192,147531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,147531,1,0,0:0:0:0:
+448,192,147626,1,0,0:0:0:0:
+64,192,147721,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,147721,1,0,0:0:0:70:soft-hitclap.wav
+192,192,147721,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,147816,1,0,0:0:0:0:
+192,192,147911,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,147911,1,0,0:0:0:0:
+64,192,148006,1,0,0:0:0:0:
+320,192,148101,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,148101,1,0,0:0:0:35:Cymbol.wav
+192,192,148196,1,0,0:0:0:0:
+448,192,148291,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,148291,1,0,0:0:0:0:
+192,192,148386,1,0,0:0:0:0:
+320,192,148481,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,148481,1,0,0:0:0:70:soft-hitclap.wav
+64,192,148481,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,148575,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,148670,1,0,0:0:0:0:
+64,192,148765,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,148765,1,0,0:0:0:0:
+320,192,148860,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,148860,1,0,0:0:0:35:Cymbol.wav
+64,192,148955,1,0,0:0:0:0:
+448,192,149050,1,0,0:0:0:0:
+320,192,149145,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,149240,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,149240,1,0,0:0:0:70:soft-hitclap.wav
+64,192,149240,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,149335,1,0,0:0:0:0:
+192,192,149430,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,149430,1,0,0:0:0:0:
+64,192,149525,1,0,0:0:0:0:
+320,192,149620,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,149620,1,0,0:0:0:35:Cymbol.wav
+448,192,149715,1,0,0:0:0:0:
+64,192,149810,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,149810,1,0,0:0:0:0:
+192,192,149905,1,0,0:0:0:0:
+448,192,150000,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,150000,1,0,0:0:0:70:soft-hitclap.wav
+64,192,150000,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,150094,1,0,0:0:0:0:
+64,192,150189,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,150189,1,0,0:0:0:0:
+192,192,150284,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,150284,1,0,0:0:0:0:
+448,192,150379,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,150379,1,0,0:0:0:50:soft-hitfinish.wav
+320,192,150379,1,0,0:0:0:70:soft-hitclap.wav
+192,192,150474,1,0,0:0:0:0:
+320,192,150569,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,150569,1,0,0:0:0:0:
+192,192,150664,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,150664,1,0,0:0:0:0:
+320,192,150759,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,150759,1,0,0:0:0:50:soft-hitfinish.wav
+64,192,150759,1,0,0:0:0:70:soft-hitclap.wav
+192,192,150854,1,0,0:0:0:0:
+64,192,150949,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,150949,1,0,0:0:0:0:
+448,192,151044,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,151044,1,0,0:0:0:0:
+320,192,151139,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,151139,1,0,0:0:0:70:soft-hitclap.wav
+448,192,151234,1,0,0:0:0:70:soft-hitclap.wav
+64,192,151234,1,0,0:0:0:0:
+192,192,151329,1,0,0:0:0:70:soft-hitclap.wav
+320,192,151329,1,0,0:0:0:0:
+448,192,151424,1,0,0:0:0:70:soft-hitclap.wav
+64,192,151424,1,0,0:0:0:0:
+320,192,151518,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,151518,1,0,0:0:0:70:soft-hitclap.wav
+320,192,151708,1,0,0:0:0:70:soft-hitclap.wav
+64,192,151708,1,0,0:0:0:0:
+448,192,151708,1,0,0:0:0:0:
+192,192,151898,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,151898,1,0,0:0:0:50:Cymbol2.wav
+64,192,151993,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,151993,1,0,0:0:0:0:
+192,192,152088,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,152088,1,0,0:0:0:0:
+64,192,152183,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,152183,1,0,0:0:0:0:
+192,192,152278,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,152278,1,0,0:0:0:25:Cymbol2.wav
+64,192,152373,1,0,0:0:0:0:
+320,192,152468,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,152468,1,0,0:0:0:0:
+192,192,152563,1,0,0:0:0:0:
+64,192,152658,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,152658,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,152753,1,0,0:0:0:0:
+64,192,152848,128,0,153037:0:0:0:70:soft-hitclap.wav
+192,192,152848,1,0,0:0:0:0:
+320,192,152848,1,0,0:0:0:0:
+192,192,153037,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,153037,1,0,0:0:0:25:Cymbol2.wav
+64,192,153132,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,153132,1,0,0:0:0:0:
+192,192,153227,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,153227,1,0,0:0:0:0:
+320,192,153322,1,0,0:0:0:0:
+64,192,153417,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,153417,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,153512,1,0,0:0:0:0:
+64,192,153607,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,153607,1,0,0:0:0:0:
+64,192,153702,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,153702,1,0,0:0:0:0:
+192,192,153797,1,0,0:0:0:25:Cymbol2.wav
+64,192,153892,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,153892,1,0,0:0:0:0:
+448,192,153987,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,153987,1,0,0:0:0:0:
+64,192,154082,1,0,0:0:0:0:
+192,192,154177,1,0,0:0:0:70:soft-hitclap.wav
+320,192,154177,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,154177,1,0,0:0:0:25:Cymbol2.wav
+64,192,154272,1,0,0:0:0:0:
+448,192,154367,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,154367,1,0,0:0:0:0:
+64,192,154462,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,154462,1,0,0:0:0:0:
+448,192,154556,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,154556,1,0,0:0:0:25:Cymbol2.wav
+320,192,154651,1,0,0:0:0:0:
+448,192,154746,128,0,154936:0:0:0:70:soft-hitclap.wav
+64,192,154746,1,0,0:0:0:0:
+192,192,154746,1,0,0:0:0:0:
+64,192,154936,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,154936,1,0,0:0:0:50:Cymbol.wav
+448,192,155031,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,155031,1,0,0:0:0:0:
+64,192,155126,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,155126,1,0,0:0:0:0:
+448,192,155221,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,155221,1,0,0:0:0:0:
+64,192,155316,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,155316,1,0,0:0:0:25:Cymbol2.wav
+448,192,155411,1,0,0:0:0:0:
+192,192,155506,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,155506,1,0,0:0:0:0:
+64,192,155601,1,0,0:0:0:0:
+192,192,155696,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,155696,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,155791,1,0,0:0:0:0:
+64,192,155886,128,0,156075:0:0:0:70:soft-hitclap.wav
+192,192,155886,1,0,0:0:0:0:
+448,192,155886,1,0,0:0:0:0:
+192,192,156075,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,156075,1,0,0:0:0:25:Cymbol2.wav
+64,192,156170,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,156170,1,0,0:0:0:0:
+192,192,156265,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,156265,1,0,0:0:0:0:
+64,192,156360,1,0,0:0:0:0:
+320,192,156455,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,156455,1,0,0:0:0:25:Cymbol2.wav
+192,192,156550,1,0,0:0:0:0:
+64,192,156645,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,156645,1,0,0:0:0:0:
+320,192,156740,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,156740,1,0,0:0:0:0:
+64,192,156835,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,156930,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,156930,1,0,0:0:0:0:
+192,192,157025,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,157025,1,0,0:0:0:0:
+448,192,157120,1,0,0:0:0:0:
+320,192,157215,1,0,0:0:0:70:soft-hitclap.wav
+192,192,157215,1,0,0:0:0:25:Cymbol2.wav
+64,192,157215,1,0,0:0:0:45:LR2_HatSF.wav
+448,192,157310,1,0,0:0:0:0:
+192,192,157405,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,157405,1,0,0:0:0:0:
+64,192,157500,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,157500,1,0,0:0:0:0:
+192,192,157594,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,157594,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,157689,1,0,0:0:0:0:
+448,192,157784,1,0,0:0:0:70:soft-hitclap.wav
+192,192,157784,128,0,157974:0:0:0:0:
+320,192,157784,1,0,0:0:0:0:
+64,192,157974,1,0,0:0:0:50:Cymbol.wav
+448,192,157974,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,158069,1,0,0:0:0:40:soft-hitclap.wav
+448,192,158069,1,0,0:0:0:0:
+192,192,158164,1,0,0:0:0:70:soft-hitclap.wav
+64,192,158164,1,0,0:0:0:0:
+320,192,158259,1,0,0:0:0:50:Tom02.wav
+448,192,158354,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,158354,1,0,0:0:0:50:Tom01.wav
+192,192,158449,1,0,0:0:0:50:Tom02.wav
+320,192,158544,1,0,0:0:0:70:soft-hitclap.wav
+448,192,158544,1,0,0:0:0:0:
+64,192,158544,1,0,0:0:0:0:
+192,192,158639,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,158734,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,158734,1,0,0:0:0:40:soft-hitclap.wav
+448,192,158829,1,0,0:0:0:40:soft-hitclap.wav
+192,192,158829,1,0,0:0:0:0:
+320,192,158924,1,0,0:0:0:50:Tom02.wav
+64,192,159018,1,0,0:0:0:50:Tom01.wav
+448,192,159113,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,159113,1,0,0:0:0:70:soft-hitclap.wav
+64,192,159208,1,0,0:0:0:40:soft-hitclap.wav
+320,192,159208,1,0,0:0:0:0:
+64,192,159303,1,0,0:0:0:50:soft-hitfinish.wav
+192,192,159303,1,0,0:0:0:50:Tom01.wav
+448,192,159398,1,0,0:0:0:50:Tom02.wav
+320,192,159493,1,0,0:0:0:45:LR2_HatSF.wav
+192,192,159493,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,159588,1,0,0:0:0:50:Tom01.wav
+448,192,159683,1,0,0:0:0:0:
+192,192,159683,1,0,0:0:0:70:soft-hitclap.wav
+320,192,159778,1,0,0:0:0:0:
+64,192,159778,1,0,0:0:0:70:soft-hitclap.wav
+448,192,159873,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,159968,1,0,0:0:0:70:soft-hitclap.wav
+64,192,159968,1,0,0:0:0:0:
+448,192,160063,1,0,0:0:0:70:soft-hitclap.wav
+320,192,160063,1,0,0:0:0:0:
+192,192,160158,1,0,0:0:0:50:Tom02.wav
+448,192,160253,1,0,0:0:0:40:soft-hitclap.wav
+320,192,160253,1,0,0:0:0:45:LR2_HatSF.wav
+64,192,160253,1,0,0:0:0:0:
+192,192,160348,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,160443,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,160443,1,0,0:0:0:0:
+320,192,160537,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,160632,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,160632,1,0,0:0:0:40:Hihat.wav
+448,192,160727,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,160822,1,0,0:0:0:40:soft-hitclap.wav
+320,192,160822,1,0,0:0:0:0:
+448,192,160917,1,0,0:0:0:40:soft-hitclap.wav
+192,192,160917,1,0,0:0:0:0:
+64,192,161012,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,161107,1,0,0:0:0:40:soft-hitclap.wav
+192,192,161107,1,0,0:0:0:0:
+64,192,161202,1,0,0:0:0:40:soft-hitclap.wav
+448,192,161202,1,0,0:0:0:0:
+320,192,161297,1,0,0:0:0:70:soft-hitclap.wav
+192,192,161297,1,0,0:0:0:0:
+448,192,161392,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,161487,1,0,0:0:0:70:soft-hitclap.wav
+192,192,161487,1,0,0:0:0:0:
+320,192,161582,1,0,0:0:0:70:soft-hitclap.wav
+448,192,161582,1,0,0:0:0:0:
+64,192,161677,1,0,0:0:0:70:soft-hitclap.wav
+192,192,161677,1,0,0:0:0:0:
+320,192,161772,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,161867,1,0,0:0:0:50:Tom02.wav
+192,192,161962,1,0,0:0:0:50:Tom02.wav
+320,192,162056,1,0,0:0:0:50:Tom02.wav
+64,192,162151,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+448,192,162151,1,0,0:0:0:45:LR2_HatSF.wav
+320,192,162246,1,0,0:0:0:50:Tom02.wav
+192,192,162341,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,162436,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,162531,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,162626,1,0,0:0:0:40:soft-hitclap.wav
+448,192,162626,1,0,0:0:0:0:
+192,192,162721,1,0,0:0:0:40:soft-hitclap.wav
+64,192,162721,1,0,0:0:0:0:
+320,192,162816,1,0,0:0:0:40:soft-hitclap.wav
+448,192,162816,1,0,0:0:0:0:
+64,192,162911,1,0,0:0:0:40:soft-hitclap.wav
+192,192,162911,1,0,0:0:0:70:Tom01.wav
+320,192,163006,1,0,0:0:0:50:Tom01.wav
+448,192,163101,1,0,0:0:0:50:Tom02.wav
+192,192,163196,1,0,0:0:0:50:Tom02.wav
+64,192,163291,1,0,0:0:0:50:soft-hitclap.wav
+448,192,163291,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+320,192,163354,1,0,0:0:0:50:soft-hitclap.wav
+192,192,163354,1,0,0:0:0:0:
+64,192,163417,1,0,0:0:0:50:Tom01.wav
+448,192,163481,1,0,0:0:0:50:Tom01.wav
+320,192,163544,1,0,0:0:0:40:Tom02.wav
+192,192,163607,1,0,0:0:0:30:Tom02.wav
+64,192,163670,1,0,0:0:0:50:soft-hitclap.wav
+448,192,163670,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,163734,1,0,0:0:0:50:soft-hitclap.wav
+320,192,163734,1,0,0:0:0:0:
+448,192,163797,1,0,0:0:0:40:Tom01.wav
+64,192,163860,1,0,0:0:0:40:Tom01.wav
+192,192,163924,1,0,0:0:0:40:Tom02.wav
+320,192,163987,1,0,0:0:0:30:Tom02.wav
+448,192,164050,1,0,0:0:0:70:soft-hitfinish.wav
+64,192,164050,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+192,192,164145,1,0,0:0:0:50:soft-hitclap.wav
+320,192,164145,1,0,0:0:0:0:
+448,192,164240,1,0,0:0:0:50:soft-hitclap.wav
+64,192,164240,1,0,0:0:0:0:
+320,192,164335,1,0,0:0:0:50:soft-hitclap.wav
+192,192,164335,1,0,0:0:0:0:
+192,192,164525,1,0,0:0:0:50:soft-hitclap.wav
+448,192,164525,1,0,0:0:0:0:
+320,192,164620,1,0,0:0:0:50:soft-hitclap.wav
+64,192,164620,1,0,0:0:0:0:
+192,192,164715,1,0,0:0:0:50:soft-hitclap.wav
+448,192,164715,1,0,0:0:0:0:
+320,192,164810,1,0,0:0:0:70:LR_Kick Hard Fast.wav
+64,192,164810,1,0,0:0:0:40:Hihat.wav
+448,192,164810,1,0,0:0:0:50:soft-hitclap.wav
+64,192,165569,1,0,0:0:0:70:Cymbol.wav
+448,192,165569,128,0,167468:0:0:0:70:Cymbol2.wav
+320,192,165569,128,0,167468:0:0:0:70:LR_Kick Hard Fast.wav
+64,192,167468,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+448,192,167531,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+64,192,167594,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,167658,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,167721,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+320,192,167784,1,0,0:0:0:50:LR_Kick Hard Fast.wav
+192,192,167848,128,0,168417:0:0:0:70:soft-hitclap.wav
+448,192,167848,128,0,168322:0:0:0:50:Cymbol2.wav
+64,192,167848,128,0,168417:0:0:0:50:drum-hitfinish.wav

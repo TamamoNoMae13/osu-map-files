@@ -1,0 +1,194 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 30
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 1.1
+
+[Metadata]
+Title:Shop
+TitleUnicode:Shop
+Artist:toby fox
+ArtistUnicode:toby fox
+Creator:Froskya
+Version:Easy
+Source:UNDERTALE
+Tags:snowdin shopkeeper chiptune ost videogame "radiation" soundtrack video game electronic music instrumental vgm original sound track revialink casperisapotato
+BeatmapID:3695781
+BeatmapSetID:1801306
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:6.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bun.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,25191,0,"soft-hitwhistle2.wav",70
+Sample,25578,0,"soft-hitwhistle2.wav",70
+Sample,25965,0,"soft-hitwhistle2.wav",70
+Sample,26352,0,"soft-hitwhistle2.wav",70
+Sample,26739,0,"soft-hitwhistle6.wav",70
+Sample,27126,0,"soft-hitwhistle7.wav",70
+Sample,27513,0,"soft-hitwhistle6.wav",70
+Sample,27900,0,"soft-hitwhistle2.wav",70
+Sample,28675,0,"soft-hitwhistle8.wav",70
+Sample,29449,0,"soft-hitwhistle2.wav",70
+Sample,31384,0,"soft-hitwhistle2.wav",70
+Sample,31771,0,"soft-hitwhistle2.wav",70
+Sample,32159,0,"soft-hitwhistle2.wav",70
+Sample,32546,0,"soft-hitwhistle2.wav",70
+Sample,32933,0,"soft-hitwhistle6.wav",70
+Sample,33320,0,"soft-hitwhistle7.wav",70
+Sample,33707,0,"soft-hitwhistle6.wav",70
+Sample,34094,0,"soft-hitwhistle2.wav",70
+Sample,36804,0,"soft-hitwhistle9.wav",70
+Sample,36997,0,"soft-hitwhistle3.wav",70
+Sample,37191,0,"soft-hitwhistle7.wav",70
+Sample,37578,0,"soft-hitwhistle7.wav",70
+Sample,37965,0,"soft-hitwhistle7.wav",70
+Sample,38352,0,"soft-hitwhistle7.wav",70
+Sample,38739,0,"soft-hitwhistle7.wav",70
+Sample,39126,0,"soft-hitwhistle3.wav",70
+Sample,39513,0,"soft-hitwhistle10.wav",70
+Sample,39900,0,"soft-hitwhistle9.wav",70
+Sample,40675,0,"soft-hitwhistle7.wav",70
+Sample,41062,0,"soft-hitwhistle7.wav",70
+Sample,41449,0,"soft-hitwhistle7.wav",70
+Sample,41836,0,"soft-hitwhistle7.wav",70
+Sample,42223,0,"soft-hitwhistle3.wav",70
+Sample,42610,0,"soft-hitwhistle7.wav",70
+Sample,42997,0,"soft-hitwhistle2.wav",70
+Sample,43384,0,"soft-hitwhistle11.wav",70
+Sample,45707,0,"soft-hitwhistle7.wav",70
+Sample,46094,0,"soft-hitwhistle10.wav",70
+Sample,46481,0,"soft-hitwhistle3.wav",70
+
+[TimingPoints]
+30,774.193548387097,4,2,1,40,1,0
+24804,-100,4,2,1,50,0,0
+36804,-100,4,2,1,60,0,0
+45707,-100,4,2,1,50,0,0
+46481,-100,4,2,1,40,0,0
+48031,-100,4,2,1,35,0,0
+
+
+[HitObjects]
+320,192,30,128,2,804:0:0:0:0:
+448,192,1578,1,2,0:0:0:0:
+64,192,1965,1,2,0:0:0:0:
+320,192,2352,1,2,0:0:0:0:
+192,192,2546,1,2,0:0:0:0:
+64,192,2739,1,2,0:0:0:0:
+320,192,3126,128,2,3900:0:0:0:0:
+64,192,3900,1,2,0:0:0:0:
+448,192,4288,1,2,0:0:0:0:
+192,192,4675,128,2,5836:0:0:0:0:
+448,192,6223,128,2,6997:0:0:0:0:
+64,192,7771,1,2,0:0:0:0:
+320,192,8159,1,2,0:0:0:0:
+192,192,8546,1,2,0:0:0:0:
+320,192,8739,1,2,0:0:0:0:
+448,192,8933,1,2,0:0:0:0:
+64,192,9320,128,2,10094:0:0:0:0:
+320,192,10094,1,2,0:0:0:0:
+192,192,10481,1,2,0:0:0:0:
+448,192,10868,128,2,12030:0:0:0:0:
+192,192,12417,128,2,13191:0:0:0:0:
+448,192,13965,1,2,0:0:0:0:
+320,192,14352,1,2,0:0:0:0:
+64,192,14739,1,2,0:0:0:0:
+192,192,14933,1,2,0:0:0:0:
+320,192,15126,1,2,0:0:0:0:
+192,192,15513,128,2,16288:0:0:0:0:
+320,192,16288,1,2,0:0:0:0:
+448,192,16675,1,2,0:0:0:0:
+64,192,17062,128,2,18223:0:0:0:0:
+320,192,18610,128,2,19384:0:0:0:0:
+448,192,20159,1,2,0:0:0:0:
+192,192,20546,1,2,0:0:0:0:
+320,192,20933,1,2,0:0:0:0:
+192,192,21126,1,2,0:0:0:0:
+64,192,21320,1,2,0:0:0:0:
+320,192,21707,128,2,22481:0:0:0:0:
+192,192,22481,1,2,0:0:0:0:
+448,192,22868,1,2,0:0:0:0:
+64,192,23255,128,2,24417:0:0:0:0:
+320,192,24804,1,0,0:0:0:0:
+192,192,24804,1,0,0:0:0:70:soft-hitfinish7.wav
+448,192,25191,1,2,0:0:0:0:
+64,192,25578,1,2,0:0:0:0:
+320,192,25965,1,2,0:0:0:0:
+192,192,26352,128,2,26739:0:0:0:0:
+448,192,26739,1,2,0:0:0:0:
+320,192,27126,128,2,27513:0:0:0:0:
+64,192,27513,1,2,0:0:0:0:
+192,192,27900,128,0,28675:0:0:0:0:
+448,192,27900,1,2,0:0:0:0:
+320,192,28675,128,2,29449:0:0:0:0:
+64,192,29449,128,0,30223:0:0:0:0:
+448,192,29449,1,2,0:0:0:0:
+64,192,30997,1,0,0:0:0:70:soft-hitfinish7.wav
+448,192,30997,1,0,0:0:0:0:
+192,192,31384,1,2,0:0:0:0:
+448,192,31771,1,2,0:0:0:0:
+320,192,32159,1,2,0:0:0:0:
+64,192,32546,128,2,32933:0:0:0:0:
+320,192,32933,1,2,0:0:0:0:
+448,192,33320,128,2,33707:0:0:0:0:
+192,192,33707,1,2,0:0:0:0:
+64,192,34094,1,2,0:0:0:0:
+320,192,34094,128,0,35642:0:0:0:0:
+320,192,36804,5,2,0:0:0:0:
+64,192,37191,5,2,0:0:0:0:
+448,192,37191,1,0,0:0:0:70:soft-hitfinish7.wav
+192,192,37578,1,2,0:0:0:0:
+320,192,37965,1,2,0:0:0:0:
+448,192,38352,1,2,0:0:0:0:
+64,192,38739,1,2,0:0:0:0:
+192,192,38739,1,0,0:0:0:0:
+320,192,39126,1,2,0:0:0:0:
+448,192,39513,1,2,0:0:0:0:
+64,192,39900,1,2,0:0:0:0:
+192,192,40675,1,2,0:0:0:0:
+448,192,40675,1,0,0:0:0:0:
+320,192,41062,1,2,0:0:0:0:
+64,192,41449,1,2,0:0:0:0:
+320,192,41836,1,2,0:0:0:0:
+448,192,41836,1,0,0:0:0:0:
+192,192,42223,1,2,0:0:0:0:
+64,192,42610,1,2,0:0:0:0:
+448,192,42997,1,2,0:0:0:0:
+320,192,43384,128,0,44933:0:0:0:0:
+192,192,43384,1,2,0:0:0:0:
+64,192,44933,1,0,0:0:0:0:
+320,192,45707,1,2,0:0:0:0:
+192,192,46094,1,2,0:0:0:0:
+64,192,46481,128,0,48030:0:0:0:0:
+448,192,46481,1,2,0:0:0:0:
+320,192,48030,128,0,48417:0:0:0:0:
+192,192,48804,128,0,49191:0:0:0:0:
