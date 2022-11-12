@@ -4,4 +4,4 @@ Contains all Ranked and Loved `*.osu` files
 
 # Status
 
-Last mapset ID: [1856730](https://osu.ppy.sh/beatmapsets/1856730#mania/3837960).
+Last mapset ID: [1758135](https://osu.ppy.sh/beatmapsets/1758135#mania/3597959).
