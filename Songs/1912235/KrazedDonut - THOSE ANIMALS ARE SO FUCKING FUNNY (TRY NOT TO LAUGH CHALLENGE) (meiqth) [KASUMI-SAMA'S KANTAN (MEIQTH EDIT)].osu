@@ -1,0 +1,123 @@
+osu file format v14
+
+[General]
+AudioFilename: didyouknowhivielikesmen.mp3
+AudioLeadIn: 0
+PreviewTime: 31
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.6
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:THOSE ANIMALS ARE SO FUCKING FUNNY (TRY NOT TO LAUGH CHALLENGE)
+TitleUnicode:THOSE ANIMALS ARE SO FUCKING FUNNY (TRY NOT TO LAUGH CHALLENGE)
+Artist:KrazedDonut
+ArtistUnicode:KrazedDonut
+Creator:meiqth
+Version:KASUMI-SAMA'S KANTAN (MEIQTH EDIT)
+Source:MOTHER2 ギーグの逆襲
+Tags:novelty kasumi-sama wafer goopert kami no kotoba iWaifu jesus man cv: seth macFarlane earthbound ytpmv family guy english electronic video game music vgm New Age Retro Hippy hippie 鈴木慶一 suzuki keiichi Johnny B. Goode Chuck Berry famicon family computer snes super nintendo entertainment system
+BeatmapID:3948316
+BeatmapSetID:1912235
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,-50,"output.mp4"
+0,0,"Screenshot 2022-12-28 212439.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+21,351.185250219491,5,1,0,69,1,8
+556,351.236645690034,4,1,0,69,1,0
+17415,-100,4,1,0,69,0,1
+33747,-100,4,1,0,69,0,0
+
+
+[HitObjects]
+369,170,556,5,8,0:0:0:0:
+369,170,1960,1,0,0:0:0:0:
+369,170,3014,1,0,0:0:0:0:
+369,170,3365,1,8,0:0:0:0:
+369,170,4068,1,8,0:0:0:0:
+369,170,4770,1,8,0:0:0:0:
+369,170,5122,1,0,0:0:0:0:
+369,170,5473,1,8,0:0:0:0:
+369,170,6175,1,8,0:0:0:0:
+369,170,6527,1,0,0:0:0:0:
+369,170,6878,1,8,0:0:0:0:
+369,170,7229,1,0,0:0:0:0:
+369,170,7580,1,8,0:0:0:0:
+369,170,8985,1,0,0:0:0:0:
+369,170,9336,1,8,0:0:0:0:
+369,170,9688,1,0,0:0:0:0:
+369,170,10039,1,8,0:0:0:0:
+369,170,10390,1,0,0:0:0:0:
+369,170,11093,1,0,0:0:0:0:
+369,170,11795,1,8,0:0:0:0:
+369,170,12146,1,8,0:0:0:0:
+369,170,12498,1,0,0:0:0:0:
+369,170,12849,1,0,0:0:0:0:
+369,170,13551,1,8,0:0:0:0:
+369,170,13902,1,8,0:0:0:0:
+369,170,14254,1,0,0:0:0:0:
+369,170,14956,1,8,0:0:0:0:
+369,170,15307,1,0,0:0:0:0:
+369,170,15659,1,8,0:0:0:0:
+369,170,16010,1,0,0:0:0:0:
+369,170,17415,1,8,0:0:0:0:
+369,170,17766,1,0,0:0:0:0:
+369,170,18117,1,8,0:0:0:0:
+369,170,18469,1,0,0:0:0:0:
+369,170,18820,1,8,0:0:0:0:
+369,170,19522,1,8,0:0:0:0:
+369,170,20225,1,0,0:0:0:0:
+369,170,20576,1,8,0:0:0:0:
+369,170,20927,1,0,0:0:0:0:
+369,170,21278,1,8,0:0:0:0:
+369,170,21630,1,0,0:0:0:0:
+369,170,23035,1,0,0:0:0:0:
+369,170,23386,1,0,0:0:0:0:
+369,170,23737,1,8,0:0:0:0:
+369,170,24088,1,0,0:0:0:0:
+369,170,24440,1,8,0:0:0:0:
+369,170,25142,1,8,0:0:0:0:
+369,170,25845,1,8,0:0:0:0:
+369,170,26196,1,0,0:0:0:0:
+369,170,26547,1,8,0:0:0:0:
+369,170,26898,1,0,0:0:0:0:
+369,170,27249,1,8,0:0:0:0:
+369,170,28654,1,8,0:0:0:0:
+369,170,29006,1,0,0:0:0:0:
+369,170,29357,1,8,0:0:0:0:
+369,170,29708,1,8,0:0:0:0:
+369,170,30059,1,0,0:0:0:0:
+369,170,30762,1,8,0:0:0:0:
+369,170,31464,1,8,0:0:0:0:
+369,170,31816,1,0,0:0:0:0:
+369,170,32167,1,8,0:0:0:0:
+369,170,32518,1,0,0:0:0:0:
+369,170,32869,1,8,0:0:0:0:
+369,170,33572,1,8,0:0:0:0:
